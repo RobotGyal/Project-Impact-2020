@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="img/meteor.jpg" width=200px height=200px alt="Project logo"></a>
+ <img src="img/meteor.jpg" width=300px height=200px alt="Project logo"></a>
 </p>
 
 <h3 align="center">Project Impact</h3>
