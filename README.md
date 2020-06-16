@@ -7,13 +7,12 @@
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![Status](https://img.shields.io/badge/status-up---?style=for-the-badge&logo=appveyor)]()
 
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/RobotGyal/Project-Impact-2020/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/RobotGyal/Project-Impact-2020?style=for-the-badge)]()
 
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/RobotGyal/Project-Impact-2020/pulls)
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![License](https://img.shields.io/github/license/RobotGyal/Project-Impact-2020?style=for-the-badge)]()
 
 </div>
 
