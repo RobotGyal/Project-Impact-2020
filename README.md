@@ -9,9 +9,9 @@
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/RobotGyal/Project-Impact-2020/issues)
 
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/RobotGyal/Project-Impact-2020/pulls)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
@@ -19,7 +19,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> For the 2020 Microsoft Challenge Project. Utilize data science tools and methodoliges to analyze the NASA Meteorite Dataset. The analysis will  be used to form conclusions about frequency, location, and impact. 
     <br> 
 </p>
 
