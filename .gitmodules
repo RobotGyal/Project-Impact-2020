@@ -1,3 +1,6 @@
 [submodule "themes/hugo-theme-ai"]
 	path = themes/hugo-theme-ai
 	url = https://github.com/syui/hugo-theme-air.git
+[submodule "themes/air"]
+	path = themes/air
+	url = https://github.com/syui/hugo-theme-air.git
