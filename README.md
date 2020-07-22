@@ -3,25 +3,24 @@
  <img src="img/meteor.jpg" width=300px height=200px alt="Project logo"></a>
 </p>
 
-<h3 align="center">Project Impact</h3>
-
-<div align="center">
-
-[![Status](https://img.shields.io/badge/status-up---?style=for-the-badge&logo=appveyor)]()
-
-[![License](https://img.shields.io/github/license/RobotGyal/Project-Impact-2020?style=for-the-badge)]()
-
-[![GitHub Issues](https://img.shields.io/github/issues/RobotGyal/Project-Impact-2020?style=for-the-badge)]()
-
-</div>
-
----
+___<h1 align="center">Project Impact</h1>___
 
 <p align="center"> For the 2020 Microsoft Challenge Project.  
    <br>
 This project is to analyze meteor datasets to find frequency, location patterns, and impact. 
     <br> 
 </p>
+
+---
+<div align="center">
+
+[![Status](https://img.shields.io/badge/status-up---?style=for-the-badge&logo=appveyor)]()  
+[![License](https://img.shields.io/github/license/RobotGyal/Project-Impact-2020?style=for-the-badge)]()  
+[![GitHub Issues](https://img.shields.io/github/issues/RobotGyal/Project-Impact-2020?style=for-the-badge)]()
+
+</div>
+
+---
 
 ## 📝 Table of Contents
 
