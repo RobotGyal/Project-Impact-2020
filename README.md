@@ -9,16 +9,17 @@
 
 [![Status](https://img.shields.io/badge/status-up---?style=for-the-badge&logo=appveyor)]()
 
-[![GitHub Issues](https://img.shields.io/github/issues/RobotGyal/Project-Impact-2020?style=for-the-badge)]()
-
-
 [![License](https://img.shields.io/github/license/RobotGyal/Project-Impact-2020?style=for-the-badge)]()
+
+[![GitHub Issues](https://img.shields.io/github/issues/RobotGyal/Project-Impact-2020?style=for-the-badge)]()
 
 </div>
 
 ---
 
-<p align="center"> For the 2020 Microsoft Challenge Project. Utilize data science tools and methodoliges to analyze the NASA Meteorite Dataset. The analysis will  be used to form conclusions about frequency, location, and impact. 
+<p align="center"> For the 2020 Microsoft Challenge Project.  
+   <br>
+This project is to analyze meteor datasets to find frequency, location patterns, and impact. 
     <br> 
 </p>
 
@@ -29,18 +30,18 @@
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
+- [Datasets](#datasets)
+- [Contributing](#contributing)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+For the 2020 Microsoft Challenge Project. Utilize the NASA Meteorite, American Meteor Society, International Meteor Organization, and the Radio Meteor Observing Bulletin datasets . The analysis will be conducted using data science tools and libraries to form conclusions about frequency, location, and impact.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+__Visit the live site at: [Project Impact](https://robotgyal.github.io/Project-Impact-2020/)__
 
 ### Prerequisites
 
@@ -68,46 +69,31 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo.
 
-## 🔧 Running the tests <a name = "tests"></a>
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## 🎈 Usage <a name="usage"></a>
 
 Add notes about how to use the system.
 
-## 🚀 Deployment <a name = "deployment"></a>
+<!-- ## 🚀 Deployment <a name = "deployment"></a>
 
-Add additional notes about how to deploy this on a live system.
+Add additional notes about how to deploy this on a live system. -->
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Python]() - Main coding language
+- [Jupyter Nrotebook]() - Main data science environment
+
+## ⛏️ Datasets Used <a name = "datasets"></a>
+- [NASA]() - ...
+- [IMO]() - ...
+- [AMS]() - ...
+- [RMOB]() - ...
+
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+- [@robotgyal](https://github.com/robotgyal) - Lead Developer, Lead Data Scientist, Project Manager
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
