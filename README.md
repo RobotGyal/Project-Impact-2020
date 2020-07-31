@@ -14,8 +14,12 @@ This project is to analyze meteor datasets to find frequency, location patterns,
 ---
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-up---?style=for-the-badge&logo=appveyor)]()  
-[![License](https://img.shields.io/github/license/RobotGyal/Project-Impact-2020?style=for-the-badge)]()  
+[Live Link](project-impact.space) 
+
+[Presentation](https://www.canva.com/design/DAD0w0GqH7c/QKkt-L1AGj_NY054WHK1aQ/view?utm_content=DAD0w0GqH7c&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+
+[![Status](https://img.shields.io/badge/status-up---?style=for-the-badge&logo=appveyor)]() 
+[![License](https://img.shields.io/github/license/RobotGyal/Project-Impact-2020?style=for-the-badge)]()
 [![GitHub Issues](https://img.shields.io/github/issues/RobotGyal/Project-Impact-2020?style=for-the-badge)]()
 
 </div>
@@ -26,11 +30,9 @@ This project is to analyze meteor datasets to find frequency, location patterns,
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
 - [Datasets](#datasets)
-- [Contributing](#contributing)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
@@ -40,33 +42,7 @@ For the 2020 Microsoft Challenge Project. Utilize the NASA Meteorite, American M
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-__Visit the live site at: [Project Impact](https://robotgyal.github.io/Project-Impact-2020/)__
-
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
+__Visit the live site at: [Project Impact](project-impact.space/)__
 
 
 ## 🎈 Usage <a name="usage"></a>
