@@ -1,0 +1,684 @@
+﻿"Session ID";"Start Date";"Observer ID";"Submitter ID";"Actual Observer Name";"Submitted by";City;Country;Latitude;Longitude;Elevation
+79777;"2020-01-01 03:25:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+79778;"2020-01-01 23:10:00";44;44;"Ulrich Sperberg";"Ulrich Sperberg";Salzwedel;Germany;52.8344444444;11.1755555556;25
+79779;"2020-01-02 02:10:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+79780;"2020-01-02 01:54:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9697900000;14.1350200000;811
+79782;"2020-01-01 23:30:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+79783;"2020-01-03 04:08:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+79785;"2020-01-03 01:30:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9697900000;14.1350200000;811
+79786;"2020-01-03 01:58:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+79794;"2020-01-03 02:25:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+79795;"2020-01-03 18:27:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+79796;"2020-01-03 02:35:00";426;426;"Lovro Pavletic";"Lovro Pavletic";"Santa Cruz de La Palma";Spain;28.7627000000;-17.8907000000;2230
+79797;"2020-01-04 05:45:00";426;426;"Lovro Pavletic";"Lovro Pavletic";"Santa Cruz de la Palma";Spain;28.7600000000;-17.8900000000;2224
+79798;"2020-01-03 23:40:00";7581;7581;"Kolyo Dankov";"Kolyo Dankov";Sofia;Bulgaria;42.7217400000;23.2619900000;563
+79799;"2020-01-04 04:47:00";532;532;"Michel Deconinck";"Michel Deconinck";Artignosc-sur-Verdon;France;43.7040187995;6.0900143042;502
+79800;"2020-01-04 04:05:00";7976;7976;"Hendrik Vandenbruaene";"Hendrik Vandenbruaene";Tielt;Belgium;50.9877369573;3.3209908599;33
+79801;"2020-01-04 05:05:00";7205;7205;"Pierre Bader";"Pierre Bader";Viernau;Germany;50.6666666667;10.5500000000;450
+79802;"2020-01-03 22:50:00";44;44;"Ulrich Sperberg";"Ulrich Sperberg";Röbel/Müritz;Germany;53.3929268987;12.5786203712;80
+79803;"2020-01-04 01:16:00";44;44;"Ulrich Sperberg";"Ulrich Sperberg";Dobbin-Linstow;Germany;53.6164114187;12.3913555153;68
+79804;"2020-01-04 07:30:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+79805;"2020-01-04 07:57:00";399;399;"Howard Edin";"Howard Edin";Eudora;"United States";38.8191666667;-95.0925000000;303
+79806;"2020-01-04 00:36:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Fehrbellin;Germany;52.7928896980;12.7494521160;36
+79807;"2020-01-04 03:30:00";7220;7220;"Frederic Merlin";"Frederic Merlin";"Le Perray en Yvelines";France;48.7000000000;1.8500000000;170
+79808;"2020-01-04 07:45:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+79809;"2020-01-04 01:50:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9697900000;14.1350200000;811
+79810;"2020-01-04 04:00:00";112;112;"Felix Bettonvil";"Felix Bettonvil";"Roque de los Muchachos Observatory, La Palma";Spain;28.7600000000;-17.8802777778;2356
+79812;"2020-01-05 01:55:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208305556;40
+79813;"2020-01-03 16:15:00";85;85;"Shigeo Uchiyama";"Shigeo Uchiyama";Sanmu;Japan;35.5719444444;140.4905555556;4
+79814;"2020-01-04 18:07:00";85;85;"Shigeo Uchiyama";"Shigeo Uchiyama";Sanmu;Japan;35.5719444444;140.4905555556;4
+79815;"2020-01-04 01:51:00";352;352;"Francisco Ocaña González";"Francisco Ocaña González";"Medvedje Brdo";Slovenia;45.9695888889;14.1353583333;811
+79819;"2020-01-04 04:15:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Innlandet;Norway;60.3238929463;10.6433629717;452
+79821;"2020-01-04 04:45:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Innlandet;Norway;60.3238929463;10.6433629717;452
+79822;"2020-01-04 05:15:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Innlandet;Norway;60.3238929463;10.6433629717;452
+79825;"2020-01-05 00:50:00";49;49;"Roland Winkler";"Roland Winkler";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+79826;"2020-01-04 00:40:00";210;210;"Ina Rendtel";"Ina Rendtel";"Fehrbellin, Brandenburg";Germany;52.7927777778;12.7494444444;36
+79828;"2020-01-05 00:45:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+79837;"2020-01-04 03:10:00";7207;7207;"Kai Schultze";"Kai Schultze";"Groß Kreutz";Germany;52.4115000000;12.7850000000;30
+79838;"2020-01-05 08:30:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+79839;"2020-01-01 19:25:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+79840;"2020-01-03 20:24:00";11593;11593;"Alex Scholten";"Alex Scholten";Bussloo;Netherlands;52.2000000000;6.1200000000;5
+79854;"2020-01-07 03:12:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+79855;"2020-01-04 01:00:00";7237;7237;"Branislav Savic";"Branislav Savic";"Leskovice - Valjevo";Serbia;44.1994444444;19.8250000000;560
+79858;"2020-01-03 16:00:00";7854;7854;"Hansub Jung";"Hansub Jung";정선군;"South Korea";37.2021750308;128.6883541944;798
+79859;"2020-01-04 05:25:00";8022;8022;"Pierre Martin";"Pierre Martin";LIslet;Canada;47.0690000000;-70.4039000000;33
+79864;"2020-01-16 20:15:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+79865;"2020-01-19 06:30:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+79872;"2020-01-21 02:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+79873;"2020-01-21 00:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+79875;"2020-01-21 02:10:00";7205;7205;"Pierre Bader";"Pierre Bader";Hoechberg;Germany;49.7833333333;9.8833333333;350
+79876;"2020-01-24 03:40:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Staufen im Breisgau";Germany;47.8853686216;7.7338438456;316
+79877;"2020-01-23 22:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+79878;"2020-01-16 19:18:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+79879;"2020-01-24 20:44:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+79880;"2020-01-24 07:56:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+79881;"2020-01-26 07:57:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+79882;"2020-01-23 10:40:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Cooma;Australia;-36.2520972222;149.0792972222;1069
+79883;"2020-01-25 22:45:00";11678;11678;"Riziele Correa da Silva";"Riziele Correa da Silva";"Balneario Gaivota";Brazil;-29.1344969241;-49.6172277101;11
+79884;"2020-01-25 22:55:00";11678;11678;"Riziele Correa da Silva";"Riziele Correa da Silva";"Balneario Gaivota";Brazil;-29.1344969241;-49.6172277101;11
+79885;"2020-01-27 09:48:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+79886;"2020-01-23 17:15:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Cooma;Australia;-36.2520972222;149.0792972222;1069
+79887;"2020-01-24 10:30:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Charlotte Pass";Australia;-36.4315400000;148.3289100000;1839
+79888;"2020-01-24 16:25:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Charlotte Pass";Australia;-36.4315400000;148.3289100000;1839
+79889;"2020-01-25 16:45:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Old Adaminaby";Australia;-36.0388777778;148.7060083333;1182
+79890;"2020-01-26 10:30:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Manton;Australia;-34.8282242970;149.0423775872;815
+79891;"2020-01-30 10:43:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+79892;"2020-01-31 08:33:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+79893;"2020-02-01 08:45:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+79894;"2020-02-04 01:33:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+79895;"2020-02-04 17:15:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Padstow;Australia;-33.9530333258;151.0372246489;21
+79896;"2020-02-04 11:27:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+79897;"2020-02-04 09:07:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+79898;"2020-01-02 09:36:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+79935;"2020-02-15 17:45:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+79936;"2020-02-20 01:12:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+79937;"2020-02-24 00:45:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+79938;"2020-02-25 20:40:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+79939;"2020-02-27 18:15:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Padstow;Australia;-33.9530333258;151.0372246489;21
+79940;"2020-02-28 17:50:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Padstow;Australia;-33.9530333258;151.0372246489;21
+79941;"2020-02-29 17:15:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Heathcote NP";Australia;-34.1841416667;150.9690027778;245
+79942;"2020-02-29 23:52:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+79943;"2020-03-01 18:20:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Padstow;Australia;-33.9530333258;151.0372246489;21
+79944;"2020-03-04 00:55:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+79945;"2020-02-24 08:26:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+79946;"2020-01-21 10:15:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+79947;"2020-01-25 14:35:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+79948;"2020-01-27 10:55:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+79949;"2020-02-01 15:30:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+79950;"2020-02-19 10:15:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+79951;"2020-02-20 09:55:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+79952;"2020-02-25 12:55:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+79953;"2020-02-28 11:50:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+79954;"2020-02-29 12:25:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+79955;"2020-03-01 13:40:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+79956;"2020-03-02 14:15:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+79957;"2020-03-09 22:30:00";11678;11678;"Riziele Correa da Silva";"Riziele Correa da Silva";"Balneario Gaivota";Brazil;-29.1344969241;-49.6172277101;11
+79958;"2020-01-21 10:15:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+79959;"2020-01-25 14:35:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+79960;"2020-02-02 15:30:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+79961;"2020-02-19 10:15:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+79962;"2020-02-20 09:55:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+79963;"2020-02-25 12:55:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+79964;"2020-02-28 11:50:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+79965;"2020-02-29 12:25:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+79966;"2020-03-12 18:42:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Postdam;Germany;52.4570641621;12.9605279204;32
+79967;"2020-01-21 10:15:00";;8058;"Marindah Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+79968;"2020-01-27 10:55:00";;8058;"Natasha Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+79969;"2020-02-19 13:00:00";;8058;"James Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+79970;"2020-03-13 20:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Bad Kissingen";Germany;50.1788888889;10.0647222222;275
+79971;"2020-03-14 20:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Bad Kissingen";Germany;50.1788888889;10.0647222222;275
+79972;"2020-03-13 20:30:00";210;210;"Ina Rendtel";"Ina Rendtel";"Bad Kissingen";Germany;50.1788888889;10.0647222222;275
+79973;"2020-03-14 20:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Bad Kissingen";Germany;50.1788888889;10.0647222222;275
+79974;"2020-03-17 09:15:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Padstow;Australia;-33.9530333258;151.0372246489;21
+79975;"2020-03-16 19:50:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+79976;"2020-03-17 00:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+79977;"2020-03-18 01:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+79978;"2020-03-17 23:45:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+79979;"2020-03-20 17:45:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Heathcote NP";Australia;-34.1841416667;150.9690027778;245
+79980;"2020-03-22 00:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+79981;"2020-03-21 23:52:00";44;44;"Ulrich Sperberg";"Ulrich Sperberg";Salzwedel;Germany;52.8344444444;11.1755555556;25
+79982;"2020-03-22 06:48:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+79983;"2020-03-21 18:50:00";210;210;"Ina Rendtel";"Ina Rendtel";"Gülper See, Nordseite, Brandenburg";Germany;52.7519444444;12.2725000000;23
+79984;"2020-03-23 00:22:00";44;44;"Ulrich Sperberg";"Ulrich Sperberg";Salzwedel;Germany;52.8344444444;11.1755555556;25
+79985;"2020-03-23 00:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+79986;"2020-03-22 23:38:00";7205;7205;"Pierre Bader";"Pierre Bader";Hoechberg;Germany;49.7833333333;9.8833333333;350
+79987;"2020-03-22 21:15:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+79988;"2020-03-24 00:22:00";44;44;"Ulrich Sperberg";"Ulrich Sperberg";Salzwedel;Germany;52.8344444444;11.1755555556;25
+79989;"2020-03-24 00:42:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208305556;40
+79991;"2020-03-24 00:13:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+79992;"2020-03-23 23:15:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+79993;"2020-03-25 00:18:00";44;44;"Ulrich Sperberg";"Ulrich Sperberg";Salzwedel;Germany;52.8344444444;11.1755555556;25
+79994;"2020-03-25 00:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+79995;"2020-03-25 00:40:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+79996;"2020-03-21 21:00:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+79997;"2020-03-25 06:38:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+79998;"2020-03-25 19:53:00";44;44;"Ulrich Sperberg";"Ulrich Sperberg";Salzwedel;Germany;52.8344444444;11.1755555556;25
+80001;"2020-03-26 00:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80002;"2020-03-26 00:55:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80003;"2020-03-21 00:39:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842400000;5.6110100000;11
+80004;"2020-03-22 01:03:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842400000;5.6110100000;11
+80005;"2020-03-23 01:00:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842400000;5.6110100000;11
+80006;"2020-03-24 23:05:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80007;"2020-03-26 06:55:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+80008;"2020-03-26 19:01:00";44;44;"Ulrich Sperberg";"Ulrich Sperberg";Salzwedel;Germany;52.8344444444;11.1755555556;25
+80009;"2020-03-25 21:10:00";210;210;"Ina Rendtel";"Ina Rendtel";"Gülper See, Nordseite, Brandenburg";Germany;52.7519444444;12.2725000000;23
+80011;"2020-03-24 22:20:00";11678;11678;"Riziele Correa da Silva";"Riziele Correa da Silva";"Balneario Gaivota";Brazil;-29.1344969241;-49.6172277101;11
+80012;"2020-03-26 01:10:00";11678;11678;"Riziele Correa da Silva";"Riziele Correa da Silva";"Balneario Gaivota";Brazil;-29.1344969241;-49.6172277101;11
+80021;"2020-03-27 23:48:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Werder (Havel)";Germany;52.4473797087;12.9210290459;40
+80022;"2020-03-27 23:30:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80041;"2020-03-27 09:15:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Tallong;Australia;-34.7460638901;150.0574529171;611
+80042;"2020-03-28 10:00:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Grabben Gullen";Australia;-34.5646997207;149.4444405084;961
+80046;"2020-03-28 00:37:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842400000;5.6110100000;11
+80049;"2020-03-29 23:35:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Töplitz;Germany;52.4475000000;12.9211111111;41
+80051;"2020-03-29 23:10:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+80056;"2020-03-29 23:45:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80057;"2020-03-30 07:00:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+80058;"2020-03-29 16:00:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Heathcote NP";Australia;-34.1841416667;150.9690027778;245
+80059;"2020-03-31 00:20:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80060;"2020-03-30 23:45:00";11678;11678;"Riziele Correa da Silva";"Riziele Correa da Silva";"Balneario Gaivota";Brazil;-29.1344969241;-49.6172277101;11
+80064;"2020-03-31 23:50:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80065;"2020-04-01 02:25:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80067;"2020-04-01 01:10:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80068;"2020-03-31 00:44:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842400000;5.6110100000;11
+80069;"2020-04-01 08:40:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+80070;"2020-04-02 02:07:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80071;"2020-04-02 23:15:00";11678;11678;"Riziele Correa da Silva";"Riziele Correa da Silva";"Balneario Gaivota";Brazil;-29.1344969241;-49.6172277101;11
+80088;"2020-04-04 17:00:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Heathcote NP";Australia;-34.1841416667;150.9690027778;245
+80100;"2020-03-14 09:10:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80101;"2020-03-15 11:05:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80102;"2020-03-16 10:15:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80103;"2020-03-17 10:40:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80104;"2020-03-18 09:25:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80105;"2020-03-19 09:35:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80106;"2020-03-20 11:20:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80107;"2020-03-21 09:55:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80108;"2020-03-22 09:25:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80109;"2020-03-23 09:45:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80110;"2020-03-27 09:45:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80111;"2020-03-28 12:15:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80112;"2020-03-30 13:10:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80113;"2020-03-31 11:30:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80124;"2020-03-14 09:10:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80125;"2020-03-16 10:15:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+80126;"2020-03-17 10:40:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80127;"2020-03-18 10:30:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+80128;"2020-03-19 09:35:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+80129;"2020-03-20 12:20:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+80130;"2020-03-21 11:25:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+80131;"2020-03-22 09:25:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+80132;"2020-03-23 09:45:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+80133;"2020-03-27 11:00:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+80134;"2020-03-28 12:15:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+80135;"2020-03-30 14:20:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80136;"2020-03-31 13:05:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+80137;"2020-03-14 09:10:00";;8058;"Riley Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80138;"2020-03-14 10:15:00";;8058;"Marindah Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80139;"2020-03-18 11:25:00";;8058;"Riley Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80140;"2020-03-18 11:30:00";;8058;"Natasha Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80141;"2020-03-19 09:35:00";;8058;"James Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80142;"2020-03-19 09:35:00";;8058;"Natasha Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80143;"2020-03-20 12:20:00";;8058;"Marindah Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80144;"2020-03-21 09:55:00";;8058;"Natasha Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80145;"2020-03-22 09:55:00";;8058;"Natasha Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80146;"2020-03-23 09:45:00";;8058;"Marindah Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80147;"2020-03-23 09:45:00";;8058;"Natasha Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80148;"2020-03-27 09:45:00";;8058;"Natasha Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80149;"2020-03-31 11:30:00";;8058;"Natasha Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80150;"2020-04-05 18:40:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Padstow;Australia;-33.9530333258;151.0372246489;21
+80151;"2020-04-10 20:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Töplitz;Germany;52.4475000000;12.9211111111;41
+80152;"2020-04-10 19:35:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80153;"2020-04-11 20:45:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Töplitz;Germany;52.4475000000;12.9211111111;41
+80154;"2020-04-11 20:10:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80155;"2020-01-17 00:50:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+80159;"2020-03-15 17:58:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+80160;"2020-03-19 17:39:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+80161;"2020-03-24 18:55:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+80162;"2020-04-12 21:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80163;"2020-04-12 20:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80169;"2020-04-13 21:50:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80170;"2020-04-14 19:45:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Töplitz;Germany;52.4475000000;12.9211111111;41
+80171;"2020-04-14 22:25:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80172;"2020-04-14 20:05:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80173;"2020-04-15 22:16:00";44;44;"Ulrich Sperberg";"Ulrich Sperberg";Salzwedel;Germany;52.8344444444;11.1755555556;25
+80174;"2020-04-15 22:15:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3251677554;10.6486093726;514
+80175;"2020-04-15 23:07:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80176;"2020-04-15 23:25:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80177;"2020-04-13 22:00:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+80178;"2020-04-14 22:00:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+80179;"2020-04-16 08:15:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+80180;"2020-04-15 20:20:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80181;"2020-04-16 06:51:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+80182;"2020-04-16 21:50:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3251677554;10.6486093726;514
+80183;"2020-04-17 01:25:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80184;"2020-04-16 21:30:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80185;"2020-04-17 21:15:00";11836;11836;"Matthias Growe";"Matthias Growe";Schwarzenbek;Germany;53.5000000000;10.4800000000;50
+80186;"2020-04-17 21:35:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3251677554;10.6486093726;514
+80187;"2020-04-17 23:45:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3251677554;10.6486093726;514
+80188;"2020-04-17 23:08:00";44;44;"Ulrich Sperberg";"Ulrich Sperberg";Salzwedel;Germany;52.8344444444;11.1755555556;25
+80189;"2020-04-18 09:30:00";7344;7344;"John Drummond";"John Drummond";Gisborne;"New Zealand";-38.6299000000;177.8833111111;12
+80190;"2020-04-11 20:30:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.1666666667;12.3666666667;114
+80191;"2020-04-16 20:25:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+80192;"2020-04-16 00:22:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842400000;5.6110100000;11
+80193;"2020-04-16 23:55:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80194;"2020-04-17 23:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80195;"2020-04-17 11:15:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Padstow;Australia;-33.9530333258;151.0372246489;21
+80196;"2020-04-18 10:40:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Colo Vale";Australia;-34.3809295265;150.4889763678;605
+80197;"2020-04-18 18:00:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Colo Vale";Australia;-34.3809295265;150.4889763678;605
+80198;"2020-04-18 20:05:00";7519;7519;"Janko Richter";"Janko Richter";Köpenick;Germany;52.4534615443;13.5683611447;37
+80199;"2020-04-18 22:36:00";44;44;"Ulrich Sperberg";"Ulrich Sperberg";Salzwedel;Germany;52.8344444444;11.1755555556;25
+80200;"2020-04-18 21:45:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3251677554;10.6486093726;514
+80201;"2020-04-18 21:14:00";11836;11836;"Matthias Growe";"Matthias Growe";Schwarzenbek;Germany;53.5000000000;10.4800000000;50
+80202;"2020-04-10 21:55:00";11678;11678;"Riziele Correa da Silva";"Riziele Correa da Silva";"Balneario Gaivota";Brazil;-29.1344969241;-49.6172277101;11
+80203;"2020-04-13 21:50:00";11678;11678;"Riziele Correa da Silva";"Riziele Correa da Silva";"Balneario Gaivota";Brazil;-29.1344969241;-49.6172277101;11
+80204;"2020-04-17 22:47:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+80205;"2020-04-18 08:00:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+80206;"2020-04-17 23:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80207;"2020-04-16 20:12:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+80208;"2020-04-17 20:23:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+80209;"2020-04-19 21:35:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3251677554;10.6486093726;514
+80210;"2020-04-18 23:28:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80211;"2020-04-19 22:50:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Töplitz;Germany;52.4475000000;12.9211111111;41
+80212;"2020-04-19 17:30:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+80213;"2020-04-19 22:38:00";44;44;"Ulrich Sperberg";"Ulrich Sperberg";Salzwedel;Germany;52.8344444444;11.1755555556;25
+80214;"2020-04-20 00:47:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80215;"2020-04-20 03:29:00";7710;7710;"Martin Baláž";"Martin Baláž";"Santa Cruz de La Palma";Spain;28.6857062118;-17.7671979004;38
+80216;"2020-03-21 20:42:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+80217;"2020-03-23 19:06:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+80218;"2020-04-11 19:39:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+80219;"2020-04-19 22:50:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+80220;"2020-04-20 06:00:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+80221;"2020-04-14 19:49:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;1
+80222;"2020-04-20 22:28:00";44;44;"Ulrich Sperberg";"Ulrich Sperberg";Salzwedel;Germany;52.8344444444;11.1755555556;25
+80223;"2020-04-20 21:35:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3251677554;10.6486093726;514
+80224;"2020-04-21 00:10:00";7633;7633;"Alexandr Maidik";"Alexandr Maidik";Novotroitske;Ukraine;47.7170400000;37.5574200000;167
+80225;"2020-04-20 22:08:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80226;"2020-04-20 22:08:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Töplitz;Germany;52.4475000000;12.9211111111;41
+80227;"2020-04-20 18:15:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+80228;"2020-04-20 20:35:00";348;348;"Tibor Csorgei";"Tibor Csorgei";Bratislava;Slovakia;48.1682019278;17.1065235508;283
+80229;"2020-04-20 22:23:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+80230;"2020-04-21 06:15:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+80231;"2020-04-18 19:50:00";210;210;"Ina Rendtel";"Ina Rendtel";"Gülper See, Nordseite, Brandenburg";Germany;52.7519444444;12.2725000000;23
+80232;"2020-04-19 23:20:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80233;"2020-04-20 23:05:00";11553;11553;"Roman Kostenko";"Roman Kostenko";Krakow;Poland;50.0567000000;19.8853000000;296
+80234;"2020-04-20 23:10:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80235;"2020-04-21 07:27:00";399;399;"Howard Edin";"Howard Edin";Cassoday;"United States";38.0319444444;-96.4205555556;487
+80236;"2020-04-21 19:00:00";12407;12407;"Dominik  Imrich ";"Dominik  Imrich ";Košice;Slovakia;48.7409394086;21.2991002772;276
+80237;"2020-04-21 19:55:00";7519;7519;"Janko Richter";"Janko Richter";Berlin;Germany;52.4450675806;13.6769153464;40
+80238;"2020-04-21 05:52:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4104644654;-45.5351835695;896
+80239;"2020-04-22 00:10:00";7633;7633;"Alexandr Maidik";"Alexandr Maidik";Novotroitske;Ukraine;47.7170400000;37.5574200000;167
+80240;"2020-04-21 10:30:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Thirlmere;Australia;-34.1862425852;150.5832547158;247
+80241;"2020-04-21 17:08:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Thirlmere;Australia;-34.1862425852;150.5832547158;247
+80242;"2020-04-22 01:00:00";81;81;"Mitja Govedič";"Mitja Govedič";Cankova;Slovenia;46.7211111111;16.0152777778;215
+80243;"2020-04-21 22:44:00";31;31;"André Knöfel";"André Knöfel";Lindenberg;Germany;52.2086111111;14.1222222222;115
+80244;"2020-04-22 00:30:00";12409;12409;"Marc Casoli";"Marc Casoli";NILVANGE;France;49.3404472222;6.0448500000;209
+80245;"2020-04-21 22:34:00";44;44;"Ulrich Sperberg";"Ulrich Sperberg";Salzwedel;Germany;52.8344444444;11.1755555556;25
+80246;"2020-04-21 23:55:00";7726;7726;"Peter van Leuteren";"Peter van Leuteren";Lattrop;Netherlands;52.4150000000;6.9661111111;22
+80247;"2020-04-21 21:25:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg;Germany;49.4202777778;8.7475000000;220
+80248;"2020-04-21 20:40:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Wachow;Germany;52.5030555556;12.7652777778;32
+80249;"2020-04-21 22:07:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80250;"2020-04-21 22:10:00";7415;7415;"Jan Sadiv";"Jan Sadiv";"Nižný Orlík";Slovakia;49.3325839891;21.5335179577;263
+80251;"2020-04-21 23:07:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+80252;"2020-04-22 06:15:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+80253;"2020-04-21 23:48:00";38;38;"Carl Johannink";"Carl Johannink";Denekamp;Netherlands;52.4000000000;7.0000000000;20
+80254;"2020-04-19 06:56:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+80255;"2020-04-21 22:05:00";7121;7121;"Tomasz Adam";"Tomasz Adam";Kraków;Poland;50.0761000000;19.9409900000;217
+80256;"2020-04-20 23:24:00";33;33;"Ralf Koschack";"Ralf Koschack";Lendershagen;Germany;54.2500000000;12.8500000000;13
+80257;"2020-04-21 20:27:00";11836;11836;"Matthias Growe";"Matthias Growe";Schwarzenbek;Germany;53.5000000000;10.4800000000;50
+80258;"2020-04-21 22:42:00";33;33;"Ralf Koschack";"Ralf Koschack";Lendershagen;Germany;54.2500000000;12.8500000000;10
+80259;"2020-04-21 22:10:00";11553;11553;"Roman Kostenko";"Roman Kostenko";Krakow;Poland;50.0567000000;19.8853000000;296
+80260;"2020-04-22 01:26:00";11586;11586;"Patrick Wullaert";"Patrick Wullaert";Châtillon-sur-Loire;France;47.5879000000;2.7400200000;157
+80261;"2020-04-21 21:35:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3251677554;10.6486093726;514
+80262;"2020-04-22 01:30:00";11593;11593;"Alex Scholten";"Alex Scholten";Hall;Netherlands;52.1239429197;6.0632362979;11
+80263;"2020-04-21 20:40:00";210;210;"Ina Rendtel";"Ina Rendtel";Nauen;Germany;52.5028736138;12.7655039416;32
+80264;"2020-04-22 06:05:00";12413;12413;"Stephen Stumpf";"Stephen Stumpf";"Moapa Valley";"United States";36.6664444444;-114.5198333333;536
+80265;"2020-04-22 05:50:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4104644654;-45.5351835695;896
+80266;"2020-04-21 21:30:00";8171;8171;"Frank Enzlein";"Frank Enzlein";Tiefensee;Germany;52.6666666667;13.8500000000;50
+80267;"2020-04-21 23:00:00";12419;12419;"Sven-Erik Enno";"Sven-Erik Enno";Lasva;Estonia;57.8548702676;27.2280751383;101
+80268;"2020-04-22 07:35:00";254;254;"Pete Kozich";"Pete Kozich";Missouri;"United States";39.1741963260;-91.0122715668;232
+80269;"2020-04-22 10:15:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Heathcote NP";Australia;-34.1841416667;150.9690027778;245
+80270;"2020-04-22 18:00:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Heathcote NP";Australia;-34.1841416667;150.9690027778;245
+80271;"2020-04-22 22:30:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4104644654;-45.5351835695;896
+80272;"2020-04-23 00:05:00";7121;7121;"Tomasz Adam";"Tomasz Adam";Kraków;Poland;50.0761000000;19.9409900000;217
+80273;"2020-04-22 08:22:00";8035;8035;"Wesley Stone";"Wesley Stone";Oregon;"United States";42.3980210631;-121.8151765550;1532
+80274;"2020-04-22 05:00:00";504;504;"Paul Zeller";"Paul Zeller";"7426 Gordon Way Indianapolis IN 46237";"United States";39.6597222222;-86.0500555556;255
+80275;"2020-04-21 17:00:00";12423;12423;"SHIVAM UPADHYAY";"SHIVAM UPADHYAY";Balaghat;India;22.1588888889;80.5777777778;557
+80276;"2020-04-20 21:08:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1583333333;11.3916666667;520
+80277;"2020-04-21 22:25:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1583333333;11.3916666667;520
+80278;"2020-04-22 20:24:00";7415;7415;"Jan Sadiv";"Jan Sadiv";"Vyšná Jedľová";Slovakia;49.3432974960;21.5388582359;349
+80279;"2020-04-22 21:24:00";11836;11836;"Matthias Growe";"Matthias Growe";Schwarzenbek;Germany;53.5000000000;10.4800000000;50
+80280;"2020-04-21 23:10:00";7131;7131;"Steve Brown";"Steve Brown";Middlesbrough;"United Kingdom";54.4738888889;-1.1836111111;70
+80281;"2020-04-22 22:10:00";44;44;"Ulrich Sperberg";"Ulrich Sperberg";Salzwedel;Germany;52.8344444444;11.1755555556;25
+80282;"2020-04-22 20:00:00";7519;7519;"Janko Richter";"Janko Richter";Berlin;Germany;52.4450675806;13.6769153464;40
+80283;"2020-04-22 22:00:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80284;"2020-04-23 01:08:00";38;38;"Carl Johannink";"Carl Johannink";Gronau;Germany;52.2144444444;7.0150000000;40
+80285;"2020-04-22 20:00:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg;Germany;49.4202777778;8.7475000000;220
+80286;"2020-04-21 17:00:00";11535;11535;"Sachin bahmba";"Sachin bahmba";Balaghat;India;22.1588888889;80.5777777778;557
+80287;"2020-04-21 18:00:00";11535;11535;"Sachin bahmba";"Sachin bahmba";Kashipur;India;29.1994444444;78.9430555556;231
+80288;"2020-04-22 18:00:00";11535;11535;"Sachin bahmba";"Sachin bahmba";Allahabad;India;25.4355555556;81.8461111111;95
+80289;"2020-04-22 22:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80290;"2020-04-22 22:19:00";33;33;"Ralf Koschack";"Ralf Koschack";Lendershagen;Germany;54.2500000000;12.8500000000;10
+80291;"2020-04-22 23:07:00";11553;11553;"Roman Kostenko";"Roman Kostenko";Krakow;Poland;50.0567000000;19.8853000000;296
+80292;"2020-04-22 20:05:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80293;"2020-04-21 17:15:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+80294;"2020-04-22 19:37:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+80295;"2020-04-22 02:30:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+80296;"2020-04-23 04:55:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4104644654;-45.5351835695;896
+80297;"2020-04-21 20:43:00";7207;7207;"Kai Schultze";"Kai Schultze";Wachow;Germany;52.5030555556;12.7652777778;32
+80298;"2020-04-21 23:00:00";1651;1651;"Jaroslaw Dygos";"Jaroslaw Dygos";"Czernice Borowe";Poland;53.0300000000;20.7200000000;150
+80299;"2020-04-22 21:00:00";7332;7332;"Jiri Konecny";"Jiri Konecny";Medlov;Czechia;49.7832300000;17.0381100000;267
+80300;"2020-04-22 21:00:00";8897;8897;"Marcela Vaclavikova";"Marcela Vaclavikova";Medlov;Czechia;49.7822066010;17.0375931515;270
+80301;"2020-04-24 00:05:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80302;"2020-04-23 23:05:00";1651;1651;"Jaroslaw Dygos";"Jaroslaw Dygos";"Czernice Borowe";Poland;53.0327660000;20.7191320000;150
+80303;"2020-04-21 23:35:00";7591;7591;"Maciej Kwinta";"Maciej Kwinta";Kraków;Poland;50.0215735800;19.9421327351;241
+80304;"2020-04-23 18:00:00";11535;11535;"Sachin bahmba";"Sachin bahmba";Belaghat;India;22.6665972222;80.1500000000;534
+80305;"2020-04-23 18:52:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+80306;"2020-04-23 23:50:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80307;"2020-04-21 22:00:00";7978;7978;"Artyom Novichonok";"Artyom Novichonok";Petrozavodsk;Russia;61.9100280000;34.0079690000;49
+80308;"2020-04-23 21:54:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+80309;"2020-04-19 20:19:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+80310;"2020-04-20 20:13:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+80311;"2020-04-21 20:12:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Steinbach;Germany;51.1900000000;13.6000000000;197
+80312;"2020-04-22 20:12:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+80313;"2020-04-24 09:00:00";7344;7344;"John Drummond";"John Drummond";Gisborne;"New Zealand";-38.6299000000;177.8833111111;12
+80314;"2020-04-22 20:08:00";7322;7322;"Frank Wächter";"Frank Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+80315;"2020-04-24 20:00:00";7519;7519;"Janko Richter";"Janko Richter";Berlin;Germany;52.4450675806;13.6769153464;40
+80316;"2020-04-24 20:05:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80317;"2020-04-24 20:35:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4559615758;12.9606455067;31
+80318;"2020-04-24 22:15:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+80319;"2020-04-19 23:12:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842400000;5.6110100000;11
+80320;"2020-04-21 00:13:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842400000;5.6110100000;11
+80321;"2020-04-21 22:30:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842400000;5.6110100000;11
+80322;"2020-04-22 23:00:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842400000;5.6110100000;11
+80323;"2020-04-26 00:20:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842400000;5.6110100000;11
+80324;"2020-04-21 20:15:00";7413;7413;"Károly Jónás";"Károly Jónás";Tata;Hungary;47.6622301704;18.3901069273;215
+80325;"2020-04-16 10:15:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+80326;"2020-04-22 09:08:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+80327;"2020-04-23 09:45:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+80328;"2020-04-24 10:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+80329;"2020-04-25 09:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+80330;"2020-04-26 09:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+80331;"2020-04-26 11:15:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Padstow;Australia;-33.9530333258;151.0372246489;21
+80332;"2020-04-26 17:30:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Padstow;Australia;-33.9530333258;151.0372246489;21
+80333;"2020-04-26 23:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80334;"2020-04-26 23:25:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842400000;5.6110100000;11
+80335;"2020-04-26 20:15:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80336;"2020-04-20 06:49:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+80337;"2020-04-26 22:30:00";1651;1651;"Jaroslaw Dygos";"Jaroslaw Dygos";"Czernice Borowe";Poland;53.0327660000;20.7191320000;150
+80338;"2020-04-21 22:00:00";12140;12140;"JÁNOS FEKETE";"JÁNOS FEKETE";Felsőzsolca;Hungary;48.1041300000;20.8595400000;113
+80339;"2020-04-24 20:45:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+80340;"2020-04-26 00:30:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+80341;"2020-04-28 00:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80342;"2020-04-28 00:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80343;"2020-04-28 16:20:00";7344;7344;"John Drummond";"John Drummond";Gisborne;"New Zealand";-38.6299000000;177.8833111111;12
+80344;"2020-04-27 22:33:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80345;"2020-04-28 11:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+80346;"2020-04-29 16:15:00";7344;7344;"John Drummond";"John Drummond";Gisborne;"New Zealand";-38.6299000000;177.8833111111;12
+80347;"2020-04-30 00:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80348;"2020-04-29 18:42:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+80349;"2020-04-30 02:14:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+80350;"2020-04-30 10:24:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Padstow;Australia;-33.9530333258;151.0372246489;21
+80351;"2020-04-30 17:50:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Heathcote NP";Australia;-34.1841416667;150.9690027778;245
+80352;"2020-05-01 01:33:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+80353;"2020-04-30 17:40:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+80354;"2020-05-02 02:35:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+80355;"2020-05-02 11:00:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Heathcote NP";Australia;-34.1841416667;150.9690027778;245
+80356;"2020-05-02 16:30:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Heathcote NP";Australia;-34.1841416667;150.9690027778;245
+80357;"2020-05-03 01:30:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+80358;"2020-05-02 16:47:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+80359;"2020-05-03 06:53:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4104644654;-45.5351835695;896
+80360;"2020-05-03 17:10:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Heathcote NP";Australia;-34.1841416667;150.9690027778;245
+80361;"2020-05-04 01:30:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+80362;"2020-05-03 06:15:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+80363;"2020-05-04 06:25:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+80364;"2020-05-04 07:26:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4104644654;-45.5351835695;896
+80365;"2020-05-04 10:58:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+80366;"2020-05-03 00:00:00";7413;7413;"Károly Jónás";"Károly Jónás";Kakucs;Hungary;47.2447126742;19.3886964580;110
+80367;"2020-04-19 23:00:00";115;115;"Thomas Weiland";"Thomas Weiland";Atzelsdorf;Austria;48.5083333333;16.5530555556;220
+80368;"2020-04-20 23:00:00";115;115;"Thomas Weiland";"Thomas Weiland";Atzelsdorf;Austria;48.5083333333;16.5530555556;220
+80369;"2020-04-21 21:30:00";115;115;"Thomas Weiland";"Thomas Weiland";Atzelsdorf;Austria;48.5083333333;16.5530555556;220
+80370;"2020-05-04 17:35:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Marulan;Australia;-34.7050252702;150.0265216827;618
+80371;"2020-05-05 00:58:00";44;44;"Ulrich Sperberg";"Ulrich Sperberg";Salzwedel;Germany;52.8344444444;11.1755555556;25
+80372;"2020-05-05 01:35:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+80373;"2020-05-04 16:30:00";7344;7344;"John Drummond";"John Drummond";Gisborne;"New Zealand";-38.6299000000;177.8833111111;12
+80374;"2020-04-22 22:15:00";115;115;"Thomas Weiland";"Thomas Weiland";Atzelsdorf;Austria;48.5083333333;16.5530555556;220
+80375;"2020-04-23 23:00:00";115;115;"Thomas Weiland";"Thomas Weiland";Atzelsdorf;Austria;48.5083333333;16.5530555556;220
+80376;"2020-05-05 06:35:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+80377;"2020-05-06 01:00:00";44;44;"Ulrich Sperberg";"Ulrich Sperberg";Salzwedel;Germany;52.8344444444;11.1755555556;25
+80378;"2020-05-06 01:57:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+80379;"2020-05-05 18:50:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Padstow;Australia;-33.9530333258;151.0372246489;21
+80380;"2020-05-05 01:10:00";7413;7413;"Károly Jónás";"Károly Jónás";Budapest;Hungary;47.4100003489;19.1139949164;107
+80381;"2020-04-23 06:52:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+80382;"2020-04-24 06:52:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+80383;"2020-05-06 07:29:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4104644654;-45.5351835695;896
+80384;"2020-04-25 06:56:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+80385;"2020-04-26 06:55:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+80386;"2020-05-03 16:58:00";7472;7472;"Gang Li";"Gang Li";Gerroa;Australia;-34.7798406804;150.8220593916;10
+80387;"2020-05-06 01:08:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842400000;5.6110100000;11
+80388;"2020-05-07 01:22:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842400000;5.6110100000;11
+80389;"2020-04-04 09:30:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80390;"2020-04-13 10:20:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80391;"2020-04-14 08:40:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80392;"2020-04-15 10:50:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80393;"2020-04-16 08:40:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80394;"2020-04-18 15:05:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80395;"2020-05-07 07:30:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+80396;"2020-04-19 09:05:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80397;"2020-04-20 12:55:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80398;"2020-04-22 11:50:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80399;"2020-04-23 09:40:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80400;"2020-04-24 10:00:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80401;"2020-04-25 10:00:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80402;"2020-05-05 10:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+80403;"2020-05-06 10:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+80404;"2020-05-07 18:45:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Padstow;Australia;-33.9530333258;151.0372246489;21
+80405;"2020-05-08 02:00:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+80406;"2020-04-26 14:45:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80407;"2020-04-29 09:10:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80408;"2020-05-01 14:15:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80409;"2020-05-02 14:55:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80410;"2020-05-03 16:00:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80411;"2020-05-04 16:45:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80412;"2020-05-05 18:15:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80413;"2020-04-16 08:40:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+80414;"2020-04-19 10:30:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+80415;"2020-04-22 13:00:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+80416;"2020-04-29 09:10:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+80417;"2020-05-04 16:00:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+80418;"2020-05-05 18:15:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+80419;"2020-05-07 01:30:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg;Germany;49.4202777778;8.7475000000;220
+80420;"2020-04-29 07:38:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+80421;"2020-04-12 09:30:00";;8058;"Riley Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80422;"2020-04-13 10:20:00";;8058;"Natasha Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80423;"2020-04-14 08:40:00";;8058;"Natasha Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80424;"2020-04-14 09:50:00";;8058;"Riley Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80425;"2020-04-14 09:00:00";7957;7957;"Ken Marsh";"Ken Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+80426;"2020-04-15 10:50:00";;8058;"Riley Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80427;"2020-04-16 08:40:00";;8058;"Natasha Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80428;"2020-04-16 09:10:00";;8058;"Riley Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80429;"2020-04-16 11:30:00";;8058;"Marindah Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80430;"2020-04-19 09:05:00";;8058;"Riley Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80431;"2020-04-23 09:40:00";;8058;"Natasha Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80432;"2020-04-23 12:05:00";;8058;"James Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80433;"2020-04-24 10:00:00";;8058;"Natasha Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80434;"2020-04-24 11:05:00";;8058;"Riley Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80435;"2020-04-24 13:30:00";;8058;"Marindah Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80436;"2020-04-25 10:30:00";;8058;"James Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80437;"2020-05-02 14:55:00";;8058;"James Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80438;"2020-05-03 16:00:00";;8058;"James Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80439;"2020-05-04 16:45:00";;8058;"James Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80440;"2020-05-08 07:50:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+80441;"2020-05-09 07:50:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+80442;"2020-04-30 09:46:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+80444;"2020-05-01 07:20:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+80445;"2020-05-02 09:33:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+80446;"2020-05-09 18:50:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Padstow;Australia;-33.9530333258;151.0372246489;21
+80447;"2020-05-09 20:25:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Töplitz;Germany;52.4475000000;12.9211111111;41
+80448;"2020-05-03 09:29:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+80449;"2020-05-09 20:30:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80450;"2020-05-10 18:54:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Padstow;Australia;-33.9530333258;151.0372246489;21
+80451;"2020-05-04 09:50:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5690000000;1621
+80452;"2020-05-11 08:35:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80453;"2020-05-11 08:35:00";;8058;"Riley Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80454;"2020-05-11 20:55:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80455;"2020-05-11 20:40:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80456;"2020-05-13 23:50:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842400000;5.6110100000;11
+80457;"2020-05-14 22:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Töplitz;Germany;52.4475000000;12.9211111111;41
+80458;"2020-05-14 22:35:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80459;"2020-04-24 21:23:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+80460;"2020-05-16 23:28:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842400000;5.6110100000;11
+80461;"2020-05-17 21:40:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80462;"2020-05-14 21:30:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+80463;"2020-05-17 23:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80464;"2020-05-18 21:50:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80465;"2020-05-18 21:00:00";11448;11448;"Štěpán Ptáčník";"Štěpán Ptáčník";Medlov;Czechia;49.7821823545;17.0375556005;270
+80466;"2020-05-18 21:00:00";7332;7332;"Jiri Konecny";"Jiri Konecny";Medlov;Czechia;49.7832300000;17.0381100000;267
+80467;"2020-05-18 21:00:00";8337;8337;"Lukas Krejzlik";"Lukas Krejzlik";Medlov;Czechia;49.7821771589;17.0375636472;270
+80468;"2020-05-18 21:00:00";7613;7613;"Katerina Krumpholcova";"Katerina Krumpholcova";Medlov;Czechia;49.7822009323;17.0375336968;270
+80469;"2020-05-18 21:00:00";9945;9945;"Hynek Krejzlik";"Hynek Krejzlik";Medlov;Czechia;49.7822117966;17.0375824226;270
+80470;"2020-05-20 23:55:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80471;"2020-05-17 00:00:00";11678;11678;"Riziele Correa da Silva";"Riziele Correa da Silva";"Balneario Gaivota";Brazil;-29.1344969241;-49.6172277101;11
+80472;"2020-05-21 23:45:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80473;"2020-05-20 21:08:00";210;210;"Ina Rendtel";"Ina Rendtel";"Gülper See, Nordseite, Brandenburg";Germany;52.7519444444;12.2725000000;23
+80474;"2020-05-17 00:10:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+80475;"2020-05-19 01:20:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+80476;"2020-05-20 22:45:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80477;"2020-05-21 22:45:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80478;"2020-05-21 21:20:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80479;"2020-05-22 08:44:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5690000000;1621
+80480;"2020-05-24 08:35:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5690000000;1621
+80481;"2020-05-24 21:30:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80482;"2020-05-21 23:30:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+80483;"2020-05-25 07:50:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5690000000;1621
+80484;"2020-05-25 22:45:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80485;"2020-05-25 22:15:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80486;"2020-05-26 22:12:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80487;"2020-05-26 21:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Töplitz;Germany;52.4475000000;12.9211111111;41
+80488;"2020-05-27 00:17:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80489;"2020-05-26 21:30:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80490;"2020-05-27 09:32:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+80491;"2020-05-29 00:15:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80492;"2020-05-28 23:10:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80493;"2020-05-28 22:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80494;"2020-05-25 21:53:00";214;214;"Koen Miskotte";"Koen Miskotte";"De Cocksdorp";Netherlands;53.1299739564;4.8626134319;0
+80495;"2020-05-27 22:03:00";214;214;"Koen Miskotte";"Koen Miskotte";"De Cocksdorp";Netherlands;53.1299739564;4.8626134319;0
+80496;"2020-05-28 23:35:00";214;214;"Koen Miskotte";"Koen Miskotte";"De Cocksdorp";Netherlands;53.1299739564;4.8626134319;0
+80497;"2020-05-29 23:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80498;"2020-05-31 08:50:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5690000000;1621
+80499;"2020-05-14 10:20:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80500;"2020-05-15 09:20:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80501;"2020-05-17 10:25:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80502;"2020-05-19 10:10:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80503;"2020-05-23 13:35:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80504;"2020-05-24 11:30:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80505;"2020-05-25 13:25:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80506;"2020-05-14 10:20:00";;8058;"James Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80507;"2020-05-14 10:20:00";;8058;"Riley Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80508;"2020-05-15 09:20:00";;8058;"James Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80509;"2020-05-17 10:40:00";;8058;"James Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80510;"2020-05-17 10:40:00";;8058;"Marindah Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80511;"2020-05-17 10:40:00";;8058;"Riley Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80512;"2020-05-19 10:25:00";;8058;"James Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80513;"2020-05-23 13:35:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+80514;"2020-05-26 07:44:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5690000000;1621
+80515;"2020-05-28 09:19:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5690000000;1621
+80516;"2020-05-27 08:22:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5690000000;1621
+80517;"2020-05-21 07:48:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5690000000;1621
+80519;"2020-06-13 06:13:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5690000000;1621
+80520;"2020-06-14 22:05:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80521;"2020-06-14 21:55:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80522;"2020-06-14 05:53:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5690000000;1621
+80524;"2020-06-15 22:03:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80525;"2020-06-15 05:50:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5690000000;1621
+80526;"2020-06-16 05:50:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5690000000;1621
+80527;"2020-06-15 22:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80528;"2020-06-17 06:36:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5690000000;1621
+80529;"2020-06-19 06:21:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5690000000;1621
+80530;"2020-06-20 22:30:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842400000;5.6110100000;11
+80531;"2020-06-20 05:50:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5690000000;1621
+80532;"2020-06-21 22:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80533;"2020-06-21 22:15:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80534;"2020-06-22 22:24:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80535;"2020-06-18 23:50:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80536;"2020-06-22 21:50:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80537;"2020-06-21 05:50:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5690000000;1621
+80538;"2020-06-23 22:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80540;"2020-06-23 22:10:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80541;"2020-06-22 22:10:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80542;"2020-06-23 21:55:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80543;"2020-06-22 06:41:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5690000000;1621
+80550;"2020-06-24 23:00:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80555;"2020-06-24 22:30:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842400000;5.6110100000;11
+80559;"2020-06-25 22:15:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80560;"2020-06-25 21:57:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80561;"2020-06-12 21:45:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg;Germany;49.4202777778;8.7475000000;220
+80562;"2020-06-25 23:00:00";12409;12409;"Marc Casoli";"Marc Casoli";NILVANGE;France;49.3404472222;6.0448500000;209
+80563;"2020-06-25 07:09:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5690000000;1621
+80564;"2020-06-26 21:57:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80565;"2020-06-27 07:38:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5690000000;1621
+80566;"2020-06-27 23:14:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9697900000;14.1350200000;811
+80567;"2020-06-27 22:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80568;"2020-06-29 22:57:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80569;"2020-06-29 23:47:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80570;"2020-06-22 22:00:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+80571;"2020-06-23 22:15:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+80573;"2020-07-01 00:05:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80574;"2020-06-29 18:50:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Padstow;Australia;-33.9530333258;151.0372246489;21
+80575;"2020-06-11 08:25:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80576;"2020-06-12 09:20:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80577;"2020-06-15 09:55:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80578;"2020-06-16 10:15:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80579;"2020-06-17 08:15:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80580;"2020-06-18 12:45:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80581;"2020-06-19 11:10:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80582;"2020-06-22 08:40:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80583;"2020-06-23 09:35:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80584;"2020-06-24 08:50:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80585;"2020-06-25 13:10:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+80586;"2020-06-25 22:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+80587;"2020-06-26 22:20:00";210;210;"Ina Rendtel";"Ina Rendtel";"Mühlberg/Elbe, Brandenburg";Germany;51.4358333333;13.1916666667;88
+80588;"2020-06-18 12:45:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+80589;"2020-06-24 10:20:00";6700;6700;"Jemma Marsh";"Jemma Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+80590;"2020-06-11 08:55:00";;8058;"Riley Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80591;"2020-06-11 08:25:00";;8058;"Marindah Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80592;"2020-06-11 09:50:00";;8058;"James Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80593;"2020-06-15 09:55:00";;8058;"Marindah Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80594;"2020-06-15 11:25:00";;8058;"James Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80595;"2020-06-17 08:15:00";;8058;"Riley Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80596;"2020-06-19 11:40:00";;8058;"Natasha Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80597;"2020-06-22 10:55:00";;8058;"James Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80598;"2020-06-22 10:25:00";;8058;"Natasha Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80599;"2020-06-23 11:45:00";;8058;"Riley Marsh";"Family Marsh";Kooralbyn;Australia;-28.0946293486;152.8343825264;147
+80639;"2020-07-09 23:00:00";7633;7633;"Alexandr Maidik";"Alexandr Maidik";Novotroitske;Ukraine;47.7170400000;37.5574200000;167
+80640;"2020-07-10 22:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80641;"2020-07-11 21:50:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80642;"2020-07-13 21:45:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80643;"2020-07-13 21:55:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;285
+80644;"2020-07-11 21:30:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+80645;"2020-07-12 23:00:00";7633;7633;"Alexandr Maidik";"Alexandr Maidik";Novotroitske;Ukraine;47.7170400000;37.5574200000;167
+80646;"2020-07-16 21:55:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80647;"2020-07-10 22:30:00";210;210;"Ina Rendtel";"Ina Rendtel";"Holzappel, Rheinland-Pfalz";Germany;50.3622222222;7.9016666667;327
+80648;"2020-07-11 21:50:00";210;210;"Ina Rendtel";"Ina Rendtel";"Landgut Girtenmühle, Losheim am See, Saarland";Germany;49.5319444444;6.6888888889;366
+80649;"2020-07-12 21:50:00";210;210;"Ina Rendtel";"Ina Rendtel";"Landgut Girtenmühle, Losheim am See, Saarland";Germany;49.5319444444;6.6888888889;366
+80650;"2020-07-17 21:24:00";44;44;"Ulrich Sperberg";"Ulrich Sperberg";Salzwedel;Germany;52.8344444444;11.1755555556;25
+80651;"2020-07-17 21:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80652;"2020-07-18 22:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80653;"2020-07-19 06:53:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5690000000;1621
+80654;"2020-07-20 21:50:00";44;44;"Ulrich Sperberg";"Ulrich Sperberg";Salzwedel;Germany;52.8344444444;11.1755555556;25
+80655;"2020-07-20 23:45:00";7205;7205;"Pierre Bader";"Pierre Bader";Viernau;Germany;50.6666666667;10.5500000000;450
+80658;"2020-07-20 22:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80659;"2020-07-20 21:54:00";38;38;"Carl Johannink";"Carl Johannink";Gronau;Germany;52.2544444444;7.0694444444;39
+80660;"2020-07-21 21:42:00";44;44;"Ulrich Sperberg";"Ulrich Sperberg";Salzwedel;Germany;52.8344444444;11.1755555556;25
+80661;"2020-07-21 21:45:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80662;"2020-07-20 22:45:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842400000;5.6110100000;11
+80663;"2020-07-21 22:15:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842400000;5.6110100000;11
+80664;"2020-07-20 21:40:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9780800000;14.1165200000;810
+80665;"2020-07-18 21:15:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+80666;"2020-07-21 21:15:00";7205;7205;"Pierre Bader";"Pierre Bader";Viernau;Germany;50.6666666667;10.5500000000;450
+80667;"2020-07-22 22:30:00";7205;7205;"Pierre Bader";"Pierre Bader";Viernau;Germany;50.6666666667;10.5500000000;450
+80668;"2020-07-23 21:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80669;"2020-07-17 21:45:00";210;210;"Ina Rendtel";"Ina Rendtel";"Landgut Girtenmühle, Losheim am See, Saarland";Germany;49.5319444444;6.6888888889;366
+80670;"2020-07-18 21:45:00";210;210;"Ina Rendtel";"Ina Rendtel";"Landgut Girtenmühle, Losheim am See, Saarland";Germany;49.5319444444;6.6888888889;366
+80671;"2020-07-19 21:45:00";210;210;"Ina Rendtel";"Ina Rendtel";"Büdingen, Saarland";Germany;49.4361111111;6.5397222222;376
+80672;"2020-07-20 21:45:00";210;210;"Ina Rendtel";"Ina Rendtel";"Sotzweiler, Saarland";Germany;49.4638888889;6.9841666667;324
+80673;"2020-07-21 21:45:00";210;210;"Ina Rendtel";"Ina Rendtel";"Ommersheim, Mandelbachtal, Saarland";Germany;49.2347222222;7.1572222222;381
+80674;"2020-07-22 21:40:00";210;210;"Ina Rendtel";"Ina Rendtel";"Herborn, Idar-Oberstein, Rheinland-Pfalz";Germany;49.7733333333;7.2888888889;515
+80675;"2020-07-24 21:45:00";210;210;"Ina Rendtel";"Ina Rendtel";"Amt Wachsenburg";Germany;50.8832431044;10.9894251634;262
+80676;"2020-07-24 21:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80677;"2020-07-26 23:12:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+80678;"2020-07-25 21:42:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9697900000;14.1350200000;811
+80679;"2020-07-27 08:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+80680;"2020-07-27 21:57:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9697900000;14.1350200000;811
+80681;"2020-07-26 22:00:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1583333333;11.3916666667;520
+80682;"2020-07-28 21:58:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Töplitz;Germany;52.4475000000;12.9211111111;41
+80683;"2020-07-16 05:54:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5690000000;1621
+80684;"2020-07-18 07:19:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5690000000;1621
+80685;"2020-07-20 06:45:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5690000000;1621
+80686;"2020-07-29 17:00:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Padstow;Australia;-33.9530333258;151.0372246489;21
+80687;"2020-07-18 23:00:00";7633;7633;"Alexandr Maidik";"Alexandr Maidik";Novotroitske;Ukraine;47.7170400000;37.5574200000;167
+80688;"2020-07-29 23:30:00";7633;7633;"Alexandr Maidik";"Alexandr Maidik";Novotroitske;Ukraine;47.7170400000;37.5574200000;167
+80689;"2020-07-29 23:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Töplitz;Germany;52.4475000000;12.9211111111;41
+80690;"2020-07-29 23:33:00";131;131;"Javor Kac";"Javor Kac";Potoče;Slovenia;45.7263887083;14.0254715145;565
+80691;"2020-07-27 18:25:00";7842;7842;"Tamara Tchenak";"Tamara Tchenak";"Shitrit camping";Israel;30.5269444444;34.6283333333;950
+80692;"2020-07-28 20:25:00";7842;7842;"Tamara Tchenak";"Tamara Tchenak";"Shitrit camping";Israel;30.5269444444;34.6283333333;950
+80693;"2020-07-29 22:15:00";7842;7842;"Tamara Tchenak";"Tamara Tchenak";"Shitrit camping";Israel;30.5269444444;34.6283333333;950
+80694;"2020-07-26 18:35:00";7842;7842;"Tamara Tchenak";"Tamara Tchenak";"Shitrit camping";Israel;30.5269444444;34.6283333333;950

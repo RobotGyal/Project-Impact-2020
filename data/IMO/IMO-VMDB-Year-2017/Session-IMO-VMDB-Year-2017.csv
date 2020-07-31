@@ -1,0 +1,1253 @@
+﻿"Session ID";"Start Date";"Observer ID";"Submitter ID";"Actual Observer Name";"Submitted by";City;Country;Latitude;Longitude;Elevation
+74141;"2017-01-01 07:53:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766600000;-103.5960000000;1621
+74143;"2017-01-02 02:31:00";131;131;"Javor Kac";"Javor Kac";Janče;Slovenia;46.0528472069;14.7128892021;771
+74144;"2017-01-02 03:30:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";Roma;Italy;41.9125700000;12.4545700000;24
+74145;"2017-01-02 09:41:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766600000;-103.5960000000;1621
+74147;"2017-01-02 21:05:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563900000;12.9708300000;34
+74150;"2017-01-02 23:10:00";7248;7248;"Rushikesh Tilak";"Rushikesh Tilak";Bengaluru;India;12.9050068056;77.6477737035;896
+74151;"2017-01-02 21:54:00";7274;7274;"Sasha Prokofyev";"Sasha Prokofyev";"Kitemed, Softades beach";Cyprus;34.8172222222;33.5480555556;1
+74153;"2017-01-03 07:46:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74154;"2017-01-04 05:00:00";7207;7207;"Kai Schultze";"Kai Schultze";Berlin;Germany;52.4586111111;13.3530555556;78
+74155;"2017-01-04 04:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563900000;12.9708300000;34
+74157;"2017-01-03 16:15:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";Roma;Italy;41.9125700000;12.4545700000;40
+74158;"2017-01-03 22:10:00";7274;7274;"Sasha Prokofyev";"Sasha Prokofyev";"Kitemed, Softades beach";Cyprus;34.8173970000;33.5480810000;1
+74159;"2017-01-03 21:54:00";7283;7283;"Katie Demetriou";"Katie Demetriou";Softades;Cyprus;34.8173845536;33.5480481085;2
+74161;"2017-01-02 22:10:00";7283;7283;"Katie Demetriou";"Katie Demetriou";Softades;Cyprus;34.8173845536;33.5480481085;2
+74162;"2017-01-04 02:25:00";7236;7236;"Ana Nikolić";"Ana Nikolić";Valjevo;Serbia;44.2466666667;19.9311111111;214
+74169;"2017-01-03 16:50:00";131;131;"Javor Kac";"Javor Kac";Janče;Slovenia;46.0528472069;14.7128892021;771
+74183;"2017-01-04 01:25:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9697250824;14.1351245464;811
+74185;"2017-01-03 05:00:00";526;526;"Richard Fleet";"Richard Fleet";Wilcot;"United Kingdom";51.3500000000;-1.8000000000;130
+74186;"2017-01-04 02:30:00";7287;7287;"Aleksa Tesic";"Aleksa Tesic";Valjevo;Serbia;19.9311111111;44.2466666667;222
+74187;"2017-01-04 02:26:00";7286;7286;"Sara Knežević";"Sara Knežević";Valjevo;Serbia;44.2466666667;19.9311111111;222
+74188;"2017-01-02 01:40:00";7288;7288;"Debora Pavela";"Debora Pavela";Petnica;Serbia;44.2465800000;19.9309700000;217
+74189;"2017-01-04 02:15:00";7285;7285;"Elena Tadić";"Elena Tadić";Petnica;Serbia;44.2466097436;19.9309610875;217
+74190;"2017-01-04 02:40:00";7143;7143;"Dragan Mićić";"Dragan Mićić";Petnica;Serbia;44.2466666667;19.9311111111;222
+74191;"2017-01-02 01:50:00";7243;7243;"David Buzgo";"David Buzgo";Valjevo;Serbia;44.2466666667;19.9311111111;222
+74192;"2017-01-04 02:30:00";7243;7243;"David Buzgo";"David Buzgo";Valjevo;Serbia;44.2466666667;19.9311111111;222
+74193;"2017-01-03 19:00:00";7291;7291;"Mayuresh Desai";"Mayuresh Desai";Mamnoli;India;19.2600000000;73.2997222222;58
+74194;"2017-01-03 17:13:00";85;85;"Shigeo Uchiyama";"Shigeo Uchiyama";Sanmu;Japan;35.5541666667;140.4700000000;3
+74195;"2017-01-04 16:30:00";85;85;"Shigeo Uchiyama";"Shigeo Uchiyama";Sanmu;Japan;35.5541666667;140.4700000000;3
+74196;"2017-01-03 22:00:00";7295;7295;"Mayuresh Prabhune";"Mayuresh Prabhune";Maharashtra;India;18.6225335042;73.5106761057;733
+74197;"2017-01-04 21:58:00";7274;7274;"Sasha Prokofyev";"Sasha Prokofyev";"Kitemed, Softades beach";Cyprus;34.8173870000;33.5480620000;1
+74198;"2017-01-04 21:58:00";7283;7283;"Katie Demetriou";"Katie Demetriou";Softades;Cyprus;34.8173845536;33.5480481085;2
+74199;"2017-01-03 21:00:00";7296;7296;"Tanvi Nirokhekar";"Tanvi Nirokhekar";Maharashtra;India;18.6228613890;73.5103687521;735
+74200;"2017-01-03 21:10:00";7294;7294;"Dnyaneshwari Talekar";"Dnyaneshwari Talekar";javan,pune;India;18.6215500000;73.5069500000;742
+74202;"2017-01-03 21:00:00";7284;7284;"TEJASWINI BHALE";"TEJASWINI BHALE";Maharashtra;India;18.6260886362;73.5126523994;756
+74203;"2017-01-03 18:00:00";7281;7281;"Sonal Thorve";"Sonal Thorve";PUNE;India;18.5586833333;73.8263666667;565
+74204;"2017-01-06 03:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563900000;12.9708300000;34
+74205;"2017-01-07 01:27:00";67;67;"Karl Antier";"Karl Antier";Manosque;France;43.8330555556;5.7841666667;380
+74206;"2017-01-03 04:07:00";7289;7289;"Pedro Pérez Corujo";"Pedro Pérez Corujo";"Gran Canaria";Spain;27.9619444400;15.5716666000;1911
+74207;"2017-01-05 09:24:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74208;"2017-01-02 21:10:00";7290;7290;"Pooja Dhavale ";"Pooja Dhavale ";Maharashtra;India;18.6230164370;73.5106047865;734
+74209;"2017-01-06 09:14:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74210;"2017-01-07 09:28:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74211;"2017-01-08 09:50:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74212;"2017-01-09 10:53:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74213;"2017-01-03 21:50:00";7279;7279;"Sneha Kulkarni";"Sneha Kulkarni";Maharashtra;India;18.6227215915;73.5107710834;733
+74214;"2017-01-03 00:05:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ronse;Belgium;50.7291356749;3.6146822924;34
+74215;"2017-01-03 17:11:00";7312;7312;"István Mátis";"István Mátis";Cluj-Napoca;Romania;46.7057600000;23.7258700000;611
+74220;"2017-01-15 17:00:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3237277566;10.6436444771;455
+74222;"2017-01-19 17:15:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3237795469;10.6436391127;455
+74223;"2017-01-22 02:55:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2898759392;5.6124586267;15
+74237;"2017-01-23 07:50:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74246;"2017-01-24 07:50:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74247;"2017-01-25 09:18:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74248;"2017-01-26 17:15:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3237277566;10.6436444771;455
+74249;"2017-01-27 09:06:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74264;"2017-01-29 09:55:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74265;"2017-01-27 19:55:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Obernissa;Germany;50.9525000000;11.1522222222;322
+74266;"2017-01-30 09:15:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74267;"2017-01-31 09:15:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74268;"2017-02-01 09:46:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74269;"2017-02-02 08:25:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74270;"2017-01-28 23:30:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+74271;"2017-02-04 15:00:00";7344;7344;"John Drummond";"John Drummond";Gisborne;"New Zealand";-38.6299000000;177.8833111111;12
+74272;"2017-02-05 14:45:00";7344;7344;"John Drummond";"John Drummond";Gisborne;"New Zealand";-38.6299000000;177.8833111111;12
+74276;"2017-02-03 09:28:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74277;"2017-02-05 09:50:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74285;"2017-02-13 18:00:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3237277566;10.6436444771;455
+74286;"2017-02-14 18:00:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3247808109;10.6522624146;543
+74287;"2017-02-14 21:33:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563888889;12.9708333333;34
+74288;"2017-02-23 07:45:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74289;"2017-02-23 18:30:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3249003231;10.6491295945;514
+74290;"2017-02-22 20:28:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563888889;12.9708333333;34
+74291;"2017-02-24 23:10:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563888889;12.9708333333;34
+74292;"2017-02-24 19:00:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3249003231;10.6491295945;514
+74293;"2017-02-24 20:50:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+74351;"2017-02-25 08:55:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74413;"2017-01-02 22:35:00";7374;7374;"George Troullias";"George Troullias";Softades;Cyprus;34.8173911596;33.5481178459;2
+74414;"2017-03-03 02:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563888889;12.9708333333;34
+74423;"2017-03-17 19:30:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3250384256;10.6447951447;487
+74440;"2017-03-18 19:30:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3237795469;10.6436391127;455
+74441;"2017-03-18 22:35:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3237795469;10.6436391127;455
+74442;"2017-03-18 22:35:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563888889;12.9708333333;34
+74455;"2017-03-22 19:30:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3237795469;10.6436391127;455
+74456;"2017-03-24 01:51:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563888889;12.9708333333;34
+74457;"2017-03-23 19:30:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3237795469;10.6436391127;455
+74458;"2017-03-24 22:40:00";7178;7178;"Václav Kalaš";"Václav Kalaš";Rokycany;Czechia;49.7519444444;13.6044444444;400
+74459;"2017-03-25 21:15:00";7178;7178;"Václav Kalaš";"Václav Kalaš";Rokycany;Czechia;49.7519444444;13.6044444444;400
+74460;"2017-03-27 01:33:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563888889;12.9708333333;34
+74461;"2017-03-28 01:24:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563888889;12.9708333333;34
+74462;"2017-03-26 20:20:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+74463;"2017-03-29 20:00:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3237795469;10.6436391127;455
+74464;"2017-03-27 22:45:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg;Germany;49.4202777778;8.7475000000;220
+74465;"2017-03-29 01:00:00";7205;7205;"Pierre Bader";"Pierre Bader";Hoechberg;Germany;49.7833333333;9.8833333333;350
+74466;"2017-03-30 00:07:00";7205;7205;"Pierre Bader";"Pierre Bader";Hoechberg;Germany;49.7833333333;9.8833333333;350
+74467;"2017-03-31 00:50:00";7205;7205;"Pierre Bader";"Pierre Bader";Hoechberg;Germany;49.7833333333;9.8833333333;350
+74468;"2017-04-18 22:20:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3237795469;10.6436391127;455
+74469;"2017-04-19 23:40:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563888889;12.9708333333;34
+74470;"2017-04-13 20:08:00";210;210;"Ina Rendtel";"Ina Rendtel";"Agernäs, Südfünen";Denmark;55.2005555556;9.9883333333;1
+74471;"2017-04-15 20:10:00";210;210;"Ina Rendtel";"Ina Rendtel";"Törvevej, Tasinge, Syddanmark";Denmark;54.9833333333;10.5250000000;1
+74472;"2017-04-17 20:30:00";210;210;"Ina Rendtel";"Ina Rendtel";"Fynshoved, Fyn";Denmark;55.6105555556;10.5961111111;1
+74473;"2017-04-18 20:25:00";210;210;"Ina Rendtel";"Ina Rendtel";"Male Srand, Kerteminde, Fyn";Denmark;55.4958333333;10.7369444444;2
+74474;"2017-04-19 21:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Hyllekrog, Lolland";Denmark;54.6111111111;11.4575000000;3
+74475;"2017-04-20 21:30:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3237795469;10.6436391127;455
+74476;"2017-04-21 23:54:00";131;131;"Javor Kac";"Javor Kac";"Vrh pri Poljanah";Slovenia;45.8128710445;14.6956278946;846
+74477;"2017-04-22 00:05:00";7237;7237;"Branislav Savic";"Branislav Savic";Valjevo;Serbia;44.2466666667;19.9308333333;222
+74478;"2017-01-04 02:26:00";7237;7237;"Branislav Savic";"Branislav Savic";"Petnica - Valjevo";Serbia;44.2469444444;19.9308333333;222
+74479;"2017-04-22 07:47:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74480;"2017-04-22 09:15:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8602777778;290
+74481;"2017-03-25 19:44:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6000000000;112
+74482;"2017-03-27 19:59:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+74483;"2017-04-23 00:05:00";7237;7237;"Branislav Savic";"Branislav Savic";"Petnica - Valjevo";Serbia;44.2466666667;19.9308333333;222
+74484;"2017-04-22 21:00:00";7438;7438;"Daining Xiao";"Daining Xiao";"Shrewsbury ";"United Kingdom";52.6150000000;-2.6900000000;115
+74485;"2017-04-22 00:20:00";7243;7243;"David Buzgo";"David Buzgo";Petnica-Valjevo;Serbia;44.2466666667;19.9308333333;222
+74486;"2017-04-20 20:30:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1583333333;11.3916666667;520
+74487;"2017-04-22 21:00:00";474;474;"Kai  Gaarder";"Kai  Gaarder";"Värmlands län";Sweden;59.9785722781;13.0911455074;329
+74488;"2017-04-21 00:20:00";7287;7287;"Aleksa Tesic";"Aleksa Tesic";Valjevo;Serbia;44.2466666667;19.9308333333;222
+74489;"2017-04-22 00:10:00";7287;7287;"Aleksa Tesic";"Aleksa Tesic";"Petnica - Valjevo";Serbia;44.2466666667;19.9311111111;222
+74490;"2017-04-22 00:20:00";7441;7441;"Mina Stojanov";"Mina Stojanov";"Petnica - Valjevo";Serbia;44.2466666667;19.9308333333;222
+74491;"2017-04-23 00:10:00";7441;7441;"Mina Stojanov";"Mina Stojanov";Valjevo;Serbia;44.2466666667;19.9308333333;222
+74492;"2017-04-22 16:45:00";7281;7281;"Sonal Thorve";"Sonal Thorve";Pune;India;18.3022290000;73.6404460000;682
+74493;"2017-04-23 00:10:00";7236;7236;"Ana Nikolić";"Ana Nikolić";Valjevo;Serbia;44.2466666667;19.9311111111;222
+74494;"2017-04-22 06:28:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4029100000;-45.5339600000;841
+74495;"2017-04-23 07:34:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74496;"2017-04-21 00:20:00";7719;7719;"Ognjen Bašić";"Ognjen Bašić";"Petnica - Valjevo";Serbia;44.1883333333;19.9308333333;222
+74498;"2017-04-20 03:24:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";Rome;Italy;41.8791165297;12.4522556452;55
+74499;"2017-04-22 03:05:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";Rome;Italy;41.8791165297;12.4522556452;55
+74500;"2017-04-23 03:05:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";Rome;Italy;41.8791165297;12.4522556452;55
+74501;"2017-04-22 00:10:00";7445;7445;"Ivana Marjanović";"Ivana Marjanović";Valjevo;Serbia;44.2466666667;19.9308333333;222
+74502;"2017-04-22 00:10:00";7446;7446;"Marina Arnaut";"Marina Arnaut";Valjevo;Serbia;44.2466666667;19.9308333333;222
+74503;"2017-04-23 23:10:00";7287;7287;"Aleksa Tesic";"Aleksa Tesic";"Petnica - Valjevo";Serbia;44.2466666667;19.9308333333;222
+74504;"2017-04-22 23:10:00";7119;7119;"Ivan Stanković";"Ivan Stanković";Valjevo;Serbia;44.2466666667;19.9308333333;222
+74505;"2017-04-22 23:10:00";7441;7441;"Mina Stojanov";"Mina Stojanov";Valjevo;Serbia;44.2466666667;19.9308333333;222
+74506;"2017-04-23 23:10:00";7236;7236;"Ana Nikolić";"Ana Nikolić";Valjevo;Serbia;44.2466666667;19.9311111111;222
+74507;"2017-04-24 01:10:00";7447;7236;"Aleksa Đorđević";"Ana Nikolić";Valjevo;Serbia;44.2466666667;19.9311083333;214
+74508;"2017-04-22 09:01:00";7297;7297;"Jane Jones";"Jane Jones";"Paso Robles, CA";"United States";35.6233333333;-120.7750000000;471
+74509;"2017-04-23 00:07:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Obernissa;Germany;50.9525000000;11.1522222222;322
+74510;"2017-04-23 21:37:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563888889;12.9708333333;34
+74511;"2017-04-22 22:54:00";7107;7107;"Zdenek Komarek";"Zdenek Komarek";Svidník;Slovakia;49.3800000000;21.5000000000;440
+74512;"2017-04-22 22:54:00";6762;7107;"Ludovit Popik";"Zdenek Komarek";Roztoky;Czechia;50.1684640000;14.3756840000;440
+74513;"2017-04-23 23:10:00";7237;7237;"Branislav Savic";"Branislav Savic";Valjevo;Serbia;44.2466666667;19.9308333333;222
+74514;"2017-04-24 00:00:00";7448;7448;"Gleici Kelly de Lima";"Gleici Kelly de Lima";Videira;Brazil;-27.0008500000;-51.1450300000;832
+74515;"2017-04-26 16:15:00";7344;7344;"John Drummond";"John Drummond";Gisborne;"New Zealand";-38.6299000000;177.8833111111;12
+74516;"2017-04-22 21:50:00";7205;7205;"Pierre Bader";"Pierre Bader";Prinos;Greece;35.3861111111;24.6194444444;100
+74517;"2017-04-22 03:26:00";162;162;"Mark Davis";"Mark Davis";"Johns Island";"United States";32.6380555556;-80.1186111111;3
+74518;"2017-04-27 10:12:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74519;"2017-04-22 00:13:00";6192;7107;"Sara Belejova";"Zdenek Komarek";Svidník;Slovakia;49.3800000000;21.5000000000;440
+74520;"2017-04-22 22:54:00";6758;7107;"Stefan Jackovic";"Zdenek Komarek";Svidník;Slovakia;49.3800000000;21.5000000000;430
+74521;"2017-04-22 22:54:00";;7107;"Katarina Dancejova";"Zdenek Komarek";Svidník;Slovakia;49.3800000000;21.5000000000;440
+74522;"2017-04-22 22:54:00";;7107;"Kristian Salata";"Zdenek Komarek";Svidník;Slovakia;49.3800000000;21.5000000000;440
+74523;"2017-04-24 21:58:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+74524;"2017-04-28 08:08:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74525;"2017-04-29 06:27:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+74526;"2017-04-29 17:12:00";85;85;"Shigeo Uchiyama";"Shigeo Uchiyama";"Sakuragawa, Ibaraki";Japan;36.2622222222;140.1013888889;60
+74527;"2017-04-29 23:45:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208305556;40
+74528;"2017-04-28 09:49:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74529;"2017-04-30 22:00:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3237516598;10.6435961973;455
+74530;"2017-05-01 01:55:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Izana;Spain;28.3025000000;-16.5102777778;2382
+74531;"2017-05-01 09:30:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8602777778;290
+74532;"2017-04-22 23:13:00";7431;7431;"Jaroslav Petrisko";"Jaroslav Petrisko";Roztoky;Slovakia;49.3996908769;21.4822221228;435
+74533;"2017-04-22 23:13:00";7458;7458;"Ondrej Turák";"Ondrej Turák";Roztoky;Slovakia;49.3996804038;21.4822650381;435
+74534;"2017-04-29 09:29:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74535;"2017-05-03 01:55:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Izana;Spain;28.3025000000;-16.5102777778;2382
+74536;"2017-05-02 16:25:00";7344;7344;"John Drummond";"John Drummond";Gisborne;"New Zealand";-38.6299000000;177.8833111111;12
+74537;"2017-05-01 23:13:00";7462;7462;"Luca Battisti";"Luca Battisti";Roma;Italy;41.8510245829;12.4199623356;61
+74538;"2017-05-03 01:47:00";138;138;"Tim Cooper";"Tim Cooper";JOHANNESBURG;"South Africa";-26.0901944444;28.3161111111;1664
+74539;"2017-05-03 07:08:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";"Minas Gerais";Brazil;-22.5351657419;-45.5835592362;1846
+74540;"2017-04-30 09:21:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74541;"2017-05-02 09:30:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8622222222;304
+74542;"2017-05-03 09:30:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8622222222;304
+74543;"2017-05-01 09:24:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74544;"2017-05-02 08:54:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74545;"2017-05-04 02:48:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Izana;Spain;28.3025000000;-16.5102777778;2382
+74546;"2017-05-04 07:10:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";"Minas Gerais";Brazil;-22.5351607870;-45.5835377786;1847
+74547;"2017-05-04 01:48:00";138;138;"Tim Cooper";"Tim Cooper";JOHANNESBURG;"South Africa";-26.0901944444;28.3161111111;1664
+74548;"2017-05-03 08:51:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74549;"2017-04-30 06:35:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+74550;"2017-05-01 08:05:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.7442800000;-48.5076300000;0
+74551;"2017-05-04 08:51:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74552;"2017-05-05 01:38:00";138;138;"Tim Cooper";"Tim Cooper";JOHANNESBURG;"South Africa";-26.0901944444;28.3161111111;1664
+74553;"2017-05-05 02:48:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Izana;Spain;28.3025000000;-16.5102777778;2382
+74554;"2017-04-30 00:10:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+74555;"2017-05-01 00:20:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+74556;"2017-05-05 01:40:00";7237;7237;"Branislav Savic";"Branislav Savic";"Petnica - Valjevo";Serbia;44.2466666667;19.9308333333;222
+74557;"2017-05-05 01:20:00";7286;7286;"Sara Knežević";"Sara Knežević";Valjevo;Serbia;44.2466666667;19.9311111111;222
+74558;"2017-05-05 01:20:00";7470;7470;"Vanja Knezevic";"Vanja Knezevic";Petnica-Valjevo;Serbia;44.2466666667;19.9308333333;222
+74559;"2017-05-05 16:45:00";7344;7344;"John Drummond";"John Drummond";Gisborne;"New Zealand";-38.6299000000;177.8833111111;12
+74560;"2017-05-05 08:53:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74561;"2017-05-05 19:00:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Sydney;Australia;-34.0000000000;151.0000000000;20
+74562;"2017-05-05 16:18:00";7472;7472;"Gang Li";"Gang Li";Gerringong;Australia;-34.7473903080;150.8342140990;45
+74563;"2017-05-06 00:53:00";131;131;"Javor Kac";"Javor Kac";"Vrh pri Poljanah";Slovenia;45.8128710445;14.6956278946;846
+74564;"2017-05-06 03:28:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Izana;Spain;28.3025000000;-16.5102777778;2382
+74565;"2017-05-06 03:50:00";7473;7473;"Enrique de Ferra";"Enrique de Ferra";Antigua;Spain;28.3233333333;-13.9277777778;60
+74567;"2017-05-06 09:42:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74568;"2017-05-06 16:40:00";7344;7344;"John Drummond";"John Drummond";Gisborne;"New Zealand";-38.6299000000;177.8833111111;12
+74569;"2017-05-06 06:00:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+74570;"2017-05-06 19:00:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Sydney;Australia;-34.0000000000;151.0000000000;20
+74571;"2017-04-29 23:28:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2839135311;5.6103933258;11
+74572;"2017-04-04 00:32:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2897610958;5.6123352451;16
+74573;"2017-05-07 03:58:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Izana;Spain;28.3025000000;-16.5102777778;2382
+74574;"2017-04-22 20:40:00";7476;7476;"Maciek Myszkiewicz";"Maciek Myszkiewicz";mazowieckie;Poland;52.2134493345;22.2773006256;139
+74575;"2017-05-07 10:01:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74576;"2017-05-04 01:10:00";7288;7288;"Debora Pavela";"Debora Pavela";Petnica;Serbia;44.2465932985;19.9309747897;217
+74577;"2017-04-19 21:24:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg;Germany;49.4202777778;8.7475000000;220
+74578;"2017-04-23 22:05:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg;Germany;49.4202777778;8.7475000000;220
+74579;"2017-04-20 22:33:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg;Germany;49.4202777778;8.7475000000;220
+74580;"2017-05-06 00:41:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg;Germany;49.4202777778;8.7475000000;220
+74581;"2017-05-07 07:25:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";"Minas Gerais";Brazil;-22.5351607870;-45.5835377786;1847
+74582;"2017-05-08 04:18:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Izana;Spain;28.3025000000;-16.5102777778;2382
+74583;"2017-05-08 07:19:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+74584;"2017-04-22 23:10:00";7479;7479;"Miriam Hudáková";"Miriam Hudáková";Roztoky;Slovakia;49.3907145751;21.4932138153;368
+74585;"2017-05-07 17:23:00";85;85;"Shigeo Uchiyama";"Shigeo Uchiyama";"Sakuragawa, Ibaraki";Japan;36.2622222222;140.1013888889;60
+74586;"2017-04-22 23:10:00";7481;7481;"Lívia Hudáková";"Lívia Hudáková";Roztoky;Slovakia;49.3907000000;21.4931700000;368
+74587;"2017-04-22 23:10:00";7484;7484;"Nina Sasaráková";"Nina Sasaráková";Roztoky;Slovakia;49.3907000000;21.4931700000;368
+74588;"2017-04-22 23:10:00";7485;7485;"Katarína  Hudáková";"Katarína  Hudáková";Roztoky;Slovakia;49.3907000000;21.4931700000;368
+74589;"2017-04-22 23:10:00";7486;7486;"Petra Jakubková";"Petra Jakubková";Roztoky;Slovakia;49.3907000000;21.4931700000;368
+74590;"2017-05-10 01:08:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg;Germany;49.4202777778;8.7475000000;220
+74591;"2017-05-10 21:21:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg;Germany;49.4202777778;8.7475000000;220
+74593;"2017-05-13 20:43:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Izana;Spain;28.3025000000;-16.5102777778;2382
+74594;"2017-05-05 17:00:00";492;492;"Mikiya Sato";"Mikiya Sato";"Narusawa village Yamanasi pref.";Japan;35.4408333333;138.7461111110;1200
+74595;"2017-05-05 17:30:00";7488;7488;"Tomoko Sato";"Tomoko Sato";"Narusawa village";Japan;35.4333333333;138.7500000000;1200
+74596;"2017-05-14 21:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Izana;Spain;28.3025000000;-16.5102777778;2382
+74597;"2017-05-17 22:33:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563888889;12.9708333333;34
+74598;"2017-05-17 21:10:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208305556;40
+74599;"2017-05-16 21:03:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg;Germany;49.4202777778;8.7475000000;220
+74601;"2017-05-21 22:40:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563888889;12.9708333333;34
+74602;"2017-05-14 21:21:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2897610958;5.6123352451;16
+74603;"2017-05-20 23:30:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg;Germany;49.4202777778;8.7475000000;220
+74604;"2017-05-20 21:34:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2839135311;5.6103933258;11
+74605;"2017-05-21 22:28:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2839135311;5.6103933258;11
+74606;"2017-05-20 05:24:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74607;"2017-05-24 08:11:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74608;"2017-05-25 22:33:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563888889;12.9708333333;34
+74609;"2017-05-25 21:00:00";7400;7400;"Julien R";"Julien R";Saint-François-Lacroix;France;49.3545084008;6.4651938520;252
+74610;"2017-05-25 23:14:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2897610958;5.6123352451;16
+74611;"2017-05-26 22:15:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2839135311;5.6103933258;11
+74612;"2017-05-27 08:51:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74613;"2017-05-26 22:40:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563888889;12.9708333333;34
+74614;"2017-05-26 21:45:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1583333333;11.3916666667;520
+74615;"2017-05-27 21:45:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1583333333;11.3916666667;520
+74616;"2017-05-28 09:38:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74617;"2017-05-25 22:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Hünstein, Kreis Nordhausen, Thüringen";Germany;51.4313888889;10.7177777778;215
+74618;"2017-05-26 22:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Hünstein, Kreis Nordhausen, Thüringen";Germany;51.4313888889;10.7177777778;215
+74619;"2017-05-27 22:10:00";210;210;"Ina Rendtel";"Ina Rendtel";"Hünstein, Kreis Nordhausen, Thüringen";Germany;51.4313888889;10.7177777778;215
+74622;"2017-05-29 06:30:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74623;"2017-04-22 23:13:00";7430;7430;"Matúš Klimko";"Matúš Klimko";Roztoky;Slovakia;49.3997030956;21.4822945424;436
+74624;"2017-04-22 23:13:00";7503;7503;"Martin Miško";"Martin Miško";Roztoky;Slovakia;49.3996961135;21.4822623559;436
+74625;"2017-05-26 22:35:00";7154;7154;"Christoph Gerber";"Christoph Gerber";"Bad Belzig";Germany;52.1388888889;12.5875000000;87
+74626;"2017-05-27 23:11:00";7154;7154;"Christoph Gerber";"Christoph Gerber";"Bad Belzig";Germany;52.1388888889;12.5875000000;87
+74627;"2017-05-29 00:02:00";7154;7154;"Christoph Gerber";"Christoph Gerber";"Bad Belzig";Germany;52.1388888889;12.5875000000;87
+74628;"2017-05-31 23:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563888889;12.9708333333;34
+74630;"2017-06-02 23:35:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563888889;12.9708333333;34
+74634;"2017-05-27 23:50:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+74635;"2017-06-11 00:32:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg;Germany;49.4202777778;8.7475000000;220
+74639;"2017-06-12 23:00:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+74640;"2017-06-03 08:40:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74641;"2017-06-15 22:35:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74642;"2017-06-04 10:03:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74643;"2017-06-17 05:23:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74644;"2017-06-17 22:32:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842351344;5.6110129161;11
+74645;"2017-06-18 03:19:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74646;"2017-06-16 22:27:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+74647;"2017-06-18 01:00:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+74648;"2017-06-18 21:25:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+74649;"2017-06-18 22:32:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842351344;5.6110129161;11
+74650;"2017-06-17 22:18:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563888889;12.9708333333;34
+74651;"2017-06-18 22:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563888889;12.9708333333;34
+74652;"2017-06-21 06:23:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74653;"2017-06-22 05:52:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74654;"2017-06-21 22:35:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+74656;"2017-06-23 05:46:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74657;"2017-06-25 07:11:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74659;"2017-06-25 22:22:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74660;"2017-06-24 22:10:00";210;210;"Ina Rendtel";"Ina Rendtel";"Gederner See, Wetteraukreis, Hessen";Germany;50.4325000000;9.1863888889;340
+74661;"2017-06-26 22:14:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563888889;12.9708333333;34
+74662;"2017-06-27 22:00:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74663;"2017-06-26 06:41:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74664;"2017-06-27 06:40:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74665;"2017-06-28 21:28:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74681;"2017-06-27 20:05:00";7273;7273;"Penko Jordanov";"Penko Jordanov";Dimitrovgrad-Brod;Bulgaria;42.0600000000;25.6694444444;137
+74682;"2017-07-02 08:18:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74684;"2017-07-02 23:02:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563888889;12.9708333333;34
+74685;"2017-07-02 22:24:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74704;"2017-07-03 08:50:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74705;"2017-07-05 22:51:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74706;"2017-07-07 00:00:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74711;"2017-07-07 21:25:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74712;"2017-07-10 09:00:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74713;"2017-07-10 21:20:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74714;"2017-07-11 21:23:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74715;"2017-06-28 07:42:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74716;"2017-07-12 07:12:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74717;"2017-07-13 00:05:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74718;"2017-07-13 08:15:00";;7168;"Julio Cesar Fernandes";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74720;"2017-07-13 22:32:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74721;"2017-07-14 21:30:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74722;"2017-07-17 00:59:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74723;"2017-07-17 22:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563888889;12.9708333333;34
+74724;"2017-07-18 22:33:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563888889;12.9708333333;34
+74725;"2017-07-17 21:48:00";81;81;"Mitja Govedič";"Mitja Govedič";Korovci;Slovenia;46.7327777778;16.0013888889;236
+74726;"2017-07-17 21:45:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208305556;40
+74727;"2017-07-20 22:54:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563888889;12.9708333333;34
+74728;"2017-07-22 21:30:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1583333333;11.3916666667;520
+74729;"2017-07-22 23:05:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9697921949;14.1350226225;811
+74730;"2017-02-26 09:34:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74731;"2017-07-18 21:50:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74732;"2017-07-19 02:45:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74733;"2017-07-19 21:39:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74734;"2017-07-21 08:22:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74735;"2017-07-23 09:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8622222222;304
+74736;"2017-07-24 21:47:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74737;"2017-07-21 23:00:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Tanger-Tétouan;Morocco;35.2665971582;-5.2336836143;289
+74738;"2017-07-23 01:10:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Tanger-Tétouan;Morocco;35.2665971582;-5.2336836143;289
+74739;"2017-07-23 21:50:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Tanger-Tétouan;Morocco;35.2665971582;-5.2336836143;289
+74740;"2017-07-23 23:00:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Tanger-Tétouan;Morocco;35.2665971582;-5.2336836143;289
+74741;"2017-07-24 01:00:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Tanger-Tétouan;Morocco;35.2665971582;-5.2336836143;289
+74742;"2017-07-25 23:22:00";131;131;"Javor Kac";"Javor Kac";"Vrh pri Poljanah";Slovenia;45.8128710445;14.6956278946;846
+74743;"2017-07-25 06:45:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74744;"2017-07-26 06:19:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74745;"2017-07-27 06:14:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74746;"2017-07-27 08:30:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8622222222;304
+74747;"2017-07-27 21:40:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Tanger-Tétouan;Morocco;35.2676308102;-5.2398419662;359
+74748;"2017-07-27 23:00:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Tanger-Tétouan;Morocco;35.2676308102;-5.2398419662;359
+74749;"2017-07-28 01:15:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Tanger-Tétouan;Morocco;35.2676308102;-5.2398419662;359
+74750;"2017-07-28 05:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8622222222;304
+74751;"2017-07-28 20:54:00";7273;7273;"Penko Jordanov";"Penko Jordanov";Dimitrovgrad-Brod;Bulgaria;42.0596114584;25.6717564264;129
+74752;"2017-07-28 21:50:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Tanger-Tétouan;Morocco;35.2676308102;-5.2398419662;359
+74753;"2017-07-21 20:10:00";7584;7584;"Emanuil Hristov";"Emanuil Hristov";Ardino;Bulgaria;41.5761111111;25.1661111111;1000
+74754;"2017-07-28 23:00:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Tanger-Tétouan;Morocco;35.2676308102;-5.2398419662;359
+74755;"2017-07-25 19:46:00";7585;7585;"Ива Кирова";"Ива Кирова";Ardino;Bulgaria;41.5762500000;25.1661666667;1000
+74756;"2017-07-29 01:15:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Tanger-Tétouan;Morocco;35.2676308102;-5.2398419662;359
+74757;"2017-07-28 06:49:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74758;"2017-07-29 06:50:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+74759;"2017-07-28 20:44:00";7274;7274;"Sasha Prokofyev";"Sasha Prokofyev";"Kitemed, Softades beach";Cyprus;34.8173870000;33.5480620000;1
+74760;"2017-07-29 21:09:00";7274;7274;"Sasha Prokofyev";"Sasha Prokofyev";"St.George Church, Kiti, Larnaca";Cyprus;34.8599854000;33.5656177000;34
+74761;"2017-07-29 21:35:00";7274;7274;"Sasha Prokofyev";"Sasha Prokofyev";"river Tremithos, Kiti, Larnaca";Cyprus;34.8631130000;33.5652410000;33
+74762;"2017-07-29 07:53:00";254;254;"Pete Kozich";"Pete Kozich";"Whiteside, MO";"United States";39.1741666667;-91.0130555556;220
+74763;"2017-07-29 23:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563888889;12.9708333333;34
+74764;"2017-07-29 20:30:00";7273;7273;"Penko Jordanov";"Penko Jordanov";Dimitrovgrad-Brod;Bulgaria;42.0596114584;25.6717564264;129
+74765;"2017-07-29 23:00:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Tanger-Tétouan;Morocco;35.2676308102;-5.2398419662;359
+74766;"2017-07-30 01:10:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Tanger-Tétouan;Morocco;35.2676308102;-5.2398419662;359
+74767;"2017-07-29 23:00:00";426;426;"Lovro Pavletic";"Lovro Pavletic";Drivenik;Croatia;45.2461111111;14.6702777778;789
+74768;"2017-07-30 05:18:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4029100000;-45.5339600000;841
+74769;"2017-06-29 06:33:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74770;"2017-07-30 06:28:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74771;"2017-07-30 08:30:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Cape Royal";"United States";36.1219444444;-111.9500000000;2397
+74772;"2017-07-30 20:30:00";7273;7273;"Penko Jordanov";"Penko Jordanov";Dimitrovgrad-Brod;Bulgaria;42.0596114584;25.6717564264;129
+74773;"2017-07-30 22:55:00";81;81;"Mitja Govedič";"Mitja Govedič";Cankova;Slovenia;46.7219881986;16.0166752106;214
+74774;"2017-07-26 21:18:00";131;131;"Javor Kac";"Javor Kac";"Vrh pri Poljanah";Slovenia;45.8128710445;14.6956278946;846
+74775;"2017-07-30 22:43:00";131;131;"Javor Kac";"Javor Kac";Janče;Slovenia;46.0528472069;14.7128892021;771
+74776;"2017-07-29 21:25:00";131;131;"Javor Kac";"Javor Kac";Vršič;Slovenia;46.4325000000;13.7341666667;1600
+74777;"2017-07-30 23:30:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Tanger-Tétouan;Morocco;35.2676308102;-5.2398419662;359
+74778;"2017-07-31 05:06:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4029100000;-45.5339600000;841
+74779;"2017-07-31 01:05:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Tanger-Tétouan;Morocco;35.2676308102;-5.2398419662;359
+74780;"2017-07-30 22:20:00";7591;7591;"Maciej Kwinta";"Maciej Kwinta";Kraków;Poland;50.0163611251;19.9383280216;214
+74781;"2017-07-25 22:19:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74782;"2017-07-26 21:30:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74783;"2017-07-28 22:10:00";131;131;"Javor Kac";"Javor Kac";Vršič;Slovenia;46.4325000000;13.7341666667;1600
+74784;"2017-07-31 23:55:00";7415;7415;"Jan Sadiv";"Jan Sadiv";"Nižný Orlík";Slovakia;49.3324126939;21.5331612239;259
+74785;"2017-07-27 21:29:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74786;"2017-07-30 02:07:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74787;"2017-07-31 23:45:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Tanger-Tétouan;Morocco;35.2665971582;-5.2336836143;289
+74788;"2017-07-31 23:24:00";81;81;"Mitja Govedič";"Mitja Govedič";Cankova;Slovenia;46.7219881986;16.0166752106;214
+74789;"2017-07-22 21:00:00";6900;6900;"Tomáš Nejdl";"Tomáš Nejdl";Bažantnice;Czechia;49.9338888889;13.2755555556;536
+74790;"2017-07-22 21:00:00";6894;6894;"Jan Šemora";"Jan Šemora";Bažantnice;Czechia;49.9338888889;13.2755555556;536
+74791;"2017-07-22 21:00:00";6892;6892;"Matěj Otýs";"Matěj Otýs";Bažantnice;Czechia;49.9338888889;13.2755555556;536
+74792;"2017-07-22 21:00:00";6899;6899;"Tomáš Pekárek";"Tomáš Pekárek";Bažantnice;Czechia;49.9338888889;13.2755555556;536
+74793;"2017-07-31 22:15:00";7591;7591;"Maciej Kwinta";"Maciej Kwinta";Kraków;Poland;50.0163611251;19.9383280216;214
+74794;"2017-07-22 21:24:00";7178;7178;"Václav Kalaš";"Václav Kalaš";Bažantnice;Czechia;49.9338888889;13.2755555556;536
+74795;"2017-07-22 21:25:00";;7178;"Polák Michal";"Václav Kalaš";Bažantnice;Czechia;49.9338888889;13.2755555556;536
+74796;"2017-07-22 21:39:00";6887;6887;"David Prudek";"David Prudek";Bažantnice;Czechia;49.9338888889;13.2755555556;536
+74797;"2017-07-31 06:44:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74798;"2017-07-28 20:59:00";7590;7590;"Slaveya Georgieva";"Slaveya Georgieva";Dimitrovgrad;Bulgaria;42.0594444444;25.6716666667;129
+74799;"2017-07-29 20:41:00";7590;7590;"Slaveya Georgieva";"Slaveya Georgieva";Dimitrovgrad;Bulgaria;42.0594444444;25.6716666667;129
+74800;"2017-07-30 20:48:00";7590;7590;"Slaveya Georgieva";"Slaveya Georgieva";Dimitrovgrad;Bulgaria;42.0594444444;25.6716666667;129
+74801;"2017-08-01 06:50:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74802;"2017-07-23 22:35:00";7045;7045;"Martin Tran";"Martin Tran";Bažantnice;Czechia;49.9338888889;13.2755555556;536
+74803;"2017-07-23 22:35:00";;7178;"David David";"Václav Kalaš";Bažantnice;Czechia;49.9338888889;13.2755555556;536
+74804;"2017-07-23 22:35:00";6900;6900;"Tomáš Nejdl";"Tomáš Nejdl";Bažantnice;Czechia;49.9338888889;13.2755555556;536
+74805;"2017-07-23 22:35:00";6894;6894;"Jan Šemora";"Jan Šemora";Bažantnice;Czechia;49.9338888889;13.2755555556;536
+74806;"2017-07-23 22:35:00";6899;6899;"Tomáš Pekárek";"Tomáš Pekárek";Bažantnice;Czechia;49.9338888889;13.2755555556;536
+74807;"2017-07-29 21:30:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1583333333;11.3916666667;520
+74808;"2017-07-31 22:15:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1583333333;11.3916666667;520
+74809;"2017-07-26 19:23:00";7585;7585;"Ива Кирова";"Ива Кирова";Ardino;Bulgaria;41.5762500000;25.1661666667;1003
+74810;"2017-07-28 19:38:00";7585;7585;"Ива Кирова";"Ива Кирова";Ardino;Bulgaria;41.5762500000;25.1661666667;1003
+74811;"2017-08-03 08:28:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74812;"2017-07-30 20:15:00";7585;7585;"Ива Кирова";"Ива Кирова";Ardino;Bulgaria;41.5762500000;25.1661666667;1003
+74813;"2017-07-29 19:35:00";7584;7584;"Emanuil Hristov";"Emanuil Hristov";Ardino;Bulgaria;41.5761111111;25.1661111111;985
+74814;"2017-07-30 20:34:00";7283;7283;"Katie Demetriou";"Katie Demetriou";Softades;Cyprus;34.8173845536;33.5480481085;2
+74815;"2017-07-29 21:09:00";7283;7283;"Katie Demetriou";"Katie Demetriou";Kiti;Cyprus;34.8590008044;33.5675371131;34
+74816;"2017-07-29 21:35:00";7283;7283;"Katie Demetriou";"Katie Demetriou";Tersefanou;Cyprus;34.8672406224;33.5586965521;39
+74817;"2017-07-29 21:00:00";7045;7045;"Martin Tran";"Martin Tran";Bažantnice;Czechia;49.9338888889;13.2755555556;536
+74818;"2017-07-29 21:00:00";;7178;"Polák Michal";"Václav Kalaš";Bažantnice;Czechia;49.9338888889;13.2755555556;536
+74819;"2017-07-30 20:10:00";7584;7584;"Emanuil Hristov";"Emanuil Hristov";Ardino;Bulgaria;41.5761111111;25.1661111111;1000
+74820;"2017-07-22 19:38:00";7584;7584;"Emanuil Hristov";"Emanuil Hristov";Ardino;Bulgaria;41.5761111111;25.1661111111;1000
+74821;"2017-07-28 20:55:00";7531;7531;"Katerina Ruseva";"Katerina Ruseva";Avren;Bulgaria;43.1199033816;27.6692870451;299
+74822;"2017-07-25 19:28:00";7584;7584;"Emanuil Hristov";"Emanuil Hristov";Ardino;Bulgaria;41.5761111111;25.1661111111;1000
+74823;"2017-08-04 01:00:00";7600;7600;"Snežana Todorović";"Snežana Todorović";Vingrau;France;42.8518700000;2.7742200000;189
+74824;"2017-07-29 21:00:00";6900;6900;"Tomáš Nejdl";"Tomáš Nejdl";Bažantnice;Czechia;49.9338888889;13.2755555556;536
+74825;"2017-07-29 19:30:00";7585;7585;"Ива Кирова";"Ива Кирова";Ardino;Bulgaria;41.5762500000;25.1661666667;1003
+74826;"2017-07-22 19:33:00";7585;7585;"Ива Кирова";"Ива Кирова";Ardino;Bulgaria;41.5762500000;25.1662500000;986
+74827;"2017-07-23 21:28:00";7585;7585;"Ива Кирова";"Ива Кирова";Ardino;Bulgaria;41.5762500000;25.1661666667;1003
+74828;"2017-07-24 22:47:00";7585;7585;"Ива Кирова";"Ива Кирова";Ardino;Bulgaria;41.5762500000;25.1661666667;1003
+74829;"2017-07-29 20:30:00";7531;7531;"Katerina Ruseva";"Katerina Ruseva";Avren;Bulgaria;43.1199033816;27.6692870451;299
+74830;"2017-08-04 09:25:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74831;"2017-08-05 00:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563888889;12.9708333333;34
+74832;"2017-07-24 23:00:00";214;214;"Koen Miskotte";"Koen Miskotte";Kreta;Greece;35.1053307945;24.6707412224;153
+74833;"2017-07-24 22:25:00";214;214;"Koen Miskotte";"Koen Miskotte";Kreta;Greece;35.1053307945;24.6707412224;153
+74834;"2017-07-27 21:50:00";214;214;"Koen Miskotte";"Koen Miskotte";Kreta;Greece;35.1053307945;24.6707412224;153
+74835;"2017-07-27 21:50:00";214;214;"Koen Miskotte";"Koen Miskotte";Kreta;Greece;35.1053307945;24.6707412224;153
+74836;"2017-07-29 21:50:00";214;214;"Koen Miskotte";"Koen Miskotte";Kreta;Greece;35.1053307945;24.6707412224;153
+74837;"2017-07-30 21:48:00";214;214;"Koen Miskotte";"Koen Miskotte";Kreta;Greece;35.1053307945;24.6707412224;153
+74838;"2017-07-31 22:20:00";214;214;"Koen Miskotte";"Koen Miskotte";Kreta;Greece;35.1053307945;24.6707412224;153
+74839;"2017-08-01 23:11:00";214;214;"Koen Miskotte";"Koen Miskotte";Kreta;Greece;35.1053307945;24.6707412224;153
+74840;"2017-08-05 10:26:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74841;"2017-08-05 23:27:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842351344;5.6110129161;11
+74842;"2017-08-05 02:08:00";7600;7600;"Snežana Todorović";"Snežana Todorović";Vingrau;France;42.8518700000;2.7742200000;189
+74843;"2017-07-30 20:30:00";7531;7531;"Katerina Ruseva";"Katerina Ruseva";Avren;Bulgaria;43.1199033816;27.6692870451;299
+74844;"2017-07-31 20:30:00";7531;7531;"Katerina Ruseva";"Katerina Ruseva";Avren;Bulgaria;43.1199033816;27.6692870451;299
+74845;"2017-07-29 21:00:00";6894;6894;"Jan Šemora";"Jan Šemora";Bažantnice;Czechia;49.9338888889;13.2755555556;536
+74846;"2017-07-29 21:15:00";7178;7178;"Václav Kalaš";"Václav Kalaš";Bažantnice;Czechia;49.9338888889;13.2755555556;536
+74847;"2017-07-29 21:15:00";6901;6901;"Roman Čečil";"Roman Čečil";Bažantnice;Czechia;49.9338888889;13.2755555556;536
+74848;"2017-07-29 21:15:00";3583;3583;"Jan Mocek";"Jan Mocek";Bažantnice;Czechia;49.9338888889;13.2755555556;536
+74849;"2017-07-29 21:15:00";7049;7049;"Jiří Příbek";"Jiří Příbek";Bažantnice;Czechia;49.9338888889;13.2755555556;536
+74850;"2017-06-24 21:00:00";7608;7608;"David Havranek";"David Havranek";"Hranicne Petrovice";Czechia;49.7422200000;17.4038900000;595
+74851;"2017-06-24 21:00:00";7609;7609;"Julie Dostalova";"Julie Dostalova";"Hranicne Petrovice";Czechia;49.7422222222;17.4038888889;595
+74852;"2017-06-24 21:00:00";11448;11448;"Štěpán Ptáčník";"Štěpán Ptáčník";"Hranicne Petrovice";Czechia;49.7422222222;17.4038888889;595
+74853;"2017-06-24 21:00:00";7611;7611;"Anna Wrnatova";"Anna Wrnatova";"Hranicne Petrovice";Czechia;49.7422222222;17.4038888889;595
+74854;"2017-06-24 21:00:00";7612;7612;"Ida Havrankova";"Ida Havrankova";"Hranicne Petrovice";Czechia;49.7422222222;17.4038888889;595
+74855;"2017-06-24 21:00:00";7062;7062;" ";" ";"Hranicne Petrovice";Czechia;49.7422222222;17.4038888889;595
+74856;"2017-06-24 21:00:00";7614;7614;"Ivo Lazar";"Ivo Lazar";"Hranicne Petrovice";Czechia;49.7422222222;17.4038888889;595
+74857;"2017-06-24 21:00:00";7615;7615;"Michaela Trundova";"Michaela Trundova";"Hranicne Petrovice";Czechia;49.7422222222;17.4038888889;595
+74858;"2017-06-24 21:00:00";7616;7616;"Adam Horry";"Adam Horry";"Hranicne Petrovice";Czechia;49.7422222222;17.4038888889;595
+74859;"2017-07-28 20:55:00";7617;7617;"Bozhena Varbanova";"Bozhena Varbanova";Аврен;Bulgaria;43.1198759722;27.6693245960;299
+74860;"2017-07-29 20:30:00";7617;7617;"Bozhena Varbanova";"Bozhena Varbanova";Аврен;Bulgaria;43.1198759722;27.6693245960;299
+74861;"2017-07-30 20:00:00";7617;7617;"Bozhena Varbanova";"Bozhena Varbanova";Аврен;Bulgaria;43.1198759722;27.6693245960;299
+74862;"2017-07-31 20:20:00";7617;7617;"Bozhena Varbanova";"Bozhena Varbanova";Аврен;Bulgaria;43.1198759722;27.6693245960;299
+74863;"2017-08-03 18:24:00";7472;7472;"Gang Li";"Gang Li";北京市;China;39.7760242008;115.5587016193;976
+74864;"2017-06-24 21:00:00";7332;7332;"Jiri Konecny";"Jiri Konecny";"Hranicne Petrovice";Czechia;49.7422222222;17.4038888889;595
+74865;"2017-07-29 08:40:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8622222222;304
+74866;"2017-07-31 05:22:00";185;177;"Richard Taibi";"Robert Lunsford";"Bel Alton, Maryland";"United States";38.5000000000;-77.0000000000;10
+74867;"2017-08-09 21:50:00";7627;7627;"Ljubomir Brankovic";"Ljubomir Brankovic";"Debelo brdo - Valjevo";Serbia;44.1583333330;19.6869444444;1033
+74868;"2017-08-08 23:15:00";7628;7628;"Diana Sekulić";"Diana Sekulić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+74869;"2017-08-09 22:00:00";7629;7629;"Milica Rakić";"Milica Rakić";"Debelo Brdo-Valjevo";Serbia;44.1583333333;19.6869444444;1033
+74870;"2017-08-09 21:50:00";7236;7236;"Ana Nikolić";"Ana Nikolić";"Debelo Brdo-Valjevo";"Sri Lanka";44.1583333333;19.6869444444;1033
+74871;"2017-08-09 21:50:00";7628;7628;"Diana Sekulić";"Diana Sekulić";Valjevo;Serbia;44.1583333333;19.6869444444;1033
+74872;"2017-08-08 23:20:00";7629;7629;"Milica Rakić";"Milica Rakić";"Debelo Brdo-Valjevo";Serbia;44.1583333333;19.6869444444;1033
+74873;"2017-08-08 23:20:00";7236;7236;"Ana Nikolić";"Ana Nikolić";valjevo;Serbia;44.1583333333;19.6869444444;1033
+74874;"2017-07-31 20:18:00";7606;7606;"Yulia  Moralyiska ";"Yulia  Moralyiska ";Avren;Bulgaria;43.1200000000;27.6705555556;294
+74875;"2017-08-09 18:00:00";7633;7633;"Alexandr Maidik";"Alexandr Maidik";Novotroitske;Ukraine;47.7170400000;37.5574200000;167
+74876;"2017-08-08 23:20:00";7441;7441;"Mina Stojanov";"Mina Stojanov";valjevo;Serbia;44.1583333333;19.6869444444;1033
+74877;"2017-07-30 20:24:00";7606;7606;"Yulia  Moralyiska ";"Yulia  Moralyiska ";"Avren village";Bulgaria;43.1200000000;27.6705555556;294
+74878;"2017-08-09 22:00:00";7441;7441;"Mina Stojanov";"Mina Stojanov";valjevo;Serbia;44.1583333333;19.6869444444;1033
+74879;"2017-08-01 21:45:00";7415;7415;"Jan Sadiv";"Jan Sadiv";"Nižný Orlík";Slovakia;49.3324441563;21.5331424485;260
+74880;"2017-08-10 20:10:00";7600;7600;"Snežana Todorović";"Snežana Todorović";Vingrau;France;42.8518700000;2.7742200000;189
+74881;"2017-08-10 19:50:00";7286;7286;"Sara Knežević";"Sara Knežević";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+74884;"2017-08-10 19:50:00";7441;7441;"Mina Stojanov";"Mina Stojanov";valjevo;Serbia;44.1583333333;19.6869444444;1033
+74885;"2017-08-11 18:00:00";7633;7633;"Alexandr Maidik";"Alexandr Maidik";Novotroitske;Ukraine;47.7170400000;37.5574200000;167
+74886;"2017-07-30 09:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8622222222;304
+74887;"2017-08-04 10:41:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8622222222;304
+74888;"2017-08-10 09:55:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8622222222;304
+74889;"2017-08-11 10:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8622222222;304
+74890;"2017-08-11 23:40:00";;7650;"Vasile Bulbucan";"Denisa Deac";Pătrângeni;Romania;46.0885772037;23.2581337206;405
+74891;"2017-08-11 19:40:00";7286;7286;"Sara Knežević";"Sara Knežević";Valjevo;Serbia;44.1583333333;19.6869444444;1031
+74892;"2017-07-20 21:00:00";7555;7555;"Slavi Georgiev";"Slavi Georgiev";Ardino;Bulgaria;41.5666666667;25.1500000000;772
+74893;"2017-07-21 20:20:00";7555;7555;"Slavi Georgiev";"Slavi Georgiev";Ardino;Bulgaria;41.5666666667;25.1500000000;1000
+74894;"2017-07-29 20:30:00";49;49;"Roland Winkler";"Roland Winkler";Hochwald;Germany;50.8166666667;7.7166666667;750
+74895;"2017-08-12 02:30:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Fairfield;"United States";39.6141666667;-111.3111111111;3000
+74896;"2017-08-11 21:15:00";7634;7634;"Peter Mikloš";"Peter Mikloš";Ladomirov;Slovakia;48.9349371474;22.2739452729;445
+74897;"2017-08-12 00:30:00";7685;7685;"Michael Boschat";"Michael Boschat";Halifax;Canada;44.6500000000;-63.6000000000;58
+74898;"2017-08-11 21:15:00";6881;6881;"Daniela Gavronova";"Daniela Gavronova";Ladomirov;Slovakia;48.9349371474;22.2739452729;445
+74899;"2017-08-11 21:15:00";6674;6674;"Zuzana Ontkovicova";"Zuzana Ontkovicova";Ladomirov;Slovakia;48.9349371474;22.2739452729;445
+74900;"2017-08-12 00:00:00";6675;6675;"Boris Pankovcin";"Boris Pankovcin";Ladomirov;Slovakia;48.9349371474;22.2739452729;445
+74901;"2017-08-12 00:00:00";6881;6881;"Daniela Gavronova";"Daniela Gavronova";Ladomirov;Slovakia;48.9349371474;22.2739452729;445
+74902;"2017-08-12 00:00:00";6674;6674;"Zuzana Ontkovicova";"Zuzana Ontkovicova";Ladomirov;Slovakia;48.9349371474;22.2739452729;445
+74903;"2017-08-12 00:00:00";;7634;"Tomáš Suško";"Peter Mikloš";Ladomirov;Slovakia;48.9349371474;22.2739452729;445
+74904;"2017-08-11 21:00:00";6670;6670;"Jakub Kazimir";"Jakub Kazimir";Ladomirov;Slovakia;48.9349371474;22.2739452729;445
+74905;"2017-08-11 21:00:00";;7634;"Dávid Gulyás";"Peter Mikloš";Ladomirov;Slovakia;48.9349371474;22.2739452729;445
+74906;"2017-08-11 21:00:00";6671;6671;"Patrik Danco";"Patrik Danco";Ladomirov;Slovakia;48.9349371474;22.2739452729;445
+74907;"2017-08-11 23:00:00";6670;6670;"Jakub Kazimir";"Jakub Kazimir";Ladomirov;Slovakia;48.9349371474;22.2739452729;445
+74908;"2017-08-11 23:00:00";;7634;"Dávid Gulyás";"Peter Mikloš";Ladomirov;Slovakia;48.9349371474;22.2739452729;445
+74909;"2017-08-11 23:00:00";6671;6671;"Patrik Danco";"Patrik Danco";Ladomirov;Slovakia;48.9349371474;22.2739452729;445
+74910;"2017-08-12 04:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8622222222;304
+74911;"2017-07-24 21:20:00";7690;7690;"Ангел Андрейчев";"Ангел Андрейчев";Ardino;Bulgaria;41.5762500000;25.1661666667;1003
+74912;"2017-07-25 23:00:00";7690;7690;"Ангел Андрейчев";"Ангел Андрейчев";Ardino;Bulgaria;41.5762500000;25.1661666667;1003
+74913;"2017-08-12 18:30:00";7115;7115;"Mikhail Chubarets";"Mikhail Chubarets";Донское;Ukraine;47.5132100000;37.5407000000;173
+74914;"2017-08-12 17:55:00";7694;7694;"Amir Hasanzadeh";"Amir Hasanzadeh";Tehran;Iran;35.7324807172;51.2895923916;1290
+74915;"2017-08-12 21:00:00";7698;7698;"Vladimir Kniaz";"Vladimir Kniaz";Grosseto;Italy;42.7224600000;10.9783000000;4
+74916;"2017-08-06 22:15:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+74917;"2017-08-12 23:20:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842351344;5.6110129161;11
+74918;"2017-08-12 03:48:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+74919;"2017-08-12 18:55:00";7702;7702;"Igor Chalenko";"Igor Chalenko";Koshievka;Ukraine;50.1706891667;29.9951797222;200
+74920;"2017-08-13 18:30:00";7115;7115;"Mikhail Chubarets";"Mikhail Chubarets";Донское;Ukraine;47.5132100000;37.5407000000;173
+74921;"2017-08-13 22:28:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Berlin;Germany;52.4333333333;13.3500000000;10
+74922;"2017-08-12 21:15:00";7707;7707;"Artem Myrgorod";"Artem Myrgorod";Днипро;Ukraine;48.3951291376;35.0354219774;144
+74923;"2017-08-14 00:26:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842351344;5.6110129161;11
+74924;"2017-08-13 20:04:00";81;81;"Mitja Govedič";"Mitja Govedič";Cankova;Slovenia;46.7219881986;16.0166752106;214
+74925;"2017-08-13 21:55:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3249799977;10.6488184583;513
+74926;"2017-08-11 19:16:00";7708;7708;"Alexandru Vatamanu";"Alexandru Vatamanu";Barlad;Romania;46.6383333333;27.7291666667;90
+74927;"2017-08-13 17:15:00";7472;7472;"Gang Li";"Gang Li";张家口市;China;40.9738116197;114.8028081275;1556
+74928;"2017-08-13 17:00:00";7687;7687;"Chong Xing";"Chong Xing";Luohe;China;33.8703750000;114.0689527778;60
+74929;"2017-08-11 19:40:00";7627;7627;"Ljubomir Brankovic";"Ljubomir Brankovic";"Debelo brdo - Valjevo";Serbia;44.1583333330;19.6869444444;1031
+74930;"2017-08-13 20:30:00";7308;7308;"Jose Díaz Martínez";"Jose Díaz Martínez";"Comunidad Valenciana";Spain;39.6095425786;-0.7756912882;196
+74931;"2017-08-12 19:15:00";7709;7709;"Ioan Adam";"Ioan Adam";Barlad;Romania;46.6383333333;27.7291666667;90
+74932;"2017-08-14 21:10:00";7308;7308;"Jose Díaz Martínez";"Jose Díaz Martínez";Bugarra;Spain;39.6095425786;-0.7756912882;196
+74933;"2017-08-14 20:06:00";7700;7700;"Arnaud AURRENS";"Arnaud AURRENS";"Sainte Anastasie sur Issole";France;43.3466666667;6.1294444444;317
+74934;"2017-08-13 03:30:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8622222222;304
+74935;"2017-08-14 04:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8622222222;304
+74936;"2017-08-12 13:10:00";85;85;"Shigeo Uchiyama";"Shigeo Uchiyama";minami-aizu;Japan;37.2025000000;139.7480555556;560
+74937;"2017-08-11 22:20:00";7229;7229;"Filipp Romanov";"Filipp Romanov";Москва;Russia;55.6376719320;37.6753422556;145
+74938;"2017-08-14 20:28:00";7205;7205;"Pierre Bader";"Pierre Bader";Hoechberg;Germany;49.7833333333;9.8833333333;350
+74939;"2017-08-13 19:14:00";7697;7697;"Reza Ensandoost";"Reza Ensandoost";Shahreza;Iran;32.0122211716;51.8736277447;1822
+74941;"2017-08-14 20:35:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Berlin;Germany;52.4333333333;13.3500000000;10
+74942;"2017-08-14 19:40:00";7287;7119;"Aleksa Tesic";"Ivan Stanković";Valjevo;Serbia;44.1583333333;19.6869444444;1033
+74943;"2017-08-10 19:50:00";7628;7628;"Diana Sekulić";"Diana Sekulić";Valjevo;Serbia;44.1583333333;19.6869444444;1031
+74944;"2017-08-14 20:00:00";7119;7119;"Ivan Stanković";"Ivan Stanković";Valjevo;Serbia;44.1600000000;19.6900000000;1033
+74945;"2017-08-14 19:30:00";7718;7718;"Aleksandra Mijatovic";"Aleksandra Mijatovic";Valjevo;Serbia;44.1583333333;19.6869444444;1031
+74946;"2017-08-14 19:20:00";;7119;"Ana-Marija Ćeranić";"Ivan Stanković";Valjevo;Serbia;44.1600000000;19.6900000000;1033
+74947;"2017-08-14 19:40:00";;7718;"Vanja Knezevic";"Aleksandra Mijatovic";Valjevo;Serbia;44.1583333333;19.6869444444;1031
+74948;"2017-08-11 19:40:00";7628;7628;"Diana Sekulić";"Diana Sekulić";Valjevo;Serbia;44.1583333333;19.6869444444;1033
+74949;"2017-08-14 19:40:00";7286;7119;"Sara Knežević";"Ivan Stanković";Valjevo;Serbia;44.1600000000;19.6900000000;1033
+74951;"2017-08-14 19:30:00";;7718;"Sanja Nikolic";"Aleksandra Mijatovic";Valjevo;Serbia;44.1583333333;19.6869444444;1031
+74952;"2017-08-14 19:45:00";;7119;"Sara Nikolić";"Ivan Stanković";"Debelo brdo - Valjevo";Serbia;44.1600000000;19.6900000000;1033
+74953;"2017-08-14 19:45:00";7236;7719;"Ana Nikolić";"Ognjen Bašić";Valjevo;Serbia;44.1583333333;19.6869444444;1033
+74954;"2017-08-14 19:40:00";7288;7718;"Debora Pavela";"Aleksandra Mijatovic";Valjevo;Serbia;44.1583333333;19.6869444444;1031
+74955;"2017-08-14 19:30:00";7628;7628;"Diana Sekulić";"Diana Sekulić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+74957;"2017-08-14 19:45:00";;7718;"Lazar Popovic";"Aleksandra Mijatovic";Valjevo;Serbia;44.1583333333;19.6869444444;1031
+74958;"2017-08-14 19:40:00";7629;7719;"Milica Rakić";"Ognjen Bašić";Valjevo;Serbia;44.1583333333;19.6869444444;1033
+74959;"2017-08-14 19:40:00";;7119;"Dušan Vukadinović";"Ivan Stanković";Valjevo;Serbia;44.1583333333;19.6869444444;1033
+74960;"2017-08-14 19:30:00";;7119;"Nikolina Ćirić";"Ivan Stanković";Valjevo;Serbia;44.1583333333;19.6869444444;1033
+74961;"2017-08-11 20:05:00";7600;7600;"Snežana Todorović";"Snežana Todorović";Vingrau;France;42.8518700000;2.7742200000;189
+74962;"2017-08-12 20:40:00";7600;7600;"Snežana Todorović";"Snežana Todorović";Vingrau;France;42.8518700000;2.7742200000;189
+74963;"2017-08-14 22:05:00";7600;7600;"Snežana Todorović";"Snežana Todorović";Vingrau;France;42.8518700000;2.7742200000;189
+74964;"2017-08-11 19:58:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9780799677;14.1165207447;810
+74965;"2017-08-14 19:20:00";7627;7627;"Ljubomir Brankovic";"Ljubomir Brankovic";"Debelo Brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1031
+74966;"2017-08-10 19:50:00";7627;7627;"Ljubomir Brankovic";"Ljubomir Brankovic";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+74967;"2017-08-10 21:59:00";7574;7574;"Gerardo Jiménez López";"Gerardo Jiménez López";AVILA;Spain;40.6994444444;-4.7269444444;1167
+74968;"2017-08-11 21:57:00";7574;7574;"Gerardo Jiménez López";"Gerardo Jiménez López";AVILA;Spain;40.6994444444;-4.7269444444;1167
+74969;"2017-08-12 00:15:00";7574;7574;"Gerardo Jiménez López";"Gerardo Jiménez López";AVILA;Spain;40.6566666667;-4.7072222222;1078
+74970;"2017-08-15 20:00:00";7627;7627;"Ljubomir Brankovic";"Ljubomir Brankovic";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+74971;"2017-08-14 09:30:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Utah;"United States";40.7316476408;-112.6532239137;1287
+74972;"2017-08-12 21:43:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";Rome;Italy;41.8791165297;12.4522556452;55
+74973;"2017-08-11 23:15:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";Rome;Italy;41.8791165297;12.4522556452;55
+74974;"2017-08-14 23:36:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";Lanciano;Italy;42.2363191536;14.4020474892;256
+74975;"2017-08-16 22:14:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Berlin;Germany;52.4333333333;13.3500000000;10
+74976;"2017-08-12 21:06:00";7726;7726;"Peter van Leuteren";"Peter van Leuteren";"Ambt Delden";Netherlands;52.3010739216;6.6963576849;13
+74977;"2017-07-25 19:42:00";7690;7690;"Ангел Андрейчев";"Ангел Андрейчев";Ardino;Bulgaria;41.5762500000;25.1661666667;986
+74978;"2017-07-29 19:40:00";7690;7690;"Ангел Андрейчев";"Ангел Андрейчев";Ardino;Bulgaria;41.5762500000;25.1661666667;1003
+74979;"2017-08-15 22:30:00";7719;7719;"Ognjen Bašić";"Ognjen Bašić";Valjevo;Serbia;44.1583333333;19.6869444444;1033
+74980;"2017-08-13 21:00:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1583333333;11.3916666667;520
+74981;"2017-08-14 20:50:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";"Kulmbach - Flugplatz";Germany;11.4644444444;50.1361111111;506
+74982;"2017-08-10 22:55:00";7131;7131;"Steve Brown";"Steve Brown";Middlesbrough;"United Kingdom";54.7950000000;-1.3116666667;70
+74983;"2017-08-15 23:04:00";7131;7131;"Steve Brown";"Steve Brown";Middlesbrough;"United Kingdom";54.7950000000;-1.3116666667;70
+74984;"2017-08-16 20:30:00";7627;7627;"Ljubomir Brankovic";"Ljubomir Brankovic";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+74985;"2017-08-11 19:50:00";6322;7243;"Marina Arnaut";"David Buzgo";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+74986;"2017-08-09 22:00:00";7243;7243;"David Buzgo";"David Buzgo";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+74988;"2017-08-16 20:20:00";;7243;"Vladimir Nikolic";"David Buzgo";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+74990;"2017-08-11 01:20:00";6322;7243;"Marina Arnaut";"David Buzgo";"Debelo brdo  - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+74991;"2017-08-10 20:00:00";7997;7243;"Caslav Lukic";"David Buzgo";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+74992;"2017-08-15 20:00:00";7628;7628;"Diana Sekulić";"Diana Sekulić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+74993;"2017-08-16 20:30:00";7628;7628;"Diana Sekulić";"Diana Sekulić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+74994;"2017-08-17 21:40:00";7628;7628;"Diana Sekulić";"Diana Sekulić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+74995;"2017-08-11 20:00:00";;7628;Dusanka;"Diana Sekulić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+74996;"2017-08-10 19:50:00";;7628;"Vanja Knezevic";"Diana Sekulić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+74997;"2017-08-08 23:00:00";6322;7243;"Marina Arnaut";"David Buzgo";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+74998;"2017-08-08 23:20:00";7997;7243;"Caslav Lukic";"David Buzgo";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+74999;"2017-08-08 23:00:00";;7243;"Patrik Kukic";"David Buzgo";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75000;"2017-08-09 00:40:00";7237;7243;"Branislav Savic";"David Buzgo";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75001;"2017-08-12 18:20:00";7730;7730;"asal zarei";"asal zarei";Nourabad;Iran;30.1150900000;51.5413000000;970
+75002;"2017-08-11 19:53:00";7237;7243;"Branislav Savic";"David Buzgo";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75003;"2017-08-11 01:10:00";7119;7243;"Ivan Stanković";"David Buzgo";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75004;"2017-08-12 19:00:00";7731;7731;"naimeh masoumi";"naimeh masoumi";Nourabad;Iran;30.1150900000;51.5413000000;970
+75005;"2017-08-10 19:50:00";6627;7243;"Dusanka Kovacevic";"David Buzgo";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75006;"2017-08-10 19:50:00";6980;7243;"Iva Tokovic";"David Buzgo";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75007;"2017-08-09 21:50:00";6627;7243;"Dusanka Kovacevic";"David Buzgo";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75008;"2017-08-11 19:40:00";7997;7243;"Caslav Lukic";"David Buzgo";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75009;"2017-08-11 20:00:00";6627;7243;"Dusanka Kovacevic";"David Buzgo";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75010;"2017-08-11 20:45:00";7732;7732;"Filip Matasić";"Filip Matasić";Platak;Croatia;45.4166638889;14.5666638889;1127
+75011;"2017-08-12 22:00:00";7229;7229;"Filipp Romanov";"Filipp Romanov";Москва;Russia;55.6375481302;37.6830113429;136
+75012;"2017-08-11 22:32:00";7732;7732;"Filip Matasić";"Filip Matasić";Platak;Croatia;45.4200000000;14.5700000000;1127
+75013;"2017-08-11 23:45:00";7732;7732;"Filip Matasić";"Filip Matasić";Platak;Croatia;45.4200000000;14.5700000000;1127
+75014;"2017-08-12 21:00:00";7732;7732;"Filip Matasić";"Filip Matasić";Platak;Croatia;45.4200000000;14.5700000000;1127
+75015;"2017-08-13 20:35:00";7229;7229;"Filipp Romanov";"Filipp Romanov";Москва;Russia;55.6376477095;37.6753100691;145
+75016;"2017-08-12 20:35:00";7622;7622;"Delaide Philippe";"Delaide Philippe";Cassis;France;43.2292494198;5.5296606452;188
+75017;"2017-08-19 21:36:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Berlin;Germany;52.4333333333;13.3500000000;10
+75018;"2017-08-12 21:49:00";6859;7729;"Mohammad Madani";"Mohammad Madani";"Isfahan Province";Iran;34.3000000000;51.8333300000;810
+75019;"2017-08-14 23:05:00";7622;7622;"Delaide Philippe";"Delaide Philippe";Cassis;France;43.2292494198;5.5296606452;188
+75020;"2017-08-11 20:45:00";426;426;"Lovro Pavletic";"Lovro Pavletic";Platak;Croatia;45.4200000000;14.5600000000;1127
+75021;"2017-08-19 20:45:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1583333333;11.3916666667;520
+75022;"2017-08-21 00:12:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842351344;5.6110129161;11
+75023;"2017-08-14 20:03:00";7243;7243;"David Buzgo";"David Buzgo";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75024;"2017-08-15 21:04:00";7243;7243;"David Buzgo";"David Buzgo";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75025;"2017-08-11 21:20:00";7243;7243;"David Buzgo";"David Buzgo";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75026;"2017-08-12 20:45:00";;426;"Anamarija Plazonic";"Lovro Pavletic";Platak;Croatia;45.4246390000;14.5646350000;1114
+75027;"2017-08-12 20:45:00";;426;"Dario Derkovic";"Lovro Pavletic";Platak;Croatia;45.4246390000;14.5646350000;1114
+75028;"2017-08-12 20:45:00";;426;"Leon Jagic";"Lovro Pavletic";Platak;Croatia;45.4246390000;14.5646350000;1114
+75029;"2017-08-13 21:36:00";131;131;"Javor Kac";"Javor Kac";Artviže;Slovenia;45.6078097166;14.0309358521;780
+75030;"2017-08-14 01:56:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9697921949;14.1350226225;811
+75031;"2017-08-15 22:00:00";7591;7591;"Maciej Kwinta";"Maciej Kwinta";"mount Lubomir";Poland;49.7596999338;20.0639671671;716
+75032;"2017-08-16 20:02:00";7591;7591;"Maciej Kwinta";"Maciej Kwinta";"mount Lubomir";Poland;49.7596999338;20.0639671671;716
+75033;"2017-08-14 20:05:00";7591;7591;"Maciej Kwinta";"Maciej Kwinta";Kraków;Poland;50.0163611251;19.9383280216;214
+75036;"2017-08-12 23:59:00";7728;7728;"Jatin Rathod";"Jatin Rathod";"Mahuli, Shahapur, Asangaon";India;19.4838300000;73.2588400000;50
+75037;"2017-08-21 20:24:00";7107;7107;"Zdenek Komarek";"Zdenek Komarek";Roztoky;Slovakia;49.3800000000;21.5000000000;440
+75038;"2017-08-21 20:24:00";;7107;"Ondrej Sivak";"Zdenek Komarek";Roztoky;Slovakia;49.3800000000;21.5000000000;440
+75039;"2017-08-21 20:24:00";;7107;"Katarina Dancejova";"Zdenek Komarek";Roztoky;Slovakia;49.3800000000;21.5000000000;440
+75040;"2017-08-21 20:24:00";6269;7107;"Igor Parnahaj";"Zdenek Komarek";Roztoky;Slovakia;49.3800000000;21.5000000000;440
+75041;"2017-08-08 20:00:00";7631;7631;"Konstantin Morozov";"Konstantin Morozov";Daraganovo;Belarus;53.1678470000;28.4923950000;159
+75042;"2017-08-09 20:50:00";7631;7631;"Konstantin Morozov";"Konstantin Morozov";Daraganovo;Belarus;53.1678470000;28.4923950000;159
+75043;"2017-08-10 20:43:00";7631;7631;"Konstantin Morozov";"Konstantin Morozov";Daraganovo;Belarus;53.1678470000;28.4923950000;159
+75044;"2017-08-17 08:14:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75045;"2017-07-21 22:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Geeste, Niedersachsen";Germany;52.5941666667;7.2727777778;19
+75046;"2017-07-23 23:40:00";210;210;"Ina Rendtel";"Ina Rendtel";"Taynuilt, Schottland";"United Kingdom";56.4436111111;-5.2286111111;1
+75047;"2017-07-25 00:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Bhatarsaigh (Vatersay), Schottland";"United Kingdom";56.9358333333;-7.5191666667;22
+75048;"2017-07-29 23:35:00";210;210;"Ina Rendtel";"Ina Rendtel";"Eirisgeigh(Eriskay), Schottland";"United Kingdom";57.0813888889;-7.3113888889;9
+75049;"2017-08-20 07:48:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+75050;"2017-08-12 19:51:00";131;131;"Javor Kac";"Javor Kac";Artviže;Slovenia;45.6077721889;14.0309358521;780
+75051;"2017-07-31 00:40:00";210;210;"Ina Rendtel";"Ina Rendtel";"Bornais, Uibhist A Deas (South Uist), Schottland";"United Kingdom";57.2397222222;-7.4447222222;9
+75052;"2017-08-02 00:15:00";210;210;"Ina Rendtel";"Ina Rendtel";"Lionaclait, Beinn Na Faoghla (Benbecula), Schottland";"United Kingdom";57.4441666667;-7.3975000000;8
+75053;"2017-08-14 20:54:00";131;131;"Javor Kac";"Javor Kac";"Vrh pri Poljanah";Slovenia;45.8128860084;14.6956515513;846
+75054;"2017-08-15 22:07:00";210;210;"Ina Rendtel";"Ina Rendtel";"Huisinis, Na Hearadh (Isle of Harris), Schottland";"United Kingdom";57.9955555556;-7.0947222222;8
+75055;"2017-08-22 19:26:00";7631;7631;"Konstantin Morozov";"Konstantin Morozov";Daraganovo;Belarus;53.1678470000;28.4923950000;159
+75056;"2017-08-11 21:07:00";7631;7631;"Konstantin Morozov";"Konstantin Morozov";Daraganovo;Belarus;53.1678470000;28.4923950000;159
+75057;"2017-08-11 22:37:00";7631;7631;"Konstantin Morozov";"Konstantin Morozov";Daraganovo;Belarus;53.1678470000;28.4923950000;159
+75058;"2017-08-12 19:34:00";7631;7631;"Konstantin Morozov";"Konstantin Morozov";Daraganovo;Belarus;53.1678470000;28.4923950000;159
+75059;"2017-08-12 22:01:00";7631;7631;"Konstantin Morozov";"Konstantin Morozov";Daraganovo;Belarus;53.1678470000;28.4923950000;159
+75060;"2017-08-22 21:00:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3237516598;10.6435961973;455
+75061;"2017-08-18 21:32:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9780800000;14.1165200000;810
+75062;"2017-08-16 22:15:00";210;210;"Ina Rendtel";"Ina Rendtel";"Stafainn (Staffin), Isle of Skye, Schottland";"United Kingdom";57.6350000000;-6.2022222222;8
+75063;"2017-08-19 20:04:00";210;210;"Ina Rendtel";"Ina Rendtel";"Gülper See, Nordseite, Brandenburg";Germany;52.7519444444;12.2725000000;40
+75064;"2017-08-23 19:58:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+75066;"2017-08-12 21:30:00";;7728;"Raunak Sirsat";"Jatin Rathod";"Mahuli, Shahapur, Asangaon";India;19.4838300000;73.2588400000;50
+75069;"2017-08-22 07:18:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+75070;"2017-08-26 20:45:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3462143020;10.7004778039;508
+75071;"2017-08-26 23:00:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3462143020;10.7004778039;508
+75072;"2017-08-19 23:45:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+75073;"2017-08-28 00:15:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842351344;5.6110129161;11
+75074;"2017-08-28 23:10:00";7205;7205;"Pierre Bader";"Pierre Bader";Hoechberg;Germany;49.7833333333;9.8833333333;350
+75076;"2017-03-26 02:40:00";7289;135;"Pedro Pérez Corujo";"Orlando Benitez Sanchez";"Pico de las Nieves, Gran Canaria";Spain;27.9630555556;-15.5463888889;1850
+75079;"2017-04-22 00:54:00";7289;135;"Pedro Pérez Corujo";"Orlando Benitez Sanchez";"Llanos del Garañón. Gran Canaria.";Spain;27.9686111111;-15.5888888889;1700
+75080;"2017-05-04 03:40:00";7289;135;"Pedro Pérez Corujo";"Orlando Benitez Sanchez";"Pico de La Gorra, Gran Canaria";Spain;27.9630555556;-15.5463888889;1800
+75081;"2017-05-07 03:35:00";7289;135;"Pedro Pérez Corujo";"Orlando Benitez Sanchez";"Pico de La Gorra, Gran Canaria";Spain;27.9630555556;-15.5463888889;1800
+75082;"2017-05-29 23:20:00";7289;135;"Pedro Pérez Corujo";"Orlando Benitez Sanchez";"Llanos del Garañón. Gran Canaria.";Spain;27.9686111111;-15.5888888889;1700
+75083;"2017-05-30 21:40:00";7289;135;"Pedro Pérez Corujo";"Orlando Benitez Sanchez";"Llanos del Garañón. Gran Canaria.";Spain;27.9686111111;-15.5888888889;1700
+75084;"2017-07-30 01:30:00";7289;135;"Pedro Pérez Corujo";"Orlando Benitez Sanchez";"Llanos del Garañón. Gran Canaria.";Spain;27.9686111111;-15.5888888889;1700
+75085;"2017-08-19 02:10:00";7289;135;"Pedro Pérez Corujo";"Orlando Benitez Sanchez";"Llanos del Garañón. Gran Canaria.";Spain;27.9686111111;-15.5888888889;1700
+75086;"2017-04-21 20:56:00";135;135;"Orlando Benitez Sanchez";"Orlando Benitez Sanchez";"Pico de La Gorra, Gran Canaria";Spain;27.9630555556;-15.5463888889;1750
+75087;"2017-04-22 00:35:00";135;135;"Orlando Benitez Sanchez";"Orlando Benitez Sanchez";"Llanos del Garañón, Gran Canaria";Spain;27.9688888889;-15.5888888889;1700
+75088;"2017-04-23 20:30:00";135;135;"Orlando Benitez Sanchez";"Orlando Benitez Sanchez";"Pico de La Gorra, Gran Canaria";Spain;27.9630555556;-15.5463888889;1750
+75089;"2017-05-07 03:21:00";135;135;"Orlando Benitez Sanchez";"Orlando Benitez Sanchez";"Pico de La Gorra, Gran Canaria";Spain;27.9630555556;-15.5463888889;1750
+75090;"2017-05-29 23:05:00";135;135;"Orlando Benitez Sanchez";"Orlando Benitez Sanchez";"Llanos del Garañón, Gran Canaria";Spain;27.9688888889;-15.5888888889;1700
+75091;"2017-05-30 21:15:00";135;135;"Orlando Benitez Sanchez";"Orlando Benitez Sanchez";"Llanos del Garañón, Gran Canaria";Spain;27.9688888889;-15.5888888889;1700
+75092;"2017-06-04 04:03:00";135;135;"Orlando Benitez Sanchez";"Orlando Benitez Sanchez";"Pico de La Gorra, Gran Canaria";Spain;27.9630555556;-15.5463888889;1692
+75093;"2017-07-26 01:10:00";135;135;"Orlando Benitez Sanchez";"Orlando Benitez Sanchez";"Noalla, Pontevedra";Spain;42.4246666667;-8.8567500000;50
+75094;"2017-07-27 02:13:00";135;135;"Orlando Benitez Sanchez";"Orlando Benitez Sanchez";"Noalla, Pontevedra";Spain;42.4246666667;-8.8567500000;50
+75095;"2017-08-30 00:13:00";7205;7205;"Pierre Bader";"Pierre Bader";Hoechberg;Germany;49.7833333333;9.8833333333;350
+75096;"2017-08-02 01:19:00";135;135;"Orlando Benitez Sanchez";"Orlando Benitez Sanchez";"Noalla, Pontevedra";Spain;42.4246666667;-8.8567500000;50
+75097;"2017-08-25 20:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Neuendorf (Saal), Mecklenburg-Vorpommern";Germany;54.3344444444;12.5277777778;2
+75102;"2017-08-14 07:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Kalifornien;"United States";40.4366907929;-121.5330427388;2046
+75103;"2017-08-15 07:05:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Kalifornien;"United States";40.4938362157;-121.4241150424;2037
+75104;"2017-08-18 07:50:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Oregon;"United States";42.1878496028;-123.6478606435;399
+75105;"2017-08-19 07:55:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Oregon;"United States";42.8650334001;-122.1664568171;1836
+75106;"2017-08-20 07:40:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Oregon;"United States";43.5495863479;-119.6115310922;1308
+75107;"2017-08-21 08:10:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Oregon;"United States";44.5694933958;-118.3976061466;1342
+75108;"2017-08-26 09:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Nevada;"United States";41.0280176714;-115.0478637850;2005
+75109;"2017-08-11 20:30:00";7596;7596;"Toni Stipeč";"Toni Stipeč";Platak;Croatia;45.4255771000;14.5653000000;1118
+75110;"2017-08-12 23:35:00";7596;7596;"Toni Stipeč";"Toni Stipeč";Platak;Croatia;45.4255000000;14.5653000000;1117
+75111;"2017-08-31 07:27:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+75112;"2017-08-28 23:10:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+75113;"2017-08-29 22:15:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+75114;"2017-08-31 23:05:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3238894292;10.4436905532;362
+75115;"2017-08-11 23:25:00";135;135;"Orlando Benitez Sanchez";"Orlando Benitez Sanchez";"Noalla, Pontevedra";Spain;42.4246666667;-8.8567500000;71
+75116;"2017-08-13 00:46:00";135;135;"Orlando Benitez Sanchez";"Orlando Benitez Sanchez";"Noalla, Pontevedra";Spain;42.4246666667;-8.8567500000;50
+75117;"2017-09-01 07:57:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+75118;"2017-08-08 23:20:00";;7628;"Nastasija Petkovic";"Diana Sekulić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75119;"2017-08-10 19:50:00";;7628;"Dragan Micic";"Diana Sekulić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75120;"2017-08-14 19:30:00";;7628;"Mladen Basic";"Diana Sekulić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75121;"2017-08-15 20:00:00";;7628;"Dusan Vukadinovic";"Diana Sekulić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75122;"2017-08-11 19:45:00";7236;7236;"Ana Nikolić";"Ana Nikolić";"Debelo Brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75123;"2017-08-15 20:00:00";;7628;"Mladen Basic";"Diana Sekulić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75124;"2017-08-15 20:20:00";;7628;"Dragan Micic";"Diana Sekulić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75125;"2017-08-15 20:00:00";;7628;"Sara Brkovic";"Diana Sekulić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75126;"2017-08-16 20:10:00";7629;7628;"Milica Rakić";"Diana Sekulić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75127;"2017-08-16 21:50:00";7078;7628;"Aleksandra Mirkovic";"Diana Sekulić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75128;"2017-08-11 22:10:00";7287;7236;"Aleksa Tesic";"Ana Nikolić";"Debelo Brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75129;"2017-08-16 21:50:00";;7628;"Mladen Basic";"Diana Sekulić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75130;"2017-08-17 21:30:00";;7628;"Mladen Basic";"Diana Sekulić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75131;"2017-08-11 22:20:00";7441;7628;"Mina Stojanov";"Diana Sekulić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75132;"2017-08-11 22:10:00";;7755;"Vladimir Nikolić";"Vladimir Nikolić";"Debelo Brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75133;"2017-08-11 19:30:00";7143;7236;"Dragan Mićić";"Ana Nikolić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75134;"2017-08-08 23:20:00";6627;7754;"Dusanka Kovacevic";"Dunja Pavlović";"Debelo Brdo - Valjevo";Serbia;44.1583333333;19.6916666667;978
+75135;"2017-08-11 19:44:00";6950;7236;"Sanja Nikolic";"Ana Nikolić";"Debelo Brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75136;"2017-08-15 20:00:00";7239;7236;"Nikolina Ćirić";"Ana Nikolić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75137;"2017-08-08 23:15:00";;7754;"Sara Nikolić";"Dunja Pavlović";"Debello Brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75138;"2017-08-08 23:10:00";;7754;"Luka Brković";"Dunja Pavlović";"Debello Brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75139;"2017-08-15 19:50:00";7629;7236;"Milica Rakić";"Ana Nikolić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75140;"2017-08-08 23:10:00";;7754;"Nikola Perović";"Dunja Pavlović";"Debello Brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1031
+75141;"2017-08-16 20:20:00";;7119;"Nikola Perović";"Ivan Stanković";Valjevo;Serbia;44.1583333333;19.6869444444;1033
+75142;"2017-08-08 23:20:00";6951;7754;"Marija Kovac";"Dunja Pavlović";"Debelo Brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1031
+75143;"2017-08-16 20:20:00";6950;7119;"Sanja Nikolic";"Ivan Stanković";valjevo;Serbia;44.1583333333;19.6869444444;1033
+75144;"2017-08-08 23:20:00";7755;7754;"Vladimir Nikolić";"Dunja Pavlović";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75145;"2017-08-15 20:00:00";7288;7754;"Debora Pavela";"Dunja Pavlović";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75146;"2017-08-16 20:20:00";7239;7119;"Nikolina Ćirić";"Ivan Stanković";Valjevo;Serbia;44.1583333333;19.6869444444;1033
+75147;"2017-08-16 20:20:00";7236;7236;"Ana Nikolić";"Ana Nikolić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75148;"2017-08-11 19:45:00";7239;7754;"Nikolina Ćirić";"Dunja Pavlović";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75149;"2017-08-10 19:50:00";;7119;"Dario Piuković";"Ivan Stanković";Valjevo;Serbia;44.1583333333;19.6869444444;1033
+75150;"2017-08-10 21:50:00";;7119;"Nastasija Petković";"Ivan Stanković";valjevo;Serbia;44.1583333333;19.6869444444;1033
+75151;"2017-08-10 19:50:00";;7119;"Sara Nikolić";"Ivan Stanković";valjevo;Serbia;44.1583333333;19.6869444444;1033
+75152;"2017-08-11 19:40:00";;7754;"Andrijana Miković";"Dunja Pavlović";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75153;"2017-08-14 19:30:00";7078;7236;"Aleksandra Mirkovic";"Ana Nikolić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75154;"2017-08-11 19:25:00";;7754;"Ana-Marija Ćeranić";"Dunja Pavlović";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75155;"2017-08-10 19:50:00";7236;7236;"Ana Nikolić";"Ana Nikolić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75156;"2017-08-11 19:25:00";6980;7754;"Iva Tokovic";"Dunja Pavlović";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75157;"2017-08-14 19:50:00";7143;7236;"Dragan Mićić";"Ana Nikolić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75158;"2017-08-11 20:00:00";;7754;"Nastasija Petković";"Dunja Pavlović";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75159;"2017-08-11 22:30:00";7983;7754;"Lazar Popović";"Dunja Pavlović";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75160;"2017-08-20 19:40:00";7755;7236;"Vladimir Nikolić";"Ana Nikolić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75161;"2017-08-09 21:50:00";;7236;"Andrijana Miković";"Ana Nikolić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75162;"2017-08-09 22:00:00";;7236;"Nastasija Petković";"Ana Nikolić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75163;"2017-09-03 00:41:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75164;"2017-08-09 21:50:00";;7236;"Sara Nikolić";"Ana Nikolić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75165;"2017-08-14 19:50:00";;7628;"Dusanka Kovacevic";"Diana Sekulić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75167;"2017-08-10 19:25:00";;7119;"Dario Piuković";"Ivan Stanković";valjevo;Serbia;44.1583333333;19.6869444444;1033
+75168;"2017-08-09 22:00:00";;7119;"Patrik Kukić";"Ivan Stanković";Valjevo;Serbia;44.1583333333;19.6869444444;1033
+75169;"2017-08-11 19:40:00";;7754;"Nikola Perović";"Dunja Pavlović";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75170;"2017-08-09 21:40:00";;7119;"Nikola Perović";"Ivan Stanković";Valjevo;Serbia;44.1583333333;19.6869444444;1033
+75171;"2017-08-11 19:50:00";7629;7628;"Milica Rakić";"Diana Sekulić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75172;"2017-08-15 20:00:00";;7754;"Sara Radović";"Dunja Pavlović";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75173;"2017-08-08 23:20:00";7143;7119;"Dragan Mićić";"Ivan Stanković";Valjevo;Serbia;44.1583333333;19.6869444444;1033
+75174;"2017-08-16 20:20:00";7718;7119;"Aleksandra Mijatovic";"Ivan Stanković";Valjevo;Serbia;44.1583333333;19.6869444444;1033
+75175;"2017-08-15 20:20:00";7718;7119;"Aleksandra Mijatovic";"Ivan Stanković";Valjevo;Serbia;44.1583333333;19.6869444444;1033
+75176;"2017-08-11 01:10:00";7237;7237;"Branislav Savic";"Branislav Savic";"Debelo Brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75177;"2017-08-14 20:06:00";7237;7237;"Branislav Savic";"Branislav Savic";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75178;"2017-08-15 20:45:00";7237;7237;"Branislav Savic";"Branislav Savic";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75179;"2017-08-16 22:27:00";7237;7237;"Branislav Savic";"Branislav Savic";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75180;"2017-08-18 23:40:00";7237;7237;"Branislav Savic";"Branislav Savic";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75181;"2017-09-03 00:55:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+75182;"2017-09-03 01:10:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842351344;5.6110129161;11
+75183;"2017-09-10 19:12:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75184;"2017-08-11 22:14:00";7762;7762;"Sergey Stariy";"Sergey Stariy";Киев;Ukraine;50.4501000000;30.5234000000;157
+75185;"2017-09-01 09:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8622222222;304
+75186;"2017-09-12 19:26:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+75187;"2017-08-13 00:00:00";7568;7568;"Vlad Shelin";"Vlad Shelin";Kiev;Ukraine;50.3983292693;30.5339491281;151
+75188;"2017-08-13 00:00:00";7764;7764;"Roman Ramera";"Roman Ramera";Kiev;Ukraine;50.4501000000;30.5234000000;157
+75189;"2017-08-12 20:50:00";7765;7765;"Sofia Dimitrieva";"Sofia Dimitrieva";Kiev;Ukraine;50.3984079184;30.5342253956;151
+75190;"2017-09-15 21:57:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Töplitz;Germany;52.4473694444;12.9210083333;40
+75191;"2017-08-13 00:00:00";7766;7766;"kolya stariy";"kolya stariy";Киев;Ukraine;50.3983805622;30.5340430054;151
+75192;"2017-09-15 22:05:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+75193;"2017-09-19 00:45:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75194;"2017-09-16 21:15:00";210;210;"Ina Rendtel";"Ina Rendtel";"Hundisburg, Haldensleben, Sachsen-Anhalt";Germany;52.2475000000;11.3905555556;71
+75195;"2017-07-28 21:00:00";22;22;"Ivanka Getsova-Momcheva";"Ivanka Getsova-Momcheva";Аврен;Bulgaria;43.1126700000;27.6671700000;269
+75196;"2017-07-29 21:30:00";22;22;"Ivanka Getsova-Momcheva";"Ivanka Getsova-Momcheva";Avren;Bulgaria;43.1126700000;27.6671700000;269
+75197;"2017-07-30 20:35:00";22;22;"Ivanka Getsova-Momcheva";"Ivanka Getsova-Momcheva";Avren;Bulgaria;43.1126700000;27.6671700000;269
+75198;"2017-07-31 20:30:00";22;22;"Ivanka Getsova-Momcheva";"Ivanka Getsova-Momcheva";Avren;Bulgaria;43.1126700000;27.6671700000;269
+75199;"2017-08-12 19:10:00";22;22;"Ivanka Getsova-Momcheva";"Ivanka Getsova-Momcheva";Kichevo;Bulgaria;43.2669900000;27.9669900000;297
+75200;"2017-09-20 07:54:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+75201;"2017-09-23 07:52:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75202;"2017-09-21 07:52:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75203;"2017-09-23 23:29:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842400000;5.6110100000;11
+75204;"2017-08-12 22:25:00";7762;7762;"Sergey Stariy";"Sergey Stariy";Киев;Ukraine;50.3982848154;30.5339625391;151
+75205;"2017-09-22 07:51:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75206;"2017-08-30 07:24:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75207;"2017-09-22 18:50:00";210;210;"Ina Rendtel";"Ina Rendtel";"Markgrafenheide, Mecklenburg-Vorpommern";Germany;54.1941666667;12.1419444444;5
+75208;"2017-09-12 19:30:00";49;49;"Roland Winkler";"Roland Winkler";Töplitz;Germany;52.4475000000;12.9208333333;40
+75209;"2017-09-30 01:55:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75239;"2017-10-02 02:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75300;"2017-08-12 20:40:00";7783;7783;"Polina Dimitrieva";"Polina Dimitrieva";Киев;Ukraine;50.3984256713;30.5340853416;151
+75301;"2017-10-02 09:15:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75302;"2017-10-03 10:24:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75369;"2017-10-08 18:10:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3249777582;10.6490472463;515
+75370;"2017-10-09 18:10:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3239366618;10.6433931497;452
+75379;"2017-10-13 04:57:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75380;"2017-10-14 04:54:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75381;"2017-10-12 18:10:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3239366618;10.6433931497;452
+75382;"2017-10-12 20:15:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3239366618;10.6433931497;452
+75383;"2017-10-15 04:55:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75384;"2017-10-15 22:50:00";7205;7205;"Pierre Bader";"Pierre Bader";Hoechberg;Germany;49.7833333333;9.8833333333;350
+75391;"2017-10-16 00:00:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3239366618;10.6433931497;452
+75392;"2017-10-16 23:25:00";7205;7205;"Pierre Bader";"Pierre Bader";Hoechberg;Germany;49.7833333333;9.8833333333;350
+75393;"2017-10-14 18:15:00";7205;7205;"Pierre Bader";"Pierre Bader";Hoechberg;Germany;49.7833333333;9.8833333333;350
+75394;"2017-10-14 20:50:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+75395;"2017-10-14 23:30:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ronse;Belgium;50.7288888889;3.6147222222;30
+75396;"2017-10-17 23:28:00";7205;7205;"Pierre Bader";"Pierre Bader";Hoechberg;Germany;49.7833333333;9.8833333333;350
+75397;"2017-10-18 01:00:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3239366618;10.6433931497;452
+75398;"2017-10-15 20:30:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+75399;"2017-10-16 09:43:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75400;"2017-10-18 10:30:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8622222222;304
+75401;"2017-10-18 09:45:00";7813;7813;"Brian Hancock";"Brian Hancock";Southaven;"United States";34.9390615093;-89.9232772239;116
+75402;"2017-10-19 00:02:00";7205;7205;"Pierre Bader";"Pierre Bader";Hoechberg;Germany;49.7833333333;9.8833333333;350
+75403;"2017-10-16 01:42:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75404;"2017-10-19 02:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+75406;"2017-08-13 20:00:00";7400;7400;"Julien R";"Julien R";Saint-François-Lacroix;France;49.3536942320;6.4628978811;258
+75407;"2017-10-15 19:00:00";7400;7400;"Julien R";"Julien R";Monneren;France;49.3567167221;6.3935681425;281
+75408;"2017-10-19 07:44:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75409;"2017-10-19 08:15:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Oakdale;"United States";41.4747222222;-72.1580555556;111
+75410;"2017-10-20 02:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+75411;"2017-08-12 18:00:00";7450;7450;"Aldrin Gabuya";"Aldrin Gabuya";"Abu Dhabi";"United Arab Emirates";24.1765000000;54.6852000000;50
+75412;"2017-10-18 23:30:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3239366618;10.6433931497;452
+75413;"2017-10-20 13:30:00";7344;7344;"John Drummond";"John Drummond";Gisborne;"New Zealand";-38.6299000000;177.8833111111;12
+75414;"2017-10-21 01:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+75415;"2017-10-20 21:40:00";;7634;"Boris Pankonvčin";"Peter Mikloš";Ladomirov;Slovakia;48.9349371474;22.2739452729;445
+75416;"2017-10-20 21:40:00";6886;6886;"Erik Vincler";"Erik Vincler";Ladomirov;Slovakia;48.9349371474;22.2739452729;445
+75417;"2017-10-20 21:40:00";6671;6671;"Patrik Danco";"Patrik Danco";Ladomirov;Slovakia;48.9349371474;22.2739452729;445
+75418;"2017-10-20 21:40:00";6672;6672;"Viliam Ledzinsky";"Viliam Ledzinsky";Ladomirov;Slovakia;48.9349371474;22.2739452729;445
+75419;"2017-10-20 22:00:00";7287;7287;"Aleksa Tesic";"Aleksa Tesic";Petnica;Serbia;44.2466700000;19.9308300000;217
+75420;"2017-10-20 22:00:00";7236;7236;"Ana Nikolić";"Ana Nikolić";"Petnica - Valjevo";Serbia;44.2413888889;19.9308333333;321
+75421;"2017-10-20 22:00:00";7835;7835;"Nina Perović";"Nina Perović";"Petnica- Valjevo";Serbia;44.2413888889;19.9308333333;321
+75423;"2017-10-20 21:10:00";7834;7834;"Ole Lit";"Ole Lit";"South District";Israel;30.3702717186;34.9791812870;415
+75424;"2017-10-21 00:25:00";7836;7836;"Ella Ratz";"Ella Ratz";"South District";Israel;30.3690703589;34.9741535357;405
+75425;"2017-10-21 22:20:00";7287;7287;"Aleksa Tesic";"Aleksa Tesic";Petnica;Serbia;44.2466700000;19.9308300000;217
+75426;"2017-10-22 00:10:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+75427;"2017-10-21 20:33:00";;7838;"Matvey Dubishkin";"Dmitry Dubishkin";"Mount Stavrovouni";Cyprus;34.8854722222;33.4342222222;627
+75428;"2017-10-21 22:20:00";7236;7236;"Ana Nikolić";"Ana Nikolić";Valjevo;Serbia;44.2463888889;19.9261111111;218
+75429;"2017-10-21 22:20:00";7835;7835;"Nina Perović";"Nina Perović";"Petnica- Valjevo";Serbia;44.2463888889;19.9261111111;218
+75430;"2017-10-21 20:33:00";7274;7274;"Sasha Prokofyev";"Sasha Prokofyev";"Mount Stavrovouni";Cyprus;34.8853830000;33.4342200000;626
+75431;"2017-10-20 22:00:00";7839;7839;"Sara Brković";"Sara Brković";Valjevo;Serbia;44.2413888889;19.9308333333;320
+75432;"2017-10-20 22:00:00";7840;7840;"Damnjan  Milić";"Damnjan  Milić";Petnica;Serbia;44.2416111111;19.9302777778;319
+75433;"2017-08-24 21:08:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Messlingen;Sweden;62.6722222222;12.8583333333;820
+75434;"2017-08-13 04:00:00";7289;7289;"Pedro Pérez Corujo";"Pedro Pérez Corujo";"PICO DE LAS NIEVES GRAN CANARIA";Spain;27.9666666667;-15.5500000000;1890
+75435;"2017-09-15 19:22:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+75436;"2017-10-20 22:00:00";94;7288;"Branislav Savic";"Debora Pavela";Valjevo;Serbia;44.2413888889;19.9308333333;320
+75437;"2017-10-21 22:20:00";7841;7841;"Jana Marković";"Jana Marković";Petnica;Serbia;44.2465674732;19.9274767980;219
+75438;"2017-10-21 22:25:00";94;7288;"Branislav Savic";"Debora Pavela";Valjevo;Serbia;44.2463888889;19.9261111111;217
+75439;"2017-10-23 01:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+75440;"2017-10-23 05:40:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+75441;"2017-10-23 00:08:00";7205;7205;"Pierre Bader";"Pierre Bader";Hoechberg;Germany;49.7833333333;9.8833333333;350
+75442;"2017-10-21 22:20:00";7755;7755;"Vladimir Nikolić";"Vladimir Nikolić";Valjevo;Serbia;44.2463888889;19.9261111111;218
+75443;"2017-10-21 22:10:00";;7288;"Anes Kreco";"Debora Pavela";Petnica;Serbia;44.2463138500;19.9262483463;218
+75444;"2017-10-19 08:15:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Oakdale;"United States";41.4747222222;-72.1633333333;100
+75445;"2017-10-20 08:30:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Peekskill;"United States";41.2697222222;-73.9258333333;30
+75446;"2017-10-21 21:31:00";7283;7283;"Katie Demetriou";"Katie Demetriou";Pyrga;Cyprus;34.8801602766;33.4320603743;493
+75447;"2017-10-20 22:00:00";7288;7288;"Debora Pavela";"Debora Pavela";Petnica;Serbia;44.2414486844;19.9307946906;320
+75448;"2017-10-20 22:00:00";7629;7629;"Milica Rakić";"Milica Rakić";Valjevo;Serbia;44.2413888889;19.9302777778;320
+75449;"2017-10-24 05:05:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+75450;"2017-10-21 22:05:00";7400;7400;"Julien R";"Julien R";Saint-François-Lacroix;France;49.3536907376;6.4628871522;258
+75451;"2017-10-14 22:50:00";7400;82;"Julien R";"Jurgen Rendtel";Saint-François-Lacroix;France;49.3536907376;6.4628871522;258
+75452;"2017-10-21 10:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8622222222;304
+75453;"2017-10-22 09:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8622222222;304
+75454;"2017-10-23 08:30:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8622222222;304
+75455;"2017-10-24 10:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8622222222;304
+75456;"2017-08-29 22:00:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg;Germany;49.4202777778;8.7475000000;220
+75457;"2017-10-13 21:58:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg;Germany;49.4202777778;8.7475000000;220
+75458;"2017-10-14 21:56:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg;Germany;49.4202777778;8.7475000000;220
+75459;"2017-10-17 21:36:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg;Germany;49.4202777778;8.7475000000;220
+75460;"2017-10-25 04:33:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+75461;"2017-10-25 06:49:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75462;"2017-10-21 06:54:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75463;"2017-10-22 06:46:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75464;"2017-10-26 00:35:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+75465;"2017-10-25 23:35:00";7205;7205;"Pierre Bader";"Pierre Bader";Hoechberg;Germany;49.7833333333;9.8833333333;350
+75466;"2017-10-26 07:53:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75467;"2017-10-27 02:10:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+75468;"2017-10-27 06:52:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75469;"2017-10-28 02:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+75470;"2017-10-26 22:30:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3239366618;10.6433931497;452
+75471;"2017-10-27 00:40:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3239366618;10.6433931497;452
+75472;"2017-10-28 06:50:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+75473;"2017-10-28 08:30:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8622222222;304
+75474;"2017-10-29 03:39:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+75475;"2017-10-29 07:25:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75476;"2017-10-14 21:20:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+75477;"2017-10-30 02:10:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+75478;"2017-10-20 01:40:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+75479;"2017-10-21 21:20:00";214;214;"Koen Miskotte";"Koen Miskotte";Any-Martin-Rieux;France;49.8822918680;4.2186171858;215
+75480;"2017-10-20 20:20:00";210;210;"Ina Rendtel";"Ina Rendtel";"Gnevsdorf, Brandenburg";Germany;52.9119444444;11.8686111111;20
+75481;"2017-10-23 00:29:00";214;214;"Koen Miskotte";"Koen Miskotte";Any-Martin-Rieux;France;49.8822918680;4.2186171858;215
+75482;"2017-10-30 00:20:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3239366618;10.6433931497;452
+75483;"2017-10-30 08:00:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+75484;"2017-10-17 08:51:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75485;"2017-10-18 06:55:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75486;"2017-10-31 03:33:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+75487;"2017-11-01 04:10:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+75488;"2017-10-31 10:21:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75489;"2017-11-01 10:14:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75490;"2017-10-23 06:30:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75491;"2017-11-02 10:55:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75492;"2017-10-24 07:45:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75493;"2017-10-25 01:22:00";131;131;"Javor Kac";"Javor Kac";Janče;Slovenia;46.0528472069;14.7128892021;771
+75494;"2017-10-28 01:20:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9697900000;14.1350200000;811
+75495;"2017-10-21 15:00:00";7854;7854;"Hansub Jung";"Hansub Jung";Wonju;"South Korea";37.6234500000;128.2974638889;650
+75498;"2017-09-15 19:10:00";7322;7322;"Frank Wächter";"Frank Wächter";Radebeul;Germany;51.1200000000;13.6100000000;114
+75499;"2017-11-11 04:46:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75500;"2017-11-09 17:25:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3239366618;10.6433931497;452
+75501;"2017-11-11 18:00:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3239366618;10.6433931497;452
+75502;"2017-11-11 21:15:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3239366618;10.6433931497;452
+75503;"2017-11-12 05:43:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75504;"2017-11-12 20:00:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3239366618;10.6433931497;452
+75505;"2017-08-09 21:00:00";7612;7612;"Ida Havrankova";"Ida Havrankova";Orebic;Croatia;49.7422222222;17.4038888889;595
+75506;"2017-08-09 21:15:00";7332;7332;"Jiri Konecny";"Jiri Konecny";Orebic;Croatia;49.7422222222;17.4038888889;595
+75507;"2017-08-09 21:00:00";7608;7608;"David Havranek";"David Havranek";Orebic;Croatia;49.7422222222;17.4038888889;595
+75508;"2017-08-09 21:15:00";7609;7609;"Julie Dostalova";"Julie Dostalova";Orebic;Croatia;49.7422222222;17.4038888889;595
+75509;"2017-08-09 21:00:00";11448;11448;"Štěpán Ptáčník";"Štěpán Ptáčník";Orebic;Croatia;49.7422222222;17.4038888889;595
+75510;"2017-11-13 17:10:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3239366618;10.6433931497;452
+75511;"2017-11-13 18:30:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3239366618;10.6433931497;452
+75512;"2017-11-13 22:30:00";7400;7400;"Julien R";"Julien R";Saint-François-Lacroix;France;49.3538514759;6.4633431278;256
+75513;"2017-11-13 23:15:00";7205;7205;"Pierre Bader";"Pierre Bader";Hoechberg;Germany;49.7833333333;9.8833333333;350
+75514;"2017-11-15 07:50:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75515;"2017-11-13 06:12:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75516;"2017-11-13 23:40:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75517;"2017-11-16 07:53:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75518;"2017-11-16 10:00:00";254;254;"Pete Kozich";"Pete Kozich";"Whiteside, Missouri";"United States";39.1741666667;-91.0133333333;235
+75519;"2017-11-14 07:40:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75520;"2017-11-16 06:35:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4104644654;-45.5351835695;896
+75521;"2017-11-17 01:45:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3239366618;10.6433931497;452
+75522;"2017-11-17 18:16:00";7811;7811;"Mina Alizadeh";"Mina Alizadeh";Karaj;Iran;35.8434454957;50.9873918199;1371
+75523;"2017-11-17 23:05:00";7279;7279;"Sneha Kulkarni";"Sneha Kulkarni";Pusane;India;18.6309205983;73.6175057644;661
+75524;"2017-11-17 22:50:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75525;"2017-11-17 23:05:00";7294;7294;"Dnyaneshwari Talekar";"Dnyaneshwari Talekar";Pusane;India;18.6337000000;73.6138800000;662
+75526;"2017-11-18 08:19:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75527;"2017-11-18 10:30:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Galveston;"United States";29.4502777778;-94.6741666667;1
+75528;"2017-11-17 20:17:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+75529;"2017-11-17 20:05:00";7322;7322;"Frank Wächter";"Frank Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+75530;"2017-11-17 07:53:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75531;"2017-11-19 04:29:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75532;"2017-11-17 17:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+75533;"2017-11-17 20:51:00";7884;7884;"Kavita Bandivadekar";"Kavita Bandivadekar";Pasali;India;18.2285078051;73.5923283831;681
+75534;"2017-11-19 07:28:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75535;"2017-11-17 20:50:00";7891;7891;"Prayag Gore";"Prayag Gore";Pasali;India;18.2285700000;73.5907000000;679
+75536;"2017-11-20 01:50:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75537;"2017-11-17 20:58:00";7894;7894;"Meghan Mohite";"Meghan Mohite";Pune;India;18.2287850000;73.5907870000;679
+75538;"2017-11-19 23:18:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+75539;"2017-11-19 11:20:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Brazosport;"United States";29.0408333333;-95.1663888889;1
+75540;"2017-11-19 23:30:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3239366618;10.6433931497;452
+75541;"2017-11-20 00:30:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3239366618;10.6433931497;452
+75542;"2017-10-20 21:00:00";7450;7450;"Aldrin Gabuya";"Aldrin Gabuya";"Abu Dhabi";"United Arab Emirates";24.1765000000;54.6852000000;50
+75543;"2017-10-21 20:00:00";7450;7450;"Aldrin Gabuya";"Aldrin Gabuya";"Abu Dhabi";"United Arab Emirates";24.1765000000;54.6852000000;50
+75544;"2017-11-17 20:51:00";7893;7893;"Prajakta  Khaty ";"Prajakta  Khaty ";Pasali;India;18.2285700000;73.5907000000;679
+75545;"2017-11-20 08:16:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75546;"2017-11-21 08:14:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75547;"2017-11-22 07:56:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75548;"2017-11-23 02:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75549;"2017-11-23 08:48:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75550;"2017-08-11 22:39:00";7912;7912;"Tomáš Toma";"Tomáš Toma";Trebišov;Slovakia;48.6666666667;21.7500000000;105
+75551;"2017-11-23 18:45:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3239366618;10.6433931497;452
+75552;"2017-10-08 18:18:00";7322;7322;"Frank Wächter";"Frank Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+75553;"2017-10-17 19:40:00";7322;7322;"Frank Wächter";"Frank Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+75554;"2017-11-23 01:15:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+75555;"2017-10-08 18:34:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+75556;"2017-10-15 19:49:00";7241;7241;"Sabine Wächter";"Sabine Wächter";"Röhrsdorf/Königsbrücker Heide";Germany;51.2950000000;13.8300000000;182
+75557;"2017-10-17 19:49:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+75558;"2017-11-24 08:35:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75559;"2017-11-25 08:17:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75560;"2017-11-19 06:23:00";7904;7904;"Geng Zhao";"Geng Zhao";California;"United States";36.4200155196;-116.8122088599;207
+75561;"2017-11-26 07:10:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Alpine, TX";"United States";30.2766000000;-103.5960000000;1621
+75562;"2017-11-26 06:54:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75563;"2017-11-27 09:10:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Terlingua;"United States";29.3183333333;-103.6530555556;954
+75564;"2017-10-20 20:50:00";486;486;"Anna Levin";"Anna Levin";"Nahal Barak";Israel;30.3238888889;34.9833333333;330
+75565;"2017-11-18 21:45:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+75566;"2017-11-29 02:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75567;"2017-11-27 07:53:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75568;"2017-11-28 07:59:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75569;"2017-11-25 19:30:00";7294;7294;"Dnyaneshwari Talekar";"Dnyaneshwari Talekar";Pusane;India;18.6337000000;73.6138800000;662
+75570;"2017-11-28 10:40:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Terlingua;"United States";29.3183333333;-103.6530555556;954
+75571;"2017-11-29 11:00:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Big Bend NP";"United States";29.2075000000;-102.9930555556;627
+75572;"2017-11-30 10:00:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Alpine, TX";"United States";30.2766000000;-103.5960000000;1621
+75573;"2017-10-20 20:45:00";7842;7842;"Tamara Tchenak";"Tamara Tchenak";"Nahal Barak";Israel;30.3238888889;34.9833333333;222
+75574;"2017-11-30 10:00:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766000000;-103.5960000000;1621
+75575;"2017-10-21 00:56:00";7312;7312;"István Mátis";"István Mátis";"Dangau Mare";Romania;46.7553388889;23.1597388889;911
+75576;"2017-08-11 22:39:00";5453;7912;"Martin Vincencik";"Tomáš Toma";Trebišov;Slovakia;48.6666666667;21.7500000000;105
+75577;"2017-08-11 22:39:00";2328;7912;"Lukas Hreha";"Tomáš Toma";Trebišov;Slovakia;48.6666666667;21.7500000000;105
+75578;"2017-08-11 22:39:00";;7912;"Ondrej Demeter";"Tomáš Toma";Trebišov;Slovakia;48.6666666667;21.7500000000;105
+75579;"2017-08-11 22:39:00";1956;7912;"Maria Gimova";"Tomáš Toma";Trebišov;Slovakia;48.6666666667;21.7500000000;105
+75580;"2017-11-28 16:00:00";85;85;"Shigeo Uchiyama";"Shigeo Uchiyama";Inashiki;Japan;35.9844444444;140.3625000000;5
+75581;"2017-07-27 05:15:00";4988;4988;"David Swann";"David Swann";"T.A.S. Observing Site, OK";"United States";34.1844444444;-96.1400000000;171
+75583;"2017-12-07 02:00:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Truth or Consequences";"United States";33.1572222222;-107.2166666667;1302
+75584;"2017-11-28 03:00:00";7205;7205;"Pierre Bader";"Pierre Bader";Hoechberg;Germany;49.7833333333;9.8833333333;350
+75585;"2017-12-08 02:00:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Deming;"United States";32.0677777778;-107.7350000000;1278
+75586;"2017-11-18 11:20:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8622222222;304
+75587;"2017-11-19 10:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8622222222;304
+75588;"2017-11-20 11:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8622222222;304
+75589;"2017-12-09 02:32:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75590;"2017-12-09 17:11:00";7274;7274;"Sasha Prokofyev";"Sasha Prokofyev";Kiti;Cyprus;34.8439370000;33.5780080000;20
+75591;"2017-12-09 03:00:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Bisbee;"United States";31.3911111111;-109.7752777778;1330
+75592;"2017-12-09 03:05:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4104644654;-45.5351835695;896
+75593;"2017-12-09 21:00:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3239366618;10.6433931497;452
+75594;"2017-12-10 03:54:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75595;"2017-12-10 04:10:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Tuscon;"United States";32.2544444444;-110.6644444444;958
+75596;"2017-12-11 06:10:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Pinal Pass";"United States";33.2444444444;-110.7825000000;1468
+75597;"2017-12-11 13:45:00";7344;7344;"John Drummond";"John Drummond";Gisborne;"New Zealand";-38.6299000000;177.8833111111;12
+75598;"2017-12-12 03:40:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4029100000;-45.5339600000;841
+75599;"2017-12-12 09:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8622222222;304
+75600;"2017-12-12 06:15:00";400;400;"William Godley";"William Godley";"Coweta, Oklahoma";"United States";35.9477777778;-95.7625000000;200
+75601;"2017-12-12 06:45:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Roosevelt;"United States";33.7850000000;-111.2694444444;725
+75602;"2017-12-12 12:15:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+75603;"2017-12-12 12:15:00";7957;7957;"Ken Marsh";"Ken Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+75604;"2017-12-13 02:09:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75605;"2017-12-12 17:05:00";7935;7935;"Omri Katz";"Omri Katz";"KM 101";Israel;30.3010200000;35.1339800000;175
+75606;"2017-12-13 02:38:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4029100000;-45.5339600000;841
+75607;"2017-12-12 19:20:00";7964;7964;"Robin Hegenbarth";"Robin Hegenbarth";Emmingen-Liptingen;Germany;47.9363888889;8.8330555556;850
+75608;"2017-12-13 05:55:00";400;400;"William Godley";"William Godley";"Coweta, Oklahoma";"United States";35.9477777778;-95.7625000000;200
+75609;"2017-12-13 07:10:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Congress;"United States";34.1175000000;-112.9652777778;833
+75610;"2017-12-13 03:20:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+75611;"2017-12-12 22:00:00";511;511;"Jean-francois Coliac";"Jean-francois Coliac";Marseille;France;43.2964800000;5.3697800000;4
+75612;"2017-12-13 01:24:00";36;36;"Sirko Molau";"Sirko Molau";Seysdorf;Germany;48.5452777778;11.7197222222;463
+75613;"2017-12-13 13:05:00";7472;7472;"Gang Li";"Gang Li";杰林冈;Australia;-34.7466850574;150.8347505408;50
+75614;"2017-12-12 19:17:00";7976;7976;"Hendrik Vandenbruaene";"Hendrik Vandenbruaene";Tielt;Belgium;50.9877369573;3.3209908599;33
+75615;"2017-12-13 19:38:00";7976;7976;"Hendrik Vandenbruaene";"Hendrik Vandenbruaene";Tielt;Belgium;50.9877369573;3.3209908599;33
+75616;"2017-12-13 22:00:00";117;117;"Arkadiusz Olech";"Arkadiusz Olech";mazowieckie;Poland;52.3699627075;20.7739803544;74
+75617;"2017-12-13 21:15:00";7279;7279;"Sneha Kulkarni";"Sneha Kulkarni";Maharashtra;India;18.6227215915;73.5107710834;733
+75618;"2017-12-13 13:50:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+75619;"2017-12-13 14:05:00";7957;7957;"Ken Marsh";"Ken Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+75620;"2017-12-13 16:50:00";7165;7165;"Chinmay Mahajan";"Chinmay Mahajan";"Ghera Sinhagad";India;18.3565000000;73.7507300000;1019
+75621;"2017-12-12 23:30:00";7574;7574;"Gerardo Jiménez López";"Gerardo Jiménez López";AVILA;Spain;40.6566666667;-4.7072222222;1078
+75622;"2017-12-14 03:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Möckern;Germany;52.1708033821;12.1096282388;83
+75623;"2017-12-14 04:48:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Coswig (Anhalt)";Germany;51.8864953130;12.3629202388;60
+75624;"2017-12-13 13:36:00";85;85;"Shigeo Uchiyama";"Shigeo Uchiyama";Sakuragawa;Japan;36.2622222222;140.1013888889;60
+75625;"2017-12-13 21:05:00";7220;7220;"Frederic Merlin";"Frederic Merlin";"Le Perray en Yvelines";France;48.7000000000;1.8500000000;170
+75626;"2017-12-13 21:56:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2842400000;5.6110100000;11
+75627;"2017-12-14 01:40:00";7220;7220;"Frederic Merlin";"Frederic Merlin";"Le Perray en Yvelines";France;48.7000000000;1.8500000000;170
+75628;"2017-12-14 04:10:00";7220;7220;"Frederic Merlin";"Frederic Merlin";"Le Perray en Yvelines";France;48.7000000000;1.8500000000;170
+75629;"2017-12-13 22:00:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";Roma;Italy;41.9125700000;12.4545700000;18
+75630;"2017-09-05 22:30:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";Rome;Italy;41.8791165297;12.4522556452;55
+75631;"2017-12-14 03:15:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";"Minas Gerais";Brazil;-22.5351657419;-45.5835592362;1846
+75632;"2017-12-14 03:45:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";"Minas Gerais";Brazil;-22.5351657419;-45.5835592362;1846
+75633;"2017-12-14 03:57:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";"Minas Gerais";Brazil;-22.5351657419;-45.5835592362;1846
+75634;"2017-12-14 05:38:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";"Minas Gerais";Brazil;-22.5351657419;-45.5835592362;1846
+75635;"2017-12-14 05:54:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";"Minas Gerais";Brazil;-22.5351657419;-45.5835592362;1846
+75636;"2017-12-14 03:18:00";210;210;"Ina Rendtel";"Ina Rendtel";"Möckern, Sachsen-Anhalt";Germany;52.1708333333;12.1097222222;83
+75637;"2017-12-14 04:48:00";210;210;"Ina Rendtel";"Ina Rendtel";"Coswig, Sachsen-Anhalt";Germany;51.8863888889;12.3627777778;60
+75638;"2017-12-13 02:45:00";7982;7982;"Odirlei Marcelo Alflen";"Odirlei Marcelo Alflen";Videira;Brazil;-27.0052100000;-51.1544000000;699
+75639;"2017-12-14 04:45:00";400;400;"William Godley";"William Godley";"Coweta, Oklahoma";"United States";35.9477777778;-95.7625000000;200
+75640;"2017-12-13 07:35:00";7984;7984;"Jose Alvarellos";"Jose Alvarellos";Fremont;"United States";37.5482700000;-121.9885700000;17
+75641;"2017-12-13 22:53:00";7435;7435;"Arash Nabizadeh Haghighi";"Arash Nabizadeh Haghighi";Bivarzen;Iran;36.6769444444;49.5708333333;1150
+75642;"2017-12-13 20:45:00";7119;7119;"Ivan Stanković";"Ivan Stanković";Valjevo;Serbia;44.1583333333;19.6869444444;1031
+75643;"2017-12-14 07:12:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Milpatas Wash Rd";"United States";33.2833333333;-114.7913888889;142
+75644;"2017-12-14 00:00:00";131;131;"Javor Kac";"Javor Kac";Urh;Slovenia;46.4204606628;15.4991979922;760
+75645;"2017-12-13 20:40:00";7755;7755;"Vladimir Nikolić";"Vladimir Nikolić";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75646;"2017-12-14 07:30:00";238;238;"Carl Hergenrother";"Carl Hergenrother";"Tucson - Tanque Verde";"United States";32.2819444444;-110.7683333330;826
+75647;"2017-12-14 07:06:00";7904;7904;"Geng Zhao";"Geng Zhao";California;"United States";37.3254595282;-122.1786426345;673
+75648;"2017-12-14 12:25:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+75649;"2017-12-13 03:20:00";532;532;"Michel Deconinck";"Michel Deconinck";Artignosc-sur-Verdon;France;43.7038888889;6.0902777778;500
+75650;"2017-12-14 12:25:00";7957;7957;"Ken Marsh";"Ken Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+75651;"2017-12-13 19:45:00";7867;7867;"Jitendra Joshi";"Jitendra Joshi";Pune;India;18.3643986000;73.7533980000;1269
+75652;"2017-12-13 19:45:00";7867;7867;"Jitendra Joshi";"Jitendra Joshi";Pune;India;18.3643986000;73.7533980000;1269
+75656;"2017-12-13 21:00:00";7131;7131;"Steve Brown";"Steve Brown";Middlesbrough;"United Kingdom";54.4738888889;-1.1836111111;70
+75657;"2017-12-13 01:35:00";7935;7935;"Omri Katz";"Omri Katz";"KM 101";Israel;30.3010200000;35.1339800000;175
+75658;"2017-12-13 22:48:00";7131;7131;"Steve Brown";"Steve Brown";Middlesbrough;"United Kingdom";54.4738888889;-1.1836111111;70
+75659;"2017-12-13 22:46:00";7993;7993;"Alex Scholten";"Alex Scholten";Bussloo;Netherlands;52.1973611111;6.1188888889;7
+75660;"2017-12-13 23:48:00";7131;7131;"Steve Brown";"Steve Brown";Middlesbrough;"United Kingdom";54.4738888889;-1.1836111111;70
+75661;"2017-12-14 00:48:00";7131;7131;"Steve Brown";"Steve Brown";Middlesbrough;"United Kingdom";54.4738888889;-1.1836111111;70
+75662;"2017-12-14 01:48:00";7131;7131;"Steve Brown";"Steve Brown";Middlesbrough;"United Kingdom";54.4738888889;-1.1836111111;70
+75663;"2017-12-14 20:42:00";7994;7994;"Shlomi Eini";"Shlomi Eini";"Beer Menucha";Israel;30.3077777778;35.1352777778;181
+75664;"2017-12-13 19:11:00";7992;7992;"Upasana Joshi";"Upasana Joshi";"Ghera Sinhagad";India;18.3654275590;73.7532583872;1280
+75665;"2017-12-14 00:20:00";7997;7997;"Caslav Lukic";"Caslav Lukic";"Debelo Brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75666;"2017-12-13 20:45:00";7237;7237;"Branislav Savic";"Branislav Savic";"Debelo Brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75667;"2017-12-15 05:52:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75668;"2017-12-13 23:05:00";7726;7726;"Peter van Leuteren";"Peter van Leuteren";Borne;Netherlands;52.2956281212;6.7397984297;19
+75669;"2017-12-13 23:00:00";526;526;"Richard Fleet";"Richard Fleet";Wilcot;"United Kingdom";51.3500000000;-1.8000000000;130
+75670;"2017-12-14 05:00:00";526;526;"Richard Fleet";"Richard Fleet";Wilcot;"United Kingdom";51.3500000000;-1.8000000000;130
+75671;"2017-12-15 01:15:00";526;526;"Richard Fleet";"Richard Fleet";Wilcot;"United Kingdom";51.3500000000;-1.8000000000;130
+75672;"2017-12-14 03:20:00";7308;7308;"Jose Díaz Martínez";"Jose Díaz Martínez";Bugarra;Spain;39.6095425786;-0.7756912882;196
+75673;"2017-12-12 05:51:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75674;"2017-12-13 08:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8622222222;-116.8622222222;304
+75675;"2017-12-12 20:45:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3457657580;10.7110188853;425
+75676;"2017-12-13 20:42:00";7983;7983;"Lazar Popović";"Lazar Popović";Valjevo;Serbia;44.1583333333;19.6869444444;1033
+75677;"2017-12-13 00:05:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3457657580;10.7110188853;425
+75678;"2017-12-14 20:05:00";7983;7983;"Lazar Popović";"Lazar Popović";Valjevo;Serbia;44.1583333333;19.6869444444;1033
+75679;"2017-12-15 03:00:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Border Patrol Lookout";"United States";32.6219444444;-116.1638888889;919
+75680;"2017-12-13 05:54:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75681;"2017-12-14 20:20:00";7997;7997;"Caslav Lukic";"Caslav Lukic";"Debelo Brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75682;"2017-12-15 12:30:00";7391;7391;"Yuxi Mi";"Yuxi Mi";北京市;China;40.7261500000;116.6231600000;281
+75688;"2017-12-14 16:10:00";7988;7988;"Jixia Li";"Jixia Li";Hami;China;44.1764166667;91.7417333333;1397
+75689;"2017-12-16 04:33:00";532;532;"Michel Deconinck";"Michel Deconinck";Artignosc-sur-Verdon;France;43.7038888889;6.0902777778;500
+75693;"2017-11-12 01:00:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+75694;"2017-11-12 23:00:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+75695;"2017-11-13 23:30:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+75696;"2017-11-23 23:00:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+75697;"2017-12-16 00:48:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+75698;"2017-12-13 20:45:00";7236;7236;"Ana Nikolić";"Ana Nikolić";"Debelo Brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75699;"2017-12-14 20:00:00";7236;7236;"Ana Nikolić";"Ana Nikolić";"Debelo Brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75700;"2017-12-13 16:30:00";7996;7996;"Saee Dhawalikar";"Saee Dhawalikar";"Ghera Sinhagad";India;18.3565000000;73.7507300000;1019
+75701;"2017-12-13 20:08:00";8003;8003;"Shreeya Nadgowda";"Shreeya Nadgowda";"Ghera Sinhagad";India;18.3565000000;73.7507300000;1019
+75702;"2017-12-14 01:45:00";7982;7982;"Odirlei Marcelo Alflen";"Odirlei Marcelo Alflen";Videira;Brazil;-27.0052100000;-51.1544000000;699
+75703;"2017-12-15 23:00:00";526;526;"Richard Fleet";"Richard Fleet";Wilcot;"United Kingdom";51.3500000000;-1.8000000000;130
+75705;"2017-12-14 02:00:00";7448;7448;"Gleici Kelly de Lima";"Gleici Kelly de Lima";Videira;Brazil;-27.0008500000;-51.1450300000;832
+75706;"2017-12-16 03:18:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4029100000;-45.5339600000;841
+75729;"2017-12-12 16:45:00";486;486;"Anna Levin";"Anna Levin";"Beer Menuha";Israel;30.3057500000;35.1334300000;180
+75730;"2017-12-13 01:15:00";486;486;"Anna Levin";"Anna Levin";"Beer Menuha";Israel;30.3057500000;35.1334300000;180
+75731;"2017-12-14 17:35:00";486;486;"Anna Levin";"Anna Levin";"Beer Menuha";Israel;30.3057500000;35.1334300000;180
+75732;"2017-12-14 21:35:00";486;486;"Anna Levin";"Anna Levin";"Beer Menuha";Israel;30.3057500000;35.1334300000;180
+75733;"2017-12-15 00:15:00";486;486;"Anna Levin";"Anna Levin";"Beer Menuha";Israel;30.3057500000;35.1334300000;180
+75734;"2017-12-15 18:00:00";486;486;"Anna Levin";"Anna Levin";"Beer Menuha";Israel;30.3057500000;35.1334300000;180
+75735;"2017-08-14 02:10:00";532;532;"Michel Deconinck";"Michel Deconinck";Québec;Canada;45.4554384549;-71.1505883253;1100
+75736;"2017-10-21 02:20:00";532;532;"Michel Deconinck";"Michel Deconinck";Artignosc-sur-Verdon;France;43.7035925457;6.1021245762;540
+75737;"2017-12-14 00:30:00";486;486;"Anna Levin";"Anna Levin";"Beer Menuha";Israel;30.3057500000;35.1334300000;180
+75738;"2017-12-13 20:35:00";486;486;"Anna Levin";"Anna Levin";"Beer Menuha";Israel;30.3057500000;35.1334300000;180
+75739;"2017-12-12 22:18:00";8008;8008;"Michael Nolle";"Michael Nolle";"San Lawrenz";Malta;36.0550833333;14.2005833333;127
+75740;"2017-12-13 22:26:00";8008;8008;"Michael Nolle";"Michael Nolle";"San Lawrenz";Malta;36.0550833333;14.2005833333;127
+75741;"2017-12-12 20:10:00";7283;7283;"Katie Demetriou";"Katie Demetriou";Nicosia;Cyprus;35.0889930436;33.3483804457;243
+75742;"2017-12-14 04:51:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75743;"2017-11-16 22:34:00";7283;7283;"Katie Demetriou";"Katie Demetriou";Larnaca;Cyprus;34.9056713003;33.4012714155;357
+75744;"2017-12-14 21:05:00";7220;7220;"Frederic Merlin";"Frederic Merlin";"Le Perray en Yvelines";France;48.7000000000;1.8500000000;170
+75745;"2017-12-13 20:54:00";7283;7283;"Katie Demetriou";"Katie Demetriou";Softades;Cyprus;34.8174175840;33.5486060080;1
+75746;"2017-12-14 08:47:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75747;"2017-12-15 19:10:00";7994;7994;"Shlomi Eini";"Shlomi Eini";"South District";Israel;30.3057500000;35.1334300000;181
+75758;"2017-05-02 10:35:00";7956;7956;"Adam Marsh";"Adam Marsh";"Ladys Pass";Australia;-36.8161102836;144.6809910668;233
+75761;"2017-12-13 22:39:00";154;154;"Alastair McBeath";"Alastair McBeath";Morpeth;"United Kingdom";55.1600000000;-1.7800000000;58
+75762;"2017-12-16 14:30:00";8011;8011;"Fangzheng Shi";"Fangzheng Shi";Xuyi;China;32.7347222222;118.4711111111;115
+75763;"2017-12-13 20:42:00";7835;7835;"Nina Perović";"Nina Perović";"Debelo Brdo - Valjevo";Serbia;44.1583333333;19.6869444444;1033
+75768;"2017-12-15 14:40:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+75785;"2017-12-14 20:10:00";7237;7237;"Branislav Savic";"Branislav Savic";1033;Serbia;44.1583333333;19.6869444444;1033
+75786;"2017-12-18 16:56:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208305556;40
+75787;"2017-12-18 13:00:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Palm  Springs";"United States";33.9830555556;-116.5813888889;489
+75788;"2017-12-16 06:54:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75789;"2017-12-15 23:20:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+75790;"2017-12-20 09:18:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75791;"2017-12-20 13:15:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Joshua Tree";"United States";34.1713888889;-116.2458333333;729
+75792;"2017-12-14 00:40:00";8001;8001;"Valentín Díaz Parreño";"Valentín Díaz Parreño";CANCARIX;Spain;38.4000000000;-1.6000000000;448
+75807;"2017-12-20 19:10:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3516137634;10.7683868989;587
+75808;"2017-12-13 19:35:00";7935;7935;"Omri Katz";"Omri Katz";"KM 101";Israel;30.3010200000;35.1339800000;175
+75809;"2017-12-21 09:43:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75810;"2017-12-13 19:20:00";8019;8019;"Alexey Tumanov";"Alexey Tumanov";"Kerman Province";Iran;30.8286100000;57.7820000000;274
+75811;"2017-12-13 19:50:00";8019;8019;"Alexey Tumanov";"Alexey Tumanov";"Kerman Province";Iran;30.8286100000;57.7820000000;274
+75818;"2017-12-13 17:00:00";7281;7281;"Sonal Thorve";"Sonal Thorve";Junnar;India;19.0722222222;73.8450000000;981
+75829;"2017-12-14 03:15:00";8022;8022;"Pierre Martin";"Pierre Martin";"Otter Lake";Canada;45.8291666667;-76.3980555556;262
+75830;"2017-12-19 14:05:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+75831;"2017-12-19 14:05:00";7957;7957;"Ken Marsh";"Ken Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+75832;"2017-12-20 13:15:00";7957;7957;"Ken Marsh";"Ken Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+75833;"2017-12-20 13:15:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+75834;"2017-12-14 02:25:00";7935;7935;"Omri Katz";"Omri Katz";"KM 101";Israel;30.3010200000;35.1339800000;175
+75835;"2017-12-21 18:20:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3798946957;10.7774420366;565
+75836;"2017-12-21 20:40:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3798946957;10.7774420366;565
+75837;"2017-12-21 22:20:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Oppland;Norway;60.3798946957;10.7774420366;565
+75838;"2017-12-14 18:05:00";7935;7935;"Omri Katz";"Omri Katz";"KM 101";Israel;30.3010200000;35.1339800000;175
+75839;"2017-12-14 20:25:00";7935;7935;"Omri Katz";"Omri Katz";"KM 101";Israel;30.3010200000;35.1339800000;175
+75840;"2017-12-15 00:15:00";7935;7935;"Omri Katz";"Omri Katz";"KM 101";Israel;30.3010200000;35.1339800000;175
+75841;"2017-12-13 20:00:00";8026;8026;"Dmitrii Larin";"Dmitrii Larin";Kerman;Iran;30.5501944444;57.7727500000;1755
+75842;"2017-12-12 20:00:00";8026;8026;"Dmitrii Larin";"Dmitrii Larin";Kerman;Iran;30.8288055556;57.7820000000;1755
+75843;"2017-12-23 09:27:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75848;"2017-12-13 19:25:00";7842;7842;"Tamara Tchenak";"Tamara Tchenak";"Beer Menuha";Israel;30.3083333333;35.1352777778;182
+75849;"2017-12-14 17:45:00";7842;7842;"Tamara Tchenak";"Tamara Tchenak";"Beer Menuha";Israel;30.3083333333;35.1352777778;182
+75850;"2017-12-22 02:30:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Badwater, Death Valley";"United States";36.2433333333;-116.7672222222;1
+75853;"2017-12-22 12:13:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Death Valley SE entrance";"United States";36.3586111111;-116.6516666667;836
+75854;"2017-12-23 12:15:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Ubehebe Crater, Death Valley";"United States";37.0111111111;-117.4547222222;789
+75855;"2017-12-25 09:22:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75856;"2017-12-14 19:18:00";8019;8019;"Alexey Tumanov";"Alexey Tumanov";"Kerman Province";Iran;30.8288100000;57.7820000000;274
+75857;"2017-12-14 23:04:00";8019;8019;"Alexey Tumanov";"Alexey Tumanov";"Kerman Province";Iran;30.5501900000;57.7727500000;332
+75858;"2017-12-15 18:30:00";8019;8019;"Alexey Tumanov";"Alexey Tumanov";"Kerman Province";Iran;30.5501900000;57.7727500000;332
+75859;"2017-12-13 15:10:00";7995;7995;"Siddharth Khalate";"Siddharth Khalate";Pune;India;18.3674817000;73.7545631000;1246
+75860;"2017-12-13 17:30:00";;7989;Sankalp;"Rahul  Shrivastava";"Rundh Bhakhera";India;27.5463700000;76.5933900000;281
+75861;"2017-12-22 15:31:00";85;85;"Shigeo Uchiyama";"Shigeo Uchiyama";Sanmu;Japan;35.5541666667;140.4700000000;3
+75862;"2017-12-26 09:25:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75863;"2017-12-25 12:35:00";7169;7169;"Ben Dawson";"Ben Dawson";Merrijig;Australia;-37.0998763200;146.2861504853;576
+75864;"2017-12-26 12:00:00";7169;7169;"Ben Dawson";"Ben Dawson";Merrijig;Australia;-37.0998763200;146.2861504853;576
+75865;"2017-12-26 04:28:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75866;"2017-12-27 00:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75867;"2017-12-27 11:45:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Lake Mead, Hoover Dam";"United States";36.2269444444;-114.6208333333;730
+75868;"2017-12-27 02:30:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208305556;40
+75869;"2017-12-13 18:45:00";8015;8015;"Jameer Manur";"Jameer Manur";Pune;India;18.2151500000;73.8330700000;869
+75870;"2017-03-24 09:23:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75871;"2017-12-13 20:23:00";7413;8013;"Károly Jónás";"István Tepliczky";Tata;Hungary;47.6620201804;18.3900510880;215
+75873;"2017-08-13 23:15:00";7413;7413;"Károly Jónás";"Károly Jónás";Apaj;Hungary;47.0886413395;19.0907856524;95
+75874;"2017-12-29 09:53:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas ";"United States";30.2766600000;-103.5960000000;1621
+75875;"2017-12-13 19:30:00";7413;7413;"Károly Jónás";"Károly Jónás";Tata;Hungary;47.6620495233;18.3900747408;215
+75876;"2017-12-29 12:20:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Death Valley SE entrance";"United States";36.3586111111;-116.6516666667;836
+75877;"2017-12-24 13:50:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+75878;"2017-12-27 14:40:00";7956;7956;"Adam Marsh";"Adam Marsh";Kooralbyn;Australia;-28.0946790381;152.8344227595;146
+75879;"2017-12-24 13:50:00";7957;7957;"Ken Marsh";"Ken Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+75880;"2017-12-27 14:40:00";7957;7957;"Ken Marsh";"Ken Marsh";Kooralbyn;Australia;-28.0946908689;152.8343852086;146
+75881;"2017-12-29 03:45:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75882;"2017-12-30 10:55:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75883;"2017-12-30 12:35:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Lone Pine";"United States";36.5794444444;-118.0383333333;1118
+75884;"2017-12-14 23:10:00";7289;7289;"Pedro Pérez Corujo";"Pedro Pérez Corujo";"PICO DE LAS NIEVES GRAN CANARIA";Spain;27.9666666667;-15.5500000000;1890
+75885;"2017-12-15 02:30:00";8022;8022;"Pierre Martin";"Pierre Martin";"Otter Lake";Canada;45.8291666667;-76.3980555556;262
+75886;"2017-12-13 20:23:00";8013;8013;"István Tepliczky";"István Tepliczky";Tata;Hungary;47.6620129554;18.3900667491;215
+75887;"2017-12-31 11:47:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75888;"2017-12-31 04:05:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75889;"2017-12-13 04:58:00";7207;7207;"Kai Schultze";"Kai Schultze";Teltow;Germany;52.4030555556;13.3075000000;45
+75890;"2017-12-14 04:30:00";7207;7207;"Kai Schultze";"Kai Schultze";Teltow;Germany;52.4030555556;13.3075000000;45
+75907;"2017-03-25 08:54:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+75939;"2017-12-14 04:05:00";7289;7289;"Pedro Pérez Corujo";"Pedro Pérez Corujo";"Tejeda, Gran Canaria";Spain;27.1333333333;-15.6000000000;1643
+75964;"2017-12-13 19:37:00";7836;7836;"Ella Ratz";"Ella Ratz";"Beer Menuha";Israel;30.3080555556;35.1247222222;89
+76012;"2017-03-27 09:27:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+76020;"2017-03-28 09:28:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+76022;"2017-03-29 09:21:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+76029;"2017-11-22 19:15:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+76030;"2017-11-22 19:07:00";7322;7322;"Frank Wächter";"Frank Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+76037;"2017-03-30 09:25:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+76038;"2017-03-31 09:21:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+76039;"2017-12-14 19:35:00";8055;8055;"Ido Braun";"Ido Braun";"South District";Israel;30.3057500000;35.1334300000;181
+76040;"2017-12-15 00:15:00";8055;8055;"Ido Braun";"Ido Braun";"South District";Israel;30.3057500000;35.1334300000;181
+76041;"2017-12-15 01:05:00";8055;8055;"Ido Braun";"Ido Braun";"South District";Israel;30.3057500000;35.1334300000;181
+76042;"2017-12-13 19:25:00";8055;8055;"Ido Braun";"Ido Braun";"South District";Israel;30.3057500000;35.1334300000;181
+76043;"2017-12-13 20:45:00";8055;8055;"Ido Braun";"Ido Braun";"South District";Israel;30.3057500000;35.1334300000;181
+76044;"2017-07-01 08:00:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2766600000;-103.5960000000;1621
+76048;"2017-07-28 05:10:00";8022;8022;"Pierre Martin";"Pierre Martin";Stewartville;Canada;45.3970000000;-76.4910000000;138
+76050;"2017-07-29 04:45:00";8022;8022;"Pierre Martin";"Pierre Martin";Stewartville;Canada;45.3970000000;-76.4910000000;138
+76053;"2017-12-07 19:15:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+76054;"2017-12-07 18:50:00";7322;7322;"Frank Wächter";"Frank Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+76055;"2017-12-13 09:30:00";8035;8035;"Wesley Stone";"Wesley Stone";Chiloquin;"United States";42.5766666667;-121.8683333333;1300
+76056;"2017-12-14 05:37:00";8035;8035;"Wesley Stone";"Wesley Stone";Chiloquin;"United States";42.5766666667;-121.8683333333;1300
+76058;"2017-07-30 06:10:00";8022;8022;"Pierre Martin";"Pierre Martin";Stewartville;Canada;45.3970000000;-76.4910000000;138
+76059;"2017-07-31 06:00:00";8022;8022;"Pierre Martin";"Pierre Martin";Stewartville;Canada;45.3970000000;-76.4910000000;138
+76060;"2017-10-21 05:30:00";8022;8022;"Pierre Martin";"Pierre Martin";Stewartville;Canada;45.3970000000;-76.4910000000;138
+76061;"2017-12-14 06:51:00";8035;8035;"Wesley Stone";"Wesley Stone";Chiloquin;"United States";42.5766666667;-121.8683333333;1276
+76084;"2017-12-13 19:25:00";8033;8033;"Ariel Westfried";"Ariel Westfried";Eliat;Israel;30.3080555556;35.1331388889;87
+76085;"2017-08-12 19:05:00";7555;7555;"Slavi Georgiev";"Slavi Georgiev";Силистра;Bulgaria;44.1086753766;27.2667912270;34
+76086;"2017-08-11 19:40:00";7555;7555;"Slavi Georgiev";"Slavi Georgiev";Силистра;Bulgaria;44.1086762880;27.2667931331;34
+76087;"2017-08-18 20:29:00";7555;7555;"Slavi Georgiev";"Slavi Georgiev";Силистра;Bulgaria;44.1086743621;27.2667904509;34
+76589;"2017-07-21 20:56:00";8238;8238;"Savina Kazakova";"Savina Kazakova";Kardzali;Bulgaria;41.6338400000;25.3777100000;235
+76593;"2017-07-22 18:55:00";8238;8238;"Savina Kazakova";"Savina Kazakova";Kardzali;Bulgaria;41.6338400000;25.3777100000;235
+76594;"2017-07-23 21:47:00";8238;8238;"Savina Kazakova";"Savina Kazakova";Kardzali;Bulgaria;41.6338400000;25.3777100000;235
+77199;"2017-09-02 04:48:00";7289;135;"Pedro Pérez Corujo";"Orlando Benitez Sanchez";"Pico de La Gorra, Gran Canaria";Spain;27.9630555556;-15.5463888889;1750
+77200;"2017-09-29 01:35:00";7289;135;"Pedro Pérez Corujo";"Orlando Benitez Sanchez";"Pico de La Gorra, Gran Canaria";Spain;27.9630555556;-15.5463888889;1750
+77201;"2017-11-18 04:31:00";7289;135;"Pedro Pérez Corujo";"Orlando Benitez Sanchez";"Pico de La Gorra, Gran Canaria";Spain;27.9630555556;-15.5463888889;1750
+77242;"2017-11-19 04:30:00";135;135;"Orlando Benitez Sanchez";"Orlando Benitez Sanchez";"Llanos del Garañón, Gran Canaria";Spain;27.9688888889;-15.5888888889;1700
+77243;"2017-12-17 04:11:00";135;135;"Orlando Benitez Sanchez";"Orlando Benitez Sanchez";"Llanos del Garañón, Gran Canaria";Spain;27.9688888889;-15.5888888889;1700
+77304;"2017-10-22 22:41:00";7131;7131;"Steve Brown";"Steve Brown";Middlesbrough;"United Kingdom";54.4738888889;-1.1836111111;70
+77911;"2017-08-09 21:00:00";8340;8340;"Tobias Pudl";"Tobias Pudl";Orebic;Croatia;42.9794444444;17.1941666667;0
+77912;"2017-08-09 21:00:00";8338;8338;"Anna Wrnatova";"Anna Wrnatova";Orebic;Croatia;42.9794444444;17.1941666667;0
+77913;"2017-08-09 21:00:00";7613;7613;"Katerina Krumpholcova";"Katerina Krumpholcova";Stankovići;Croatia;42.9796937128;17.1944439078;11
+77916;"2017-08-09 21:00:00";8342;8342;"Marek Svoboda";"Marek Svoboda";Orebic;Croatia;42.9794444444;17.1886111111;0
+77923;"2017-08-09 21:00:00";11504;11504;"Barbora Michalcova";"Barbora Michalcova";Orebic;Croatia;42.9794444444;17.1941666667;0
+77924;"2017-08-09 21:00:00";11452;11452;"Jaroslav Navratil";"Jaroslav Navratil";Orebic;Croatia;42.9794444444;17.1941666667;0
+77925;"2017-08-09 21:15:00";8344;8344;"Josef Vyhnalek";"Josef Vyhnalek";Orebic;Croatia;42.9794444444;17.1941666667;0
+77926;"2017-08-09 21:15:00";8365;8365;"Mikulas Lazar";"Mikulas Lazar";Orebic;Croatia;42.9794444444;17.9794444444;0
+77958;"2017-08-09 21:00:00";11509;11509;"Kvetoslava Krumpholcova";"Kvetoslava Krumpholcova";Orebić;Croatia;42.9757700000;17.1778600000;14
+77959;"2017-08-10 21:00:00";11510;11510;"Zuzana Bartosova";"Zuzana Bartosova";Stankovići;Croatia;42.9796666613;17.1944182940;11
+77960;"2017-08-09 21:00:00";11510;11510;"Zuzana Bartosova";"Zuzana Bartosova";Stankovići;Croatia;42.9796666613;17.1944182940;11
+77961;"2017-08-10 21:00:00";8345;8345;"Ida Havrankova";"Ida Havrankova";Orebic;Croatia;42.9794444444;17.1941666667;0
+77962;"2017-08-10 21:00:00";8340;8340;"Tobias Pudl";"Tobias Pudl";Orebic;Croatia;42.9794444444;17.1941666667;0
+78004;"2017-08-10 21:00:00";7613;7613;"Katerina Krumpholcova";"Katerina Krumpholcova";Stankovići;Croatia;42.9796937128;17.1944439078;11
+78005;"2017-08-11 21:00:00";8345;8345;"Ida Havrankova";"Ida Havrankova";Orebic;Croatia;42.9794444444;17.1941666667;0
+78006;"2017-08-11 21:00:00";8340;8340;"Tobias Pudl";"Tobias Pudl";Orebic;Croatia;42.9794444444;17.1941666667;0
+78007;"2017-08-11 21:00:00";11510;11510;"Zuzana Bartosova";"Zuzana Bartosova";Stankovići;Croatia;42.9796666613;17.1944182940;11
+78008;"2017-08-11 21:00:00";7609;7609;"Julie Dostalova";"Julie Dostalova";Orebic;Croatia;42.9794444444;17.1941666667;0
+78009;"2017-08-11 21:00:00";8338;8338;"Anna Wrnatova";"Anna Wrnatova";Orebic;Croatia;42.9794444444;17.1941666667;0
+78010;"2017-08-11 21:00:00";11504;11504;"Barbora Michalcova";"Barbora Michalcova";Orebic;Croatia;42.9794444444;17.1941666667;0
+78011;"2017-08-11 21:00:00";7613;7613;"Katerina Krumpholcova";"Katerina Krumpholcova";Stankovići;Croatia;42.9796937128;17.1944439078;11
+78012;"2017-08-11 21:00:00";11448;11448;"Štěpán Ptáčník";"Štěpán Ptáčník";Orebic;Croatia;42.9794444444;17.1941666667;0
+78013;"2017-08-11 21:15:00";11509;11509;"Kvetoslava Krumpholcova";"Kvetoslava Krumpholcova";Orebić;Croatia;42.9757700000;17.1778600000;14
+78014;"2017-08-11 21:15:00";11449;11449;"Katerina  Ptacnikova";"Katerina  Ptacnikova";Orebic;Croatia;42.9794444444;17.1941666667;0
+78015;"2017-08-11 21:15:00";7332;7332;"Jiri Konecny";"Jiri Konecny";Orebic;Croatia;42.9794444444;17.1941666667;0
+78016;"2017-08-11 21:15:00";8342;8342;"Marek Svoboda";"Marek Svoboda";Orebic;Croatia;42.9794444444;17.1886111111;0
+78018;"2017-08-09 21:15:00";11542;11542;"Martina Vyhnálková";"Martina Vyhnálková";Orebič;Croatia;42.9795862073;17.1944075652;10
+78019;"2017-08-09 21:15:00";11541;11541;"Martin Vyhnalek";"Martin Vyhnalek";Orebič;Croatia;42.9796838013;17.1945148536;10
+78020;"2017-08-09 21:15:00";11540;11540;"Jakub Vyhnalek";"Jakub Vyhnalek";Orebić;Croatia;42.9757700000;17.1778600000;14
+78021;"2017-08-12 21:00:00";8345;8345;"Ida Havrankova";"Ida Havrankova";Orebic;Croatia;42.9794444444;17.1941666667;0
+78022;"2017-08-13 21:00:00";8344;8344;"Josef Vyhnalek";"Josef Vyhnalek";Orebic;Croatia;42.9794444444;17.1941666667;0
+78023;"2017-08-12 21:00:00";11542;11542;"Martina Vyhnálková";"Martina Vyhnálková";Orebič;Croatia;42.9795862073;17.1944075652;10
+78024;"2017-08-13 21:00:00";11541;11541;"Martin Vyhnalek";"Martin Vyhnalek";Orebič;Croatia;42.9796838013;17.1945148536;10
+78025;"2017-08-13 21:00:00";11540;11540;"Jakub Vyhnalek";"Jakub Vyhnalek";Orebić;Croatia;42.9757700000;17.1778600000;14
+78026;"2017-08-12 21:00:00";11543;11543;"Denisa Navratilova";"Denisa Navratilova";Orebič;Croatia;42.9797025577;17.1945299290;10
+78027;"2017-08-12 21:00:00";11452;11452;"Jaroslav Navratil";"Jaroslav Navratil";Orebic;Croatia;42.9794444444;17.1941666667;0
+78028;"2017-08-12 21:00:00";7332;7332;"Jiri Konecny";"Jiri Konecny";Orebic;Croatia;42.9794444444;17.1941666667;0
+78029;"2017-08-12 21:00:00";7608;7608;"David Havranek";"David Havranek";Orebic;Croatia;49.7422222222;17.4038888889;595
+78332;"2017-08-17 21:00:00";8345;8345;"Ida Havrankova";"Ida Havrankova";Orebic;Croatia;42.9794444444;17.1941666667;0
+78333;"2017-08-17 21:00:00";8344;8344;"Josef Vyhnalek";"Josef Vyhnalek";Orebic;Croatia;42.9794444444;17.1941666667;0
+78334;"2017-08-17 21:00:00";11542;11542;"Martina Vyhnálková";"Martina Vyhnálková";Orebič;Croatia;42.9795862073;17.1944075652;10
+78335;"2017-08-17 21:00:00";11541;11541;"Martin Vyhnalek";"Martin Vyhnalek";Orebič;Croatia;42.9796838013;17.1945148536;10
+78336;"2017-08-17 21:00:00";11540;11540;"Jakub Vyhnalek";"Jakub Vyhnalek";Orebić;Croatia;42.9757700000;17.1778600000;14
+78337;"2017-08-17 21:00:00";7332;7332;"Jiri Konecny";"Jiri Konecny";Orebic;Croatia;42.9794444444;17.1941666667;0
+78338;"2017-08-17 21:00:00";11452;11452;"Jaroslav Navratil";"Jaroslav Navratil";Orebic;Croatia;42.9794444444;17.1941666667;0
+78339;"2017-08-17 21:00:00";7608;7608;"David Havranek";"David Havranek";Orebic;Croatia;42.9794444444;17.1941666667;0

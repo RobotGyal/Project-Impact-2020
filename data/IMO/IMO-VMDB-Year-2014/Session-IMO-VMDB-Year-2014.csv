@@ -1,0 +1,1295 @@
+﻿"Session ID";"Start Date";"Observer ID";"Submitter ID";"Actual Observer Name";"Submitted by";City;Country;Latitude;Longitude;Elevation
+65724;"2014-04-21 20:20:00";4890;4890;"Michal Stefancik";"Michal Stefancik";Kaluza;Slovakia;48.8136111111;22.0119444444;180
+65725;"2014-04-20 22:00:00";4890;4890;"Michal Stefancik";"Michal Stefancik";Kaluza;Slovakia;48.8136111111;22.0119444444;180
+65726;"2014-04-20 22:00:00";6130;6130;"Milada Jakubecova";"Milada Jakubecova";Kaluza;Slovakia;48.8136111111;22.0119444444;180
+65727;"2014-04-20 22:00:00";7107;7107;"Zdenek Komarek";"Zdenek Komarek";Kaluza;Slovakia;48.8136111111;22.0119444444;180
+69252;"2014-08-12 21:00:00";6143;6143;"Raziyeh Zahedi";"Raziyeh Zahedi";"kaftarood- rasht";Iran;37.3333333333;49.5166666667;0
+69910;"2014-12-13 16:36:00";6559;6559;"Payal Ghogare";"Payal Ghogare";Paud,Pune,Maharashtra;India;18.5202777778;73.6180555556;0
+69912;"2014-12-13 16:36:00";6558;6558;"Yogesh Pandey";"Yogesh Pandey";Paud,Pune,Maharashtra;India;18.5202777778;73.6180555556;0
+69958;"2014-01-01 19:25:00";8294;8294;"Seokhee Cho";"Seokhee Cho";"Sinji-do Jeollanam-do";"South Korea";34.3363888889;126.8283333330;18
+69960;"2014-01-01 02:17:00";4235;4235;"Sasha Prokofyev";"Sasha Prokofyev";"Kiti, Larnaca";Cyprus;34.8544444444;33.5822222222;0
+69961;"2014-01-02 01:50:00";4235;4235;"Sasha Prokofyev";"Sasha Prokofyev";"Kiti, Larnaca";Cyprus;34.8544444444;33.5822222222;0
+69962;"2014-01-02 02:24:00";4235;4235;"Sasha Prokofyev";"Sasha Prokofyev";"Kiti, Larnaca";Cyprus;34.8536111111;33.5830555556;0
+69965;"2014-01-03 01:14:00";91;91;"Masayuki Toda";"Masayuki Toda";Petnica;Serbia;19.9263888889;44.2458333333;225
+69966;"2014-01-03 01:14:00";1186;1186;"Anja Cervek";"Anja Cervek";Petnica;Serbia;44.2458333333;15.9263888889;225
+69967;"2014-02-03 01:14:00";91;91;"Masayuki Toda";"Masayuki Toda";Petnica;Serbia;44.2458333333;19.9263888889;225
+69968;"2014-01-03 01:14:00";7237;7237;"Branislav Savic";"Branislav Savic";Petnica;Serbia;44.2458333333;19.9263888889;225
+69970;"2014-01-03 03:05:00";2211;2211;"Vilem Heblik";"Vilem Heblik";JEZBORICE;Czechia;49.9786111111;15.6941666667;265
+69971;"2014-01-03 00:19:00";5634;5634;"Oliver Wusk";"Oliver Wusk";Berlin-Lankwitz;Germany;52.4333333333;13.3500000000;0
+69972;"2014-01-03 18:55:00";1721;1721;"Tomasz Fajfer";"Tomasz Fajfer";"BARBARKA near TORU?";Poland;53.0544444444;18.5400000000;0
+69973;"2014-01-03 19:10:00";8294;8294;"Seokhee Cho";"Seokhee Cho";"Sinji-do Jeollanam-do";"South Korea";34.3363888889;126.8283333330;18
+69974;"2014-01-03 17:03:00";7237;7237;"Branislav Savic";"Branislav Savic";Petnica;Serbia;44.2458333333;19.9263888889;225
+69975;"2014-01-03 18:10:00";1186;1186;"Anja Cervek";"Anja Cervek";Petnica;Serbia;44.2458333333;19.9263888889;225
+69976;"2014-01-03 18:10:00";91;91;"Masayuki Toda";"Masayuki Toda";Petnica;Serbia;44.2458333333;19.9263888889;225
+69977;"2014-01-03 22:30:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";Lanciano;Italy;42.2363888889;14.4022222222;268
+69978;"2014-01-03 18:56:00";7591;7591;"Maciej Kwinta";"Maciej Kwinta";Cracow;Poland;50.0213888889;19.9419444444;230
+69979;"2014-01-03 10:34:00";238;238;"Carl Hergenrother";"Carl Hergenrother";"Tucson - Tanque Verde";"United States";32.2819444444;-110.7683333330;826
+69980;"2014-01-03 17:45:00";6174;6174;"Chengyun Huang";"Chengyun Huang";"Chongming Dongtan ";China;31.4469444444;121.8852777780;0
+69981;"2014-01-04 05:45:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";Lanciano;Italy;42.2363888889;14.4022222222;268
+69982;"2014-01-03 17:00:00";2211;2211;"Vilem Heblik";"Vilem Heblik";JEZBORICE;Czechia;49.9786111111;15.6941666667;265
+69983;"2014-01-03 19:40:00";6453;6453;"Aleksei Makarow";"Aleksei Makarow";Tuapse;Russia;39.2833333333;44.2833333333;324
+69984;"2014-01-03 18:05:00";5321;5321;"Hendrik Vandenbruaene";"Hendrik Vandenbruaene";Tielt;Belgium;50.9872222222;3.3202777778;0
+69985;"2014-01-03 17:57:00";6208;6208;"Tomasz Lenart";"Tomasz Lenart";Biskupice;Poland;51.1683333333;22.9197222222;0
+69986;"2014-01-03 18:42:00";348;348;"Tibor Csorgei";"Tibor Csorgei";Blahova;Slovakia;48.0850000000;17.5466666667;118
+69987;"2014-01-03 20:30:00";1322;1322;"Daniel Cosovanu";"Daniel Cosovanu";Solca;Romania;47.6930555556;25.8394444444;520
+69988;"2014-01-03 18:50:00";6577;6577;"Keixuan Wu";"Keixuan Wu";VLBI,Urumqi,Xinjiang;China;43.4708333333;87.1775000000;2080
+69989;"2014-01-03 20:55:00";1323;1323;"Ilie Cosovanu";"Ilie Cosovanu";Solca;Romania;47.6930555556;25.8394444444;520
+69991;"2014-01-03 19:45:00";6345;6345;"Jingyi Zhao";"Jingyi Zhao";VLBI,Urumqi,Xinjiang;China;43.4708333333;87.1777777778;2080
+69992;"2014-01-03 18:50:00";6439;6439;"Meiru Zhu";"Meiru Zhu";VLBI,Urumqi,Xinjiang;China;43.4708333333;87.1775000000;2080
+69993;"2014-01-03 20:10:00";6579;6579;"Yuqin Xu";"Yuqin Xu";VLBI,Urumqi,Xinjiang;China;43.4708333333;87.1775000000;2080
+69994;"2014-01-03 20:45:00";6580;6580;"Xinge Liu";"Xinge Liu";VLBI,Urumqi,Xinjiang;China;43.4708333333;87.1777777778;2080
+69995;"2014-01-03 20:31:00";6581;6581;"Wushuang Chenye";"Wushuang Chenye";VLBI,Urumqi,Xinjiang;China;43.4708333333;87.1777777778;2080
+69996;"2014-01-03 18:50:00";6437;6437;"Kexuan Wu";"Kexuan Wu";VLBI,Urumqi,Xinjiang;China;43.4708333333;87.1777777778;2080
+69997;"2014-01-03 20:15:00";6578;6578;"Reizhe Li";"Reizhe Li";VLBI,Urumqi,Xinjiang;China;43.4708333333;87.1777777778;2080
+69998;"2014-01-03 21:50:00";5634;5634;"Oliver Wusk";"Oliver Wusk";Berlin-Lankwitz;Germany;52.4333333333;13.3500000000;0
+69999;"2014-01-03 20:15:00";3706;3706;"Maciej Myszkiewicz";"Maciej Myszkiewicz";Siedlce;Poland;52.1650000000;22.2713888889;0
+70000;"2014-01-04 03:25:00";7237;7237;"Branislav Savic";"Branislav Savic";Petnica;Serbia;44.2458333333;19.9263888889;225
+70001;"2014-01-03 02:45:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4561111111;12.9711111111;33
+70002;"2014-01-03 21:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4561111111;12.9711111111;33
+70003;"2014-01-03 23:45:00";44;44;"Ulrich Sperberg";"Ulrich Sperberg";Salzwedel;Germany;52.8344444444;11.1755555556;25
+70004;"2014-01-04 02:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4561111111;12.9711111111;33
+70005;"2014-01-03 17:37:00";6582;6582;"Yusong Zhu";"Yusong Zhu";"Shitanglu, Miyun, Beijing";China;40.2766666667;116.8302777780;160
+70006;"2014-01-04 17:36:00";6583;6583;"Yinxing Ma";"Yinxing Ma";"Shitanglu, Miyun, Beijing";China;40.2766666667;116.8302777780;160
+70007;"2014-01-03 21:55:00";7935;7935;"Omri Katz";"Omri Katz";"Be'er Menuha (Km101 Inn)";Israel;30.3080555556;35.1327777778;188
+70008;"2014-01-03 22:00:00";486;486;"Anna Levin";"Anna Levin";"Beer Menuha";Israel;30.3083333333;35.1352777778;183
+70009;"2014-01-01 20:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4561111111;12.9711111111;33
+70010;"2014-01-03 22:30:00";6256;6256;"Ilan Tchenak";"Ilan Tchenak";"Be'er Menuha";Israel;30.3077777778;35.1352777778;140
+70012;"2014-01-03 21:20:00";7220;7220;"Frederic Merlin";"Frederic Merlin";FONTAINE-NOTRE-DAME;France;49.8333333333;3.4166666667;120
+70013;"2014-01-04 01:15:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg-wieblinge;Germany;49.4302777778;8.6491666667;106
+70014;"2014-01-04 17:30:00";1322;1322;"Daniel Cosovanu";"Daniel Cosovanu";"Horodnic de Jos";Romania;47.8613888889;25.8269444444;475
+70015;"2014-01-03 12:23:00";4925;4925;"Wesley Stone";"Wesley Stone";"Chiloquin, OR";"United States";42.5766666667;-121.8680555560;1300
+70016;"2014-01-03 16:40:00";7413;7413;"Károly Jónás";"Károly Jónás";Gyorujbarat;Hungary;47.5833333333;17.6500000000;120
+70017;"2014-01-05 03:13:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4561111111;12.9711111111;33
+70019;"2014-01-03 17:58:00";5622;5622;"Lukasz Wozniak";"Lukasz Wozniak";LANCUT;Poland;50.1050000000;22.2322222222;140
+70020;"2014-01-04 04:03:00";7207;7207;"Kai Schultze";"Kai Schultze";Berlin-Frohnau;Germany;52.6427777778;13.2833333333;50
+70021;"2014-01-03 18:30:00";21;21;"Valentin Velkov";"Valentin Velkov";"Chiang Rai";Thailand;19.9163888889;99.8277777778;400
+70022;"2014-01-03 19:30:00";3224;3224;"Qiang Ma";"Qiang Ma";Xizouxianwo,Baodi,Tian,China;China;39.5808333333;117.6441666670;0
+70024;"2014-01-03 23:25:00";8008;8008;"Michael Nolle";"Michael Nolle";"Sempreviva ta' Ghawdex";Malta;36.0550000000;14.2005555556;127
+70025;"2014-01-05 22:30:00";5122;5122;"Rushikesh Tilak";"Rushikesh Tilak";Bangalore;India;12.9047222222;77.6477777778;920
+70026;"2014-01-03 10:35:00";254;254;"Pete Kozich";"Pete Kozich";"Carlyle Reservoir, IL";"United States";38.8333333333;-89.1666666667;138
+70027;"2014-01-03 18:18:00";6584;6584;"Jin Geng";"Jin Geng";"Huatai, Fangshan, Beijing, China";China;39.7819444444;115.5247222220;1176
+70028;"2014-01-03 18:31:00";5772;5772;"Nianfeng Zhang";"Nianfeng Zhang";Shandong,Rizhao,Jiuxianshan;China;35.8533333333;119.3600000000;500
+70032;"2014-01-03 19:22:00";6585;6585;"Xing Ren";"Xing Ren";"Huatai, Fangshan, Beijing, China";China;39.7822222222;115.5247222220;1176
+70033;"2014-01-03 16:58:00";4754;4754;"Andrzej Skoczewski";"Andrzej Skoczewski";Brzozowka;Poland;50.1708333333;19.8847222222;370
+70034;"2014-01-02 23:28:00";4754;4754;"Andrzej Skoczewski";"Andrzej Skoczewski";Brzozowka;Poland;50.1708333333;19.8847222222;370
+70035;"2014-01-03 09:48:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70036;"2014-01-03 18:18:00";2354;2354;"Shan Huang";"Shan Huang";"A Po Lv";China;23.6950000000;113.8761111110;620
+70040;"2014-01-03 01:50:00";49;49;"Roland Winkler";"Roland Winkler";Schkeuditz;Germany;52.2833333333;12.0333333333;50
+70041;"2014-01-04 02:25:00";49;49;"Roland Winkler";"Roland Winkler";Schkeuditz;Germany;52.2833333333;12.0333333333;50
+70042;"2014-01-04 19:40:00";6586;6586;"Roman Makhnenko";"Roman Makhnenko";"Vinogradny, Anapa";Russia;45.0505555556;37.3241666667;5
+70043;"2014-01-03 19:13:00";6586;6586;"Roman Makhnenko";"Roman Makhnenko";"Vinogradny, Anapa";Russia;45.0505555556;37.3241666667;5
+70044;"2014-01-03 19:57:00";5777;5777;"Xiang Zhan";"Xiang Zhan";"Huatai, Fangshan, Beijing";China;39.7822222222;115.5250000000;1176
+70045;"2014-01-04 09:48:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70046;"2014-01-04 05:10:00";162;162;"Mark Davis";"Mark Davis";"Givhans Ferry St.p.";"United States";33.0322222222;-80.3869444444;0
+70049;"2014-01-01 02:20:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ronse;Belgium;50.7288888889;3.6144444444;30
+70050;"2014-01-03 17:30:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ronse;Belgium;50.7288888889;3.6144444444;30
+70051;"2014-01-05 03:15:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ronse;Belgium;50.7288888889;3.6144444444;30
+70055;"2014-01-07 01:27:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ronse;Belgium;50.7288888889;3.6144444444;30
+70056;"2014-01-10 01:55:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ronse;Belgium;50.7288888889;3.6144444444;30
+70058;"2014-01-12 03:32:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ronse;Belgium;50.7288888889;3.6144444444;30
+70059;"2014-01-03 22:54:00";7836;7836;"Ella Ratz";"Ella Ratz";"Beer Menuha";Israel;30.3086111111;35.1330555556;80
+70063;"2014-01-05 23:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4561111111;12.9711111111;33
+70064;"2014-01-12 19:14:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1255555556;13.5975000000;121
+70065;"2014-01-27 21:35:00";49;49;"Roland Winkler";"Roland Winkler";Schkeuditz;Germany;51.4000000000;12.2166666667;111
+70066;"2014-01-29 01:30:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70067;"2014-02-02 01:27:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70068;"2014-02-06 23:47:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+70069;"2014-02-08 00:37:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+70070;"2014-02-09 02:21:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+70071;"2014-02-16 18:15:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70072;"2014-02-03 01:45:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70073;"2014-02-21 20:53:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70074;"2014-02-20 18:45:00";6587;6587;"Kevin Förster";"Kevin Förster";Carlsfeld;Germany;50.4333333333;12.5666666667;820
+70075;"2014-02-23 21:05:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+70076;"2014-02-25 01:15:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70077;"2014-02-27 02:50:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70078;"2014-03-07 01:00:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70079;"2014-03-09 01:51:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70080;"2014-03-22 22:10:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70081;"2014-03-25 00:20:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70082;"2014-03-02 18:59:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1205555556;13.6061111111;112
+70083;"2014-03-29 01:28:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70084;"2014-03-28 20:00:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1583333333;11.3916666667;350
+70085;"2014-03-29 20:15:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1583333333;11.3916666667;350
+70086;"2014-03-10 02:00:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70087;"2014-03-30 00:43:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70088;"2014-03-27 22:15:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+70089;"2014-03-29 20:55:00";49;49;"Roland Winkler";"Roland Winkler";Schkeuditz;Germany;51.4000000000;12.2166666667;111
+70090;"2014-02-24 22:00:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9777777778;14.1180555556;800
+70091;"2014-03-30 00:18:00";131;131;"Javor Kac";"Javor Kac";Trnovo;Slovenia;45.9727777778;13.7400000000;790
+70092;"2014-04-05 00:20:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70093;"2014-04-07 00:00:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70094;"2014-04-21 00:30:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70095;"2014-04-20 20:20:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1583333333;11.3916666667;350
+70096;"2014-04-21 17:00:00";6588;6588;"Angelo Gabriel Ramos";"Angelo Gabriel Ramos";"PAGASA Astronomical Obsevatory";Phillipines;14.6538888889;121.0722222220;72
+70097;"2014-04-21 17:00:00";6589;6589;"Gerald Peter Geronimo";"Gerald Peter Geronimo";"PAGASA Astronomical Obsevatory";Phillipines;14.6538888889;121.0722222220;72
+70098;"2014-04-21 17:00:00";6590;6590;"Scott Pierre Bancolita";"Scott Pierre Bancolita";"PAGASA Astronomical Obsevatory";Phillipines;14.6538888889;121.0722222220;72
+70099;"2014-04-21 17:00:00";6591;6591;"Jerwin Laurente";"Jerwin Laurente";"PAGASA Astronomical Obsevatory";Phillipines;14.6538888889;121.0722222220;72
+70100;"2014-04-21 17:00:00";6592;6592;"Sire Eduard Gella";"Sire Eduard Gella";"PAGASA Astronomical Obsevatory";Phillipines;14.6538888889;121.0722222220;72
+70101;"2014-04-21 19:50:00";6456;6456;"Dmitry Gavriljuk";"Dmitry Gavriljuk";Vologda;Russia;59.1905555556;39.8836111111;150
+70102;"2014-04-21 19:52:00";4651;4651;"Ivan M. Sergey";"Ivan M. Sergey";Molodechno;Belarus;54.2794444444;26.7438888889;226
+70103;"2014-04-22 00:09:00";6587;6587;"Kevin Förster";"Kevin Förster";Carlsfeld/Erzgebirge;Germany;50.4369444444;12.5811111111;820
+70104;"2014-04-22 09:12:00";283;283;"Salvador Aguirre";"Salvador Aguirre";"Campestre Real del Molinito, Hermosillo, Sonora";Mexico;29.2175000000;-110.7605555560;273
+70105;"2014-04-22 22:50:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70106;"2014-04-22 20:55:00";6203;6203;"Alexsandr Morozov";"Alexsandr Morozov";Novozybkov;Russia;52.5508333333;31.9530555556;162
+70107;"2014-04-20 22:48:00";7237;7237;"Branislav Savic";"Branislav Savic";Leskovice;Serbia;44.1994444444;19.8250000000;560
+70108;"2014-04-22 20:00:00";4322;4322;"Jatin Rathod";"Jatin Rathod";"Landaa Giraavaru";Maldives;5.2863888889;73.1130555556;1
+70109;"2014-04-22 21:48:00";6593;6593;"Miguel Ange Serra Martin";"Miguel Ange Serra Martin";" Binicanella, Mallorca";Spain;39.6700000000;2.6961111111;120
+70110;"2014-04-21 19:30:00";3224;3224;"Qiang Ma";"Qiang Ma";Hejinghome,Hedong,Tianjin;China;39.1100000000;117.2575000000;70
+70111;"2014-04-22 18:50:00";3224;3224;"Qiang Ma";"Qiang Ma";Hejinghome,Hedong,Tianjin;China;39.1100000000;117.2575000000;70
+70112;"2014-04-22 21:29:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9777777778;14.1180555556;800
+70113;"2014-04-22 20:30:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1583333333;11.3916666667;350
+70114;"2014-04-22 21:48:00";6594;6594;"Carlos Burgos";"Carlos Burgos";" Binicanella, Mallorca";Spain;39.6700000000;2.6961111111;120
+70115;"2014-04-22 21:48:00";6595;6595;"Joan Serrq";"Joan Serrq";" Binicanella, Mallorca";Spain;39.6700000000;2.6961111111;120
+70116;"2014-04-22 23:23:00";6587;6587;"Kevin Förster";"Kevin Förster";Carlsfeld/Erzgebirge;Germany;50.4369444444;12.5811111111;820
+70119;"2014-04-23 21:28:00";6203;6203;"Alexsandr Morozov";"Alexsandr Morozov";Novozybkov;Russia;52.5508333333;31.9530555556;162
+70120;"2014-04-24 23:08:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4008333333;-45.5350000000;838
+70121;"2014-04-21 23:25:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4561111111;12.9711111111;33
+70122;"2014-04-23 01:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4561111111;12.9711111111;33
+70123;"2014-04-24 22:50:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70124;"2014-04-22 05:00:00";6321;6321;"Josafary Campelo";"Josafary Campelo";Ferreiros;Brazil;-7.4475000000;-35.2441666667;96
+70125;"2014-04-21 21:33:00";210;210;"Ina Rendtel";"Ina Rendtel";"Andemosevej, Isle of Fejø, Lolland";Denmark;54.9552777778;11.4638888889;1
+70126;"2014-04-22 23:35:00";7754;7754;"Dunja Pavlović";"Dunja Pavlović";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6866666667;1050
+70127;"2014-04-22 23:35:00";3503;3503;"Anderson Miller";"Anderson Miller";"Debelo brdo - Valjevo";Serbia;44.1583333333;19.6866666667;1050
+70128;"2014-04-28 00:30:00";6203;6203;"Alexsandr Morozov";"Alexsandr Morozov";Novozybkov;Russia;52.5508333333;31.9530555556;162
+70129;"2014-04-22 22:42:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;300
+70130;"2014-04-23 23:00:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;300
+70131;"2014-04-25 00:10:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;300
+70132;"2014-05-01 10:10:00";283;283;"Salvador Aguirre";"Salvador Aguirre";"Campestre Real del Molinito, Hermosillo, Sonora";Mexico;29.2175000000;-110.7605555560;273
+70135;"2014-05-02 01:30:00";138;138;"Tim Cooper";"Tim Cooper";BREDELL;"South Africa";-26.0902777778;28.3161111111;1662
+70136;"2014-05-03 01:30:00";138;138;"Tim Cooper";"Tim Cooper";BREDELL;"South Africa";-26.0902777778;28.3161111111;1662
+70137;"2014-05-03 06:22:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+70138;"2014-05-03 07:40:00";6597;6597;"Adair Cardozo";"Adair Cardozo";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+70139;"2014-05-02 22:55:00";486;486;"Anna Levin";"Anna Levin";"Borot Lots";Israel;30.5277777778;34.6250000000;950
+70140;"2014-05-02 23:46:00";7836;7836;"Ella Ratz";"Ella Ratz";"Borot Lots";Israel;30.5277777778;34.6250000000;950
+70141;"2014-05-03 17:30:00";85;85;"Shigeo Uchiyama";"Shigeo Uchiyama";"Sakuragawa, Ibaraki";Japan;36.2305555556;140.1055555560;520
+70142;"2014-04-21 22:05:00";2211;2211;"Vilem Heblik";"Vilem Heblik";JEZBORICE;Czechia;49.9786111111;15.6941666667;265
+70143;"2014-05-03 22:20:00";6456;6456;"Dmitry Gavriljuk";"Dmitry Gavriljuk";Vologda;Russia;59.1905555556;39.8836111111;150
+70144;"2014-05-04 01:30:00";138;138;"Tim Cooper";"Tim Cooper";BREDELL;"South Africa";-26.0902777778;28.3161111111;1662
+70145;"2014-05-03 00:10:00";210;210;"Ina Rendtel";"Ina Rendtel";"Fischerhütte, Nord-Ostsee-Kanal, Schleswig-Holstein";Germany;9.3733333333;54.1544444444;3
+70146;"2014-05-03 08:36:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70147;"2014-05-04 08:55:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70148;"2014-05-04 06:34:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+70149;"2014-05-03 00:07:00";4235;4235;"Sasha Prokofyev";"Sasha Prokofyev";"Kiti, Larnaca";Cyprus;34.8547222222;33.5827777778;0
+70150;"2014-04-20 19:20:00";4235;4235;"Sasha Prokofyev";"Sasha Prokofyev";"Kiti, Larnaca";Cyprus;34.8547222222;33.5827777778;0
+70151;"2014-04-21 21:07:00";4235;4235;"Sasha Prokofyev";"Sasha Prokofyev";"Kite surfing club, Larnaca";Cyprus;34.8175000000;33.5483333333;0
+70152;"2014-04-22 23:15:00";4235;4235;"Sasha Prokofyev";"Sasha Prokofyev";"Kiti, Larnaca";Cyprus;34.8547222222;33.5827777778;0
+70153;"2014-05-05 00:38:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9777777778;14.1180555556;800
+70154;"2014-05-05 07:07:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4008333333;-45.5350000000;838
+70155;"2014-05-05 08:52:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70156;"2014-05-06 00:40:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9777777778;14.1180555556;800
+70157;"2014-05-05 23:33:00";6203;6203;"Alexsandr Morozov";"Alexsandr Morozov";Novozybkov;Russia;52.5508333333;31.9530555556;162
+70158;"2014-04-18 20:30:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+70159;"2014-05-06 06:33:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4008333333;-45.5350000000;838
+70160;"2014-05-06 08:53:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70161;"2014-05-06 09:46:00";283;283;"Salvador Aguirre";"Salvador Aguirre";"Campestre Real del Molinito, Hermosillo, Sonora";Mexico;29.2175000000;-110.7605555560;273
+70162;"2014-05-06 23:00:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70163;"2014-05-06 00:28:00";7237;7237;"Branislav Savic";"Branislav Savic";Leskovice;Serbia;44.1994444444;19.8250000000;560
+70164;"2014-05-07 00:29:00";7237;7237;"Branislav Savic";"Branislav Savic";Leskovice;Serbia;44.1994444444;19.8250000000;560
+70165;"2014-05-05 01:30:00";138;138;"Tim Cooper";"Tim Cooper";BREDELL;"South Africa";-26.0902777778;28.3161111111;1662
+70166;"2014-05-04 23:45:00";7413;7413;"Károly Jónás";"Károly Jónás";Tapioszecso;Hungary;47.4166666667;19.5833333333;170
+70167;"2014-05-05 23:30:00";7413;7413;"Károly Jónás";"Károly Jónás";Tata;Hungary;47.7500000000;18.4166666667;300
+70168;"2014-05-07 08:28:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70169;"2014-05-06 10:30:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Bryce Canyon";"United States";37.5000000000;-113.0000000000;2100
+70170;"2014-05-08 01:40:00";138;138;"Tim Cooper";"Tim Cooper";BREDELL;"South Africa";-26.0902777778;28.3161111111;1662
+70171;"2014-05-07 22:20:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70172;"2014-05-04 00:00:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ronse;Belgium;50.7288888889;3.6144444444;30
+70173;"2014-05-04 23:50:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ronse;Belgium;50.7288888889;3.6144444444;30
+70174;"2014-05-07 00:45:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ronse;Belgium;50.7288888889;3.6144444444;30
+70175;"2014-05-04 00:12:00";2211;2211;"Vilem Heblik";"Vilem Heblik";JEZBORICE;Czechia;49.9786111111;15.6941666667;265
+70176;"2014-05-05 00:14:00";2211;2211;"Vilem Heblik";"Vilem Heblik";JEZBORICE;Czechia;49.9786111111;15.6941666667;265
+70177;"2014-05-06 00:11:00";2211;2211;"Vilem Heblik";"Vilem Heblik";JEZBORICE;Czechia;49.9786111111;15.6941666667;265
+70178;"2014-05-08 08:41:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70179;"2014-05-03 23:45:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4561111111;12.9711111111;33
+70180;"2014-04-29 00:10:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4561111111;12.9711111111;33
+70181;"2014-05-03 10:35:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Cedar City";"United States";37.5000000000;-112.7500000000;2700
+70182;"2014-05-04 10:25:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"St George";"United States";37.2500000000;-113.5000000000;1220
+70183;"2014-05-06 10:25:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Kanab;"United States";37.0333333333;-112.5000000000;1525
+70184;"2014-05-08 23:20:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70185;"2014-05-06 07:15:00";6599;6599;"Adriano Carvalho";"Adriano Carvalho";"Rio de Janeiro";Brazil;-22.9405555556;-43.1816666667;20
+70186;"2014-05-09 08:49:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70187;"2014-05-09 01:05:00";7237;7237;"Branislav Savic";"Branislav Savic";"Petnica - Valjevo";Serbia;44.2466666667;19.9305555556;222
+70188;"2014-05-09 01:05:00";6139;6139;"Snezana Todorovic";"Snezana Todorovic";"Petnica - Valjevo";Serbia;44.2466666667;19.9305555556;222
+70189;"2014-05-10 01:42:00";6139;6139;"Snezana Todorovic";"Snezana Todorovic";"Petnica - Valjevo";Serbia;44.2466666667;19.9305555556;222
+70190;"2014-05-10 01:42:00";7237;7237;"Branislav Savic";"Branislav Savic";"Petnica - Valjevo";Serbia;44.2466666667;19.9305555556;222
+70193;"2014-05-08 10:40:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Grenn River";"United States";39.0000000000;-110.2500000000;1250
+70196;"2014-05-10 09:00:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70197;"2014-05-11 09:25:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70198;"2014-05-06 23:56:00";4235;4235;"Sasha Prokofyev";"Sasha Prokofyev";"Kiti, Larnaca";Cyprus;34.8547222222;33.5827777778;0
+70199;"2014-05-12 00:15:00";4235;4235;"Sasha Prokofyev";"Sasha Prokofyev";"Kiti, Larnaca";Cyprus;34.8547222222;33.5827777778;0
+70200;"2014-05-02 19:35:00";6600;6600;"Nina Ignatenko";"Nina Ignatenko";Nauchny;Ukraine;44.7258333333;34.0116666667;574
+70201;"2014-05-03 18:50:00";6600;6600;"Nina Ignatenko";"Nina Ignatenko";Nauchny;Ukraine;44.7258333333;34.0116666667;574
+70202;"2014-05-02 18:30:00";6601;6601;"Selim Yakubov";"Selim Yakubov";Nauchny;Ukraine;44.7258333333;34.0116666667;574
+70203;"2014-05-03 18:50:00";6601;6601;"Selim Yakubov";"Selim Yakubov";Nauchny;Ukraine;44.7258333333;34.0116666667;574
+70204;"2014-05-10 01:42:00";570;570;"Dušan Pavlović";"Dušan Pavlović";"Petnica - Valjevo";Serbia;44.2463888889;19.9308333333;222
+70205;"2014-05-18 21:20:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70206;"2014-05-02 19:00:00";3270;3270;"Maria Makarova";"Maria Makarova";Nauchny;Russia;34.0150000000;44.7283333333;574
+70207;"2014-05-06 06:38:00";162;162;"Mark Davis";"Mark Davis";"Givhans Ferry St.p.";"United States";33.0322222222;-80.3869444444;0
+70208;"2014-05-17 18:40:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70209;"2014-05-18 18:40:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70210;"2014-05-20 18:50:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70211;"2014-05-02 19:00:00";6602;6602;"Alexandr Seroys";"Alexandr Seroys";Nauchny;Ukraine;44.7258333333;34.0091666667;574
+70212;"2014-05-21 18:50:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70214;"2014-05-05 06:30:00";8022;8022;"Pierre Martin";"Pierre Martin";"Bootland Farm";Canada;45.3833333333;-76.4833333333;0
+70215;"2014-05-22 21:45:00";6203;6203;"Alexsandr Morozov";"Alexsandr Morozov";Novozybkov;Russia;52.5508333333;31.9530555556;162
+70216;"2014-05-23 23:10:00";608;608;"Tomasz Adam";"Tomasz Adam";Kraków;Poland;50.0763888889;19.9419444444;220
+70217;"2014-05-23 21:55:00";6586;6586;"Roman Makhnenko";"Roman Makhnenko";"Vinogradny, Anapa";Russia;45.0505555556;37.3241666667;5
+70218;"2014-05-23 22:05:00";3259;3259;"Boris Majic";"Boris Majic";Petnica;Serbia;44.2458333333;19.9258333333;220
+70219;"2014-05-23 18:40:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70220;"2014-05-23 23:00:00";6553;6553;"Milen Minev";"Milen Minev";Vasilovci;Bulgaria;42.9458333333;23.0852777778;854
+70221;"2014-05-23 22:10:00";5114;5114;"Sonal Thorve";"Sonal Thorve";"Tamhini ghat";India;18.4052777778;73.3788888889;0
+70222;"2014-05-23 23:00:00";6208;6208;"Tomasz Lenart";"Tomasz Lenart";Biskupice;Poland;51.1683333333;22.9197222222;0
+70223;"2014-05-23 20:35:00";486;486;"Anna Levin";"Anna Levin";"Borot Lots";Iceland;34.6261111111;30.5280555556;949
+70224;"2014-05-23 20:40:00";7842;7842;"Tamara Tchenak";"Tamara Tchenak";"Borot Lots";Iceland;34.6261111111;30.5280555556;949
+70225;"2014-05-24 00:01:00";131;131;"Javor Kac";"Javor Kac";"Vrh nad \v{Z}elimljami";Slovenia;45.9058333333;14.5991666667;530
+70226;"2014-05-24 02:25:00";269;269;"Shy Halatzi";"Shy Halatzi";Lewisville;"United States";39.7644444444;-81.2166666667;300
+70227;"2014-05-24 05:30:00";162;162;"Mark Davis";"Mark Davis";"Givhans Ferry St.p.";"United States";33.0322222222;-80.3869444444;0
+70228;"2014-05-23 19:39:00";6203;6203;"Alexsandr Morozov";"Alexsandr Morozov";Novozybkov;Russia;52.5508333333;31.9530555556;162
+70229;"2014-05-23 20:40:00";1721;1721;"Tomasz Fajfer";"Tomasz Fajfer";TORU?;Poland;53.0505555556;18.6205555556;60
+70230;"2014-05-24 05:37:00";6603;6603;"Quan-zhi Ye";"Quan-zhi Ye";"E.S. Fox Observatory";Canada;44.7388888889;-81.2305555556;100
+70231;"2014-05-23 21:20:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70232;"2014-05-23 06:44:00";190;190;"William Watson";"William Watson";"Fort Niagara, Ny";"United States";43.2638888889;-79.0597222222;0
+70233;"2014-05-24 01:03:00";532;532;"Michel Deconinck";"Michel Deconinck";Artignosc-sur-Verdon;France;43.7041666667;6.0902777778;505
+70234;"2014-05-23 23:30:00";137;137;"Josep Trigo Rodriguez";"Josep Trigo Rodriguez";"Montseny Natural Park";Spain;41.7933333333;2.4030555556;1500
+70235;"2014-05-23 22:05:00";7237;7237;"Branislav Savic";"Branislav Savic";Petnica;Serbia;44.2458333333;19.9258333333;220
+70236;"2014-05-24 05:30:00";4925;4925;"Wesley Stone";"Wesley Stone";"Chiloquin, OR";"United States";42.5766666667;-121.8683333330;1300
+70237;"2014-05-23 22:05:00";3375;3375;"Allan Matacz";"Allan Matacz";Petnica;Serbia;44.2458333333;19.9258333333;220
+70238;"2014-05-24 05:09:00";185;185;"Richard Taibi";"Richard Taibi";"Richard Taibi";"United States";38.4666666667;-76.9833333333;10
+70239;"2014-05-24 05:19:00";238;238;"Carl Hergenrother";"Carl Hergenrother";"Tucson - Tanque Verde";"United States";32.2819444444;-110.7683333330;826
+70240;"2014-05-24 04:58:00";283;283;"Salvador Aguirre";"Salvador Aguirre";"Campestre Real del Molinito, Hermosillo, Sonora";Mexico;29.2175000000;-110.7605555560;273
+70241;"2014-05-23 22:10:00";3030;3030;"Jens Lacorne";"Jens Lacorne";"Plateau de Calern - Caussols";France;43.7516666667;6.9233333333;1270
+70242;"2014-05-24 21:00:00";1043;1043;"Jens Briesemeister";"Jens Briesemeister";Magdeburg;Germany;52.1166666667;12.0000000000;60
+70243;"2014-05-24 14:15:00";3152;3152;"Mike Linnolt";"Mike Linnolt";"Naalehu, Hawaii";"United States";19.0500000000;-155.6166666670;200
+70244;"2014-05-24 18:40:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70245;"2014-05-23 20:45:00";6604;6604;"Jaroslav Merc";"Jaroslav Merc";Kosice;Slovakia;48.7116666667;21.2122222222;201
+70246;"2014-05-24 01:18:00";3472;3472;"Marco Micheli";"Marco Micheli";"Ronchi di S. Francesco da Paola, Brescia (BS)";Italy;45.5322222222;10.2550000000;170
+70247;"2014-05-24 20:06:00";8008;8008;"Michael Nolle";"Michael Nolle";"Sempreviva ta' Ghawdex";Malta;36.0550000000;14.2005555556;127
+70249;"2014-05-24 00:00:00";1509;1509;"Jose Vicente Diaz Martinez";"Jose Vicente Diaz Martinez";Bugarra;Spain;39.6097222222;-0.7461111111;200
+70250;"2014-05-24 07:00:00";7315;7315;"Bruce McCurdy";"Bruce McCurdy";"Beta Lake";Canada;53.7302777778;-115.6366666670;0
+70251;"2014-05-24 14:00:00";6605;6605;"Bing-xun Wu";"Bing-xun Wu";Lulin;Taiwan;23.4686111111;120.8736111110;2862
+70252;"2014-05-23 21:18:00";99;99;"Audrius Dubietis";"Audrius Dubietis";Salakas;Lithuania;55.5833333333;26.1333333333;0
+70253;"2014-05-24 22:06:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70254;"2014-05-23 21:10:00";7435;7435;"Arash Nabizadeh Haghighi";"Arash Nabizadeh Haghighi";Bivarzen;Iran;36.6769444444;49.5708333333;1150
+70255;"2014-05-23 23:00:00";336;336;"Vasilis Metallinos";"Vasilis Metallinos";"Peroulades, Corfu";Greece;39.7947222222;19.6736111111;10
+70256;"2014-05-23 22:40:00";6593;6593;"Miguel Ange Serra Martin";"Miguel Ange Serra Martin";binifaldo;Spain;39.8388888889;2.9100000000;660
+70257;"2014-05-23 22:50:00";3706;3706;"Maciej Myszkiewicz";"Maciej Myszkiewicz";Siedlce;Poland;52.1650000000;22.2713888889;0
+70258;"2014-04-22 19:30:00";3706;3706;"Maciej Myszkiewicz";"Maciej Myszkiewicz";Siedlce;Poland;52.1650000000;22.2713888889;0
+70259;"2014-05-24 07:15:00";662;662;"Jose Alvarellos";"Jose Alvarellos";Fremont;"United States";37.5483333333;-121.9886111110;100
+70260;"2014-05-24 02:25:00";6012;6012;"Daniel Verde Van Ouytsel";"Daniel Verde Van Ouytsel";"Barranco Moreno, Bicorp";Spain;39.1388888889;-0.8405555556;550
+70261;"2014-05-24 03:49:00";249;249;"Peter Detterline";"Peter Detterline";"Shenandoah National Park";"United States";38.8413888889;-78.1844444444;520
+70262;"2014-05-24 03:20:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Tucumcari;"United States";35.1141666667;-103.2255555560;0
+70263;"2014-05-24 04:10:00";2377;2377;"Richard Huziak";"Richard Huziak";Saskatoon;Canada;52.0850000000;-106.8016666670;503
+70264;"2014-05-23 20:55:00";7836;7836;"Ella Ratz";"Ella Ratz";"Borot Lots";Israel;30.5277777778;34.6250000000;950
+70265;"2014-05-27 02:33:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Izana;Spain;28.3025000000;-16.5102777778;2400
+70266;"2014-05-28 02:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Izana;Spain;28.3025000000;-16.5102777778;2400
+70267;"2014-05-24 00:05:00";7413;7413;"Károly Jónás";"Károly Jónás";Tata;Hungary;47.7500000000;18.4166666667;300
+70268;"2014-05-24 06:03:00";7207;7207;"Kai Schultze";"Kai Schultze";"Yerkes Observatory";"United States";42.5700000000;-88.5563888889;316
+70269;"2014-05-31 21:30:00";477;477;"Mirco Saner";"Mirco Saner";"CH-4715 Herbetswil";Switzerland;47.2950000000;7.5886111111;524
+70270;"2014-05-25 04:09:00";135;135;"Orlando Benitez Sanchez";"Orlando Benitez Sanchez";"Gran Canaria";Spain;27.7902777778;-15.4941666667;0
+70271;"2014-06-01 22:12:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70272;"2014-05-24 03:55:00";8022;8022;"Pierre Martin";"Pierre Martin";"Soike Road, Cobden";Canada;45.6166666667;-76.7666666667;0
+70273;"2014-06-05 22:24:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70275;"2014-05-02 18:00:00";6607;6607;"Hontsova Svetlana";"Hontsova Svetlana";Nauchny;Russia;34.0116666667;44.7258333333;590
+70276;"2014-05-02 18:00:00";6608;6608;"Kichizhieva Natalia";"Kichizhieva Natalia";Nauchny;Russia;34.0116666667;44.7258333333;590
+70277;"2014-05-02 18:50:00";6609;6609;"Montseva Olga";"Montseva Olga";Nauchny;Russia;34.0116666667;44.7258333333;590
+70278;"2014-05-02 18:50:00";6606;6606;"Fomkina Lubov";"Fomkina Lubov";Nauchny;Russia;34.0116666667;44.7258333333;590
+70279;"2014-06-08 00:45:00";477;477;"Mirco Saner";"Mirco Saner";"CH-4715 Herbetswil";Switzerland;47.2950000000;7.5886111111;524
+70280;"2014-05-18 21:20:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg-wieblinge;Germany;49.4302777778;8.6491666667;106
+70281;"2014-05-19 22:30:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg-wieblinge;Germany;49.4302777778;8.6491666667;106
+70282;"2014-05-23 22:54:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg-wieblinge;Germany;49.4302777778;8.6491666667;106
+70283;"2014-06-22 22:33:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70284;"2014-06-23 19:00:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70285;"2014-06-21 22:15:00";477;477;"Mirco Saner";"Mirco Saner";"CH-4715 Herbetswil";Switzerland;47.2950000000;7.5886111111;524
+70286;"2014-05-23 21:45:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;300
+70287;"2014-06-25 20:55:00";6203;6203;"Alexsandr Morozov";"Alexsandr Morozov";Novozybkov;Russia;52.5508333333;31.9530555556;162
+70288;"2014-06-26 18:40:00";6453;6453;"Aleksei Makarow";"Aleksei Makarow";Tuapse;Russia;39.2833333333;44.2833333333;324
+70289;"2014-01-03 17:10:00";8013;8013;"István Tepliczky";"István Tepliczky";Gyorszemere;Hungary;47.5666666667;17.5666666667;150
+70291;"2014-06-27 02:35:00";190;190;"William Watson";"William Watson";"Tonawand, Ny";"United States";43.0050000000;-78.9038888889;0
+70292;"2014-06-27 19:00:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70293;"2014-06-27 18:35:00";5975;5975;"Marina Kychyzhyyeva";"Marina Kychyzhyyeva";"Beer Menuha";Israel;30.3083333333;35.1352777778;183
+70294;"2014-06-27 18:35:00";7842;7842;"Tamara Tchenak";"Tamara Tchenak";"Beer Menuha";Israel;30.3083333333;35.1352777778;183
+70295;"2014-06-27 18:44:00";486;486;"Anna Levin";"Anna Levin";"Beer Menuha";Israel;30.3083333333;35.1352777778;183
+70296;"2014-06-28 19:00:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70297;"2014-06-29 19:00:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70298;"2014-06-30 19:00:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70299;"2014-07-01 23:00:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70300;"2014-06-30 22:45:00";477;477;"Mirco Saner";"Mirco Saner";"CH-4715 Herbetswil";Switzerland;47.2950000000;7.5886111111;524
+70301;"2014-07-02 22:35:00";477;477;"Mirco Saner";"Mirco Saner";"CH-4715 Herbetswil";Switzerland;47.2950000000;7.5886111111;524
+70302;"2014-07-01 22:06:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70303;"2014-07-03 22:33:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70304;"2014-07-05 07:21:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70305;"2014-06-29 07:00:00";504;504;"Paul Zeller";"Paul Zeller";"7426 Gordon Way Indianapolis IN";"United States";39.6597222222;-86.0502777778;255
+70306;"2014-07-06 07:16:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70307;"2014-07-05 05:40:00";190;190;"William Watson";"William Watson";"Beaver Meadows Observatory";"United States";42.6730555556;-78.3847222222;500
+70308;"2014-07-08 08:28:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70309;"2014-06-26 23:16:00";131;131;"Javor Kac";"Javor Kac";"\v{S}martno na Pohorju";Slovenia;46.4461111111;15.5366666667;880
+70310;"2014-06-27 21:04:00";131;131;"Javor Kac";"Javor Kac";"\v{S}martno na Pohorju";Slovenia;46.4461111111;15.5366666667;880
+70311;"2014-07-03 22:01:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9772222222;14.1205555556;800
+70312;"2014-06-30 06:00:00";504;504;"Paul Zeller";"Paul Zeller";"7426 Gordon Way Indianapolis IN";"United States";39.6597222222;-86.0502777778;255
+70313;"2014-07-04 07:05:00";504;504;"Paul Zeller";"Paul Zeller";"7426 Gordon Way Indianapolis IN";"United States";39.6597222222;-86.0502777778;255
+70314;"2014-07-14 21:00:00";3706;3706;"Maciej Myszkiewicz";"Maciej Myszkiewicz";Siedlce;Poland;52.1650000000;22.2713888889;0
+70315;"2014-07-18 21:00:00";3706;3706;"Maciej Myszkiewicz";"Maciej Myszkiewicz";Siedlce;Poland;52.1650000000;22.2713888889;0
+70316;"2014-07-19 21:30:00";3706;3706;"Maciej Myszkiewicz";"Maciej Myszkiewicz";Siedlce;Poland;52.1650000000;22.2713888889;0
+70317;"2014-07-19 21:04:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1255555556;13.5975000000;121
+70318;"2014-07-19 21:05:00";7322;7322;"Frank Wächter";"Frank Wächter";Radebeul;Germany;51.1255555556;13.5975000000;121
+70319;"2014-07-02 22:40:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70320;"2014-07-03 22:30:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70321;"2014-07-04 22:30:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70322;"2014-07-20 23:50:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70323;"2014-07-18 21:30:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1583333333;11.3916666667;350
+70324;"2014-07-19 21:26:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1583333333;11.3916666667;350
+70325;"2014-07-23 06:26:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70326;"2014-07-23 19:49:00";6203;6203;"Alexsandr Morozov";"Alexsandr Morozov";Novozybkov;Russia;52.5508333333;31.9530555556;162
+70327;"2014-07-23 21:20:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1583333333;11.3916666667;350
+70328;"2014-07-23 21:40:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70329;"2014-07-24 06:27:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70330;"2014-07-24 21:30:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1583333333;11.3916666667;350
+70331;"2014-07-25 06:27:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70332;"2014-07-25 20:38:00";6203;6203;"Alexsandr Morozov";"Alexsandr Morozov";Novozybkov;Russia;52.5508333333;31.9530555556;162
+70333;"2014-07-25 22:40:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1583333333;11.3916666667;350
+70334;"2014-07-26 01:18:00";131;131;"Javor Kac";"Javor Kac";"Ribni\v{s}ka ko\v{c}a";Slovenia;46.4977777778;15.2555555556;1500
+70335;"2014-07-21 20:25:00";3706;3706;"Maciej Myszkiewicz";"Maciej Myszkiewicz";Siedlce;Poland;52.1650000000;22.2713888889;0
+70336;"2014-07-25 22:50:00";3706;3706;"Maciej Myszkiewicz";"Maciej Myszkiewicz";Siedlce;Poland;52.1650000000;22.2713888889;0
+70337;"2014-07-26 06:27:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70338;"2014-07-26 09:04:00";4925;4925;"Wesley Stone";"Wesley Stone";"Chiloquin, OR";"United States";42.5766666667;-121.8683333330;1300
+70339;"2014-07-26 14:30:00";6235;6235;"Fengwu Sun";"Fengwu Sun";Xiaonanxinpu;China;40.3080555556;115.7133333330;500
+70340;"2014-07-26 16:00:00";1617;1617;"John Drummond";"John Drummond";"John Drummond";"New Zealand";-38.6300000000;177.8833333330;15
+70341;"2014-07-26 23:55:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70342;"2014-07-26 20:04:00";3542;3542;"Artem Mirgorod";"Artem Mirgorod";Dnepropetrovsk;Ukraine;48.5461111111;35.0130555556;61
+70343;"2014-07-27 06:24:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70344;"2014-07-27 09:49:00";4925;4925;"Wesley Stone";"Wesley Stone";"Chiloquin, OR";"United States";42.5766666667;-121.8683333330;1300
+70345;"2014-07-26 19:05:00";6453;6453;"Aleksei Makarow";"Aleksei Makarow";Tuapse;Russia;39.2833333333;44.2833333333;324
+70346;"2014-07-27 22:00:00";6203;6203;"Alexsandr Morozov";"Alexsandr Morozov";Novozybkov;Russia;52.5508333333;31.9530555556;162
+70347;"2014-07-26 20:30:00";3706;3706;"Maciej Myszkiewicz";"Maciej Myszkiewicz";Siedlce;Poland;52.1650000000;22.2713888889;0
+70348;"2014-07-27 20:30:00";3706;3706;"Maciej Myszkiewicz";"Maciej Myszkiewicz";Siedlce;Poland;52.1650000000;22.2713888889;0
+70349;"2014-07-27 20:15:00";5670;5670;"Yulia Yancheva";"Yulia Yancheva";"Beli Brezi";Bulgaria;41.5666666667;25.1500000000;1004
+70350;"2014-07-27 20:50:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70351;"2014-07-28 06:19:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70352;"2014-07-28 16:12:00";1617;1617;"John Drummond";"John Drummond";"John Drummond";"New Zealand";-38.6300000000;177.8833333330;15
+70353;"2014-07-24 05:30:00";8022;8022;"Pierre Martin";"Pierre Martin";"Casselman, Ontario";Canada;45.2688888889;-75.0630555556;100
+70354;"2014-07-29 02:32:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4011111111;-45.5316666667;837
+70355;"2014-07-28 20:53:00";6203;6203;"Alexsandr Morozov";"Alexsandr Morozov";Novozybkov;Russia;52.5508333333;31.9530555556;162
+70356;"2014-07-28 06:15:00";400;400;"William Godley";"William Godley";"Coweta, Ok";"United States";35.9477777778;-95.7125000000;0
+70357;"2014-07-29 06:10:00";400;400;"William Godley";"William Godley";"Coweta, Ok";"United States";35.9477777778;-95.7125000000;0
+70358;"2014-07-28 21:40:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70359;"2014-07-29 06:22:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70360;"2014-07-29 07:45:00";7315;7315;"Bruce McCurdy";"Bruce McCurdy";"Beaver Hills Dark Sky Preserve";Canada;53.5366666667;-112.7800000000;711
+70361;"2014-07-28 19:00:00";6610;6610;"Chengye Cao";"Chengye Cao";Dongping;China;21.7366666667;112.2277777780;20
+70362;"2014-07-30 01:15:00";1509;1509;"Jose Vicente Diaz Martinez";"Jose Vicente Diaz Martinez";Bugarra;Spain;39.6097222222;-0.7794444444;200
+70363;"2014-07-27 20:15:00";6611;6611;"Ilian Stefchov";"Ilian Stefchov";"Beli Brezi";Bulgaria;41.5666666667;25.1500000000;1004
+70364;"2014-07-28 21:09:00";6611;6611;"Ilian Stefchov";"Ilian Stefchov";"Beli Brezi";Bulgaria;41.5666666667;25.1500000000;1004
+70365;"2014-07-29 22:00:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70366;"2014-07-28 21:07:00";6467;6467;"Stefani Stefanova";"Stefani Stefanova";"Beli Brezi";Bulgaria;41.5166666667;25.5166666667;0
+70367;"2014-07-28 21:05:00";6069;6069;"Desislava Kalaidjieva";"Desislava Kalaidjieva";"Beli Brezi";Bulgaria;41.5166666667;25.5166666667;0
+70368;"2014-07-29 19:47:00";6203;6203;"Alexsandr Morozov";"Alexsandr Morozov";Novozybkov;Russia;52.5508333333;31.9530555556;162
+70369;"2014-07-30 06:22:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70370;"2014-07-29 07:50:00";254;254;"Pete Kozich";"Pete Kozich";"Eldon Hazlet State Park";"United States";38.6500000000;-89.3333333333;135
+70371;"2014-07-30 21:50:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70372;"2014-07-30 15:30:00";6612;6612;"Yurun Huang";"Yurun Huang";???;China;30.5180555556;119.6205555560;900
+70373;"2014-07-31 02:58:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4011111111;-45.5316666667;837
+70374;"2014-07-28 20:30:00";3706;3706;"Maciej Myszkiewicz";"Maciej Myszkiewicz";Siedlce;Poland;52.1650000000;22.2713888889;0
+70375;"2014-07-29 20:40:00";3706;3706;"Maciej Myszkiewicz";"Maciej Myszkiewicz";Siedlce;Poland;52.1650000000;22.2713888889;0
+70376;"2014-07-30 20:50:00";3706;3706;"Maciej Myszkiewicz";"Maciej Myszkiewicz";Siedlce;Poland;52.1650000000;22.2713888889;0
+70377;"2014-07-29 00:05:00";6480;6480;"Bratislav Filipovic";"Bratislav Filipovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70378;"2014-07-31 21:02:00";6203;6203;"Alexsandr Morozov";"Alexsandr Morozov";Novozybkov;Russia;52.5508333333;31.9530555556;162
+70379;"2014-07-28 20:10:00";6069;6069;"Desislava Kalaidjieva";"Desislava Kalaidjieva";"Beli Brezi";Bulgaria;41.5166666667;25.5166666667;0
+70380;"2014-07-31 21:15:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1583333333;11.3916666667;350
+70381;"2014-07-31 22:05:00";6653;6653;"Alexandros Daskalakis";"Alexandros Daskalakis";"Ano Glyfada, Athens";Greece;37.8919444444;23.7630555556;151
+70382;"2014-07-31 22:33:00";7229;7229;"Filipp Romanov";"Filipp Romanov";"Korolyov, Moscow Region";Russia;55.9127777778;37.8222222222;160
+70383;"2014-07-25 20:40:00";486;486;"Anna Levin";"Anna Levin";"Borot Lots";Israel;30.5280555556;34.6261111111;949
+70384;"2014-07-31 20:01:00";486;486;"Anna Levin";"Anna Levin";"Borot Lots";Israel;30.5280555556;34.6261111111;949
+70385;"2014-08-01 18:20:00";6453;6453;"Aleksei Makarow";"Aleksei Makarow";Tuapse;Russia;39.2833333333;44.2833333333;324
+70386;"2014-08-01 20:37:00";131;131;"Javor Kac";"Javor Kac";"Ribni\v{s}ka ko\v{c}a";Slovenia;46.4977777778;15.2555555556;1500
+70387;"2014-08-01 23:00:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70388;"2014-07-31 19:35:00";6069;6069;"Desislava Kalaidjieva";"Desislava Kalaidjieva";"Beli Brezi";Bulgaria;41.5166666667;25.5166666667;0
+70389;"2014-07-30 15:30:00";85;85;"Shigeo Uchiyama";"Shigeo Uchiyama";"Minamiaizu, Fukushima";Japan;37.2025000000;139.7480555560;560
+70390;"2014-07-31 19:35:00";6467;6467;"Stefani Stefanova";"Stefani Stefanova";"Beli Brezi";Bulgaria;41.5166666667;25.5166666667;0
+70392;"2014-08-02 20:56:00";3632;3632;"Konstantin Morozov";"Konstantin Morozov";Zaslavl;Belarus;54.0011111111;27.2611111111;235
+70393;"2014-08-02 22:15:00";6614;6614;"Jázmin Sikár";"Jázmin Sikár";Jászszentlászló;Hungary;46.5666666667;19.7833333333;100
+70394;"2014-08-02 22:15:00";6615;6615;"Dorina Bálind";"Dorina Bálind";Jászszentlászló;Hungary;46.5666666667;19.7833333333;100
+70395;"2014-08-02 22:15:00";6616;6616;"Martin Sallai";"Martin Sallai";Jászszentlászló;Hungary;46.5666666667;19.7833333333;100
+70396;"2014-07-26 20:46:00";6286;6286;"Kitti Szabó";"Kitti Szabó";Palé;Hungary;46.2272222222;18.0702777778;200
+70397;"2014-08-02 22:15:00";6617;6617;"Ádám Weinhardt - Kovács";"Ádám Weinhardt - Kovács";Jászszentlászló;Hungary;46.5666666667;19.7833333333;100
+70398;"2014-07-28 21:04:00";6286;6286;"Kitti Szabó";"Kitti Szabó";Palé;Hungary;46.2272222222;18.0702777778;200
+70399;"2014-08-02 22:15:00";6618;6618;"Máté Tóth";"Máté Tóth";Jászszentlászló;Hungary;46.5666666667;19.7833333333;100
+70400;"2014-07-27 20:10:00";6467;6467;"Stefani Stefanova";"Stefani Stefanova";"Beli Brezi";Bulgaria;41.5166666667;25.5166666667;0
+70401;"2014-08-02 20:45:00";3706;3706;"Maciej Myszkiewicz";"Maciej Myszkiewicz";Siedlce;Poland;52.1650000000;22.2713888889;0
+70402;"2014-08-02 22:15:00";7591;7591;"Maciej Kwinta";"Maciej Kwinta";Kudlacze;Poland;20.0216666667;49.7819444444;0
+70403;"2014-08-03 19:57:00";6203;6203;"Alexsandr Morozov";"Alexsandr Morozov";Novozybkov;Russia;52.5508333333;31.9530555556;162
+70405;"2014-08-03 00:20:00";6619;6619;"Jovana Jankov";"Jovana Jankov";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70406;"2014-08-03 21:30:00";6069;6069;"Desislava Kalaidjieva";"Desislava Kalaidjieva";"Beli Brezi";Bulgaria;41.5166666667;25.5166666667;0
+70407;"2014-07-29 21:43:00";6632;6632;"Nikola Vlajinic";"Nikola Vlajinic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70408;"2014-08-02 22:15:00";6632;6632;"Nikola Vlajinic";"Nikola Vlajinic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70409;"2014-08-02 22:15:00";6429;6429;"Vladimir Obradovic";"Vladimir Obradovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70411;"2014-08-02 22:15:00";6139;6139;"Snezana Todorovic";"Snezana Todorovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70412;"2014-08-02 23:20:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70413;"2014-08-03 22:40:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70414;"2014-08-02 08:22:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70415;"2014-07-29 05:45:00";8022;8022;"Pierre Martin";"Pierre Martin";"Bootland Farm";Canada;45.3833333333;-76.4833333333;0
+70416;"2014-08-01 04:05:00";8022;8022;"Pierre Martin";"Pierre Martin";"Casselman, Ontario";Canada;45.2688888889;-75.0630555556;100
+70417;"2014-07-30 21:10:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70418;"2014-08-02 22:08:00";6621;6621;"Juraj Kubica";"Juraj Kubica";Kykula;Slovakia;48.9236111111;17.8600000000;700
+70419;"2014-08-01 23:52:00";6622;6622;"Samuel Koys";"Samuel Koys";Kykula;Slovakia;48.9236111111;17.8600000000;700
+70420;"2014-08-04 23:50:00";6619;6619;"Jovana Jankov";"Jovana Jankov";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70421;"2014-08-04 23:36:00";3259;3259;"Boris Majic";"Boris Majic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70423;"2014-08-02 23:05:00";6621;6621;"Juraj Kubica";"Juraj Kubica";Kykula;Slovakia;48.9236111111;17.8600000000;700
+70424;"2014-08-02 23:05:00";6622;6622;"Samuel Koys";"Samuel Koys";Kykula;Slovakia;48.9236111111;17.8600000000;700
+70425;"2014-08-02 23:05:00";6624;6624;"Matej Zahornacky";"Matej Zahornacky";Kykula;Slovakia;48.9236111111;17.8600000000;700
+70426;"2014-08-02 23:05:00";5731;5731;"Igor Zahornacky";"Igor Zahornacky";Kykula;Slovakia;48.9236111111;17.8600000000;700
+70427;"2014-08-02 23:05:00";1610;1610;"Jozef Drga";"Jozef Drga";Kykula;Slovakia;48.9236111111;17.8600000000;700
+70428;"2014-08-04 23:10:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70429;"2014-08-05 21:10:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70430;"2014-07-28 23:57:00";7237;7237;"Branislav Savic";"Branislav Savic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70431;"2014-07-31 23:34:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70432;"2014-08-05 21:30:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70433;"2014-08-04 00:16:00";6209;6209;"Ljubica Grasic";"Ljubica Grasic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70434;"2014-07-29 23:47:00";7237;7237;"Branislav Savic";"Branislav Savic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70435;"2014-07-29 21:40:00";3315;3315;"Ivana Marjanovic";"Ivana Marjanovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70437;"2014-07-28 23:59:00";6429;6429;"Vladimir Obradovic";"Vladimir Obradovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70438;"2014-07-29 01:10:00";3315;3315;"Ivana Marjanovic";"Ivana Marjanovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70439;"2014-07-28 23:59:00";6209;6209;"Ljubica Grasic";"Ljubica Grasic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70440;"2014-07-28 23:57:00";570;570;"Dušan Pavlović";"Dušan Pavlović";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70441;"2014-07-29 21:40:00";6625;6625;"Ivan Stankovic";"Ivan Stankovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70442;"2014-07-29 21:30:00";6626;6626;"Miroslav Zivanovic";"Miroslav Zivanovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70443;"2014-08-02 22:15:00";6623;6623;"Ema Lupsic";"Ema Lupsic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70444;"2014-08-05 20:23:00";3632;3632;"Konstantin Morozov";"Konstantin Morozov";Kryzhovka;Belarus;53.9505555556;27.3236111111;210
+70445;"2014-08-02 22:15:00";6209;6209;"Ljubica Grasic";"Ljubica Grasic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70446;"2014-08-02 22:15:00";6627;6627;"Dusanka Kovacevic";"Dusanka Kovacevic";"Debelo Brdo - Valjevo";Serbia;44.1536111111;19.6869444444;1033
+70447;"2014-07-29 22:05:00";6627;6627;"Dusanka Kovacevic";"Dusanka Kovacevic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70448;"2014-08-02 22:40:00";6626;6626;"Miroslav Zivanovic";"Miroslav Zivanovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70449;"2014-08-06 08:07:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70450;"2014-07-27 21:00:00";22;22;"Ivanka Getsova-Momcheva";"Ivanka Getsova-Momcheva";"Avren Village";Bulgaria;43.1200000000;27.6705555556;298
+70451;"2014-08-06 23:35:00";7107;7107;"Zdenek Komarek";"Zdenek Komarek";"Vysoka nad Uhom";Slovakia;48.6288888889;22.0925000000;108
+70452;"2014-07-28 22:00:00";22;22;"Ivanka Getsova-Momcheva";"Ivanka Getsova-Momcheva";"Avren Village";Bulgaria;43.1200000000;27.6705555556;298
+70453;"2014-08-06 23:35:00";6216;6216;"Matej Schwartz";"Matej Schwartz";"Vysoka nad Uhom";Slovakia;48.6288888889;22.0925000000;108
+70454;"2014-08-06 23:35:00";6628;6628;"Radovan Donner";"Radovan Donner";"Vysoka nad Uhom";Slovakia;48.6288888889;22.0925000000;108
+70455;"2014-08-06 23:35:00";6629;6629;"Michal Romancak";"Michal Romancak";"Vysoka nad Uhom";Slovakia;48.6288888889;22.0925000000;108
+70456;"2014-07-29 21:35:00";22;22;"Ivanka Getsova-Momcheva";"Ivanka Getsova-Momcheva";"Avren Village";Bulgaria;43.1200000000;27.6705555556;298
+70457;"2014-07-30 18:50:00";22;22;"Ivanka Getsova-Momcheva";"Ivanka Getsova-Momcheva";"Avren Village";Bulgaria;43.1200000000;27.6705555556;298
+70458;"2014-07-31 19:20:00";22;22;"Ivanka Getsova-Momcheva";"Ivanka Getsova-Momcheva";"Avren Village";Bulgaria;43.1200000000;27.6705555556;298
+70459;"2014-08-02 22:15:00";3259;3259;"Boris Majic";"Boris Majic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70460;"2014-07-28 23:59:00";6625;6625;"Ivan Stankovic";"Ivan Stankovic";"Debelo Brdo Valjevo";Serbia;44.1608333333;19.6869444444;1033
+70461;"2014-08-04 23:40:00";6623;6623;"Ema Lupsic";"Ema Lupsic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70462;"2014-08-02 22:15:00";6619;6619;"Jovana Jankov";"Jovana Jankov";"Debelo Brdo Valjevo";Serbia;44.1591666667;19.6869444444;1033
+70463;"2014-08-04 00:15:00";6139;6139;"Snezana Todorovic";"Snezana Todorovic";"Debelo Brdo Valjevo";Serbia;44.1591666667;19.6869444444;1033
+70464;"2014-08-04 00:20:00";6619;6619;"Jovana Jankov";"Jovana Jankov";"Debelo Brdo Valjevo";Serbia;44.1591666667;19.6869444444;1033
+70465;"2014-08-02 22:15:00";6630;6630;"Ivan Stankvic";"Ivan Stankvic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70466;"2014-08-04 00:16:00";3259;3259;"Boris Majic";"Boris Majic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70467;"2014-08-04 00:20:00";6480;6480;"Bratislav Filipovic";"Bratislav Filipovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70468;"2014-08-04 00:20:00";6623;6623;"Ema Lupsic";"Ema Lupsic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70469;"2014-08-04 00:20:00";6625;6625;"Ivan Stankovic";"Ivan Stankovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70470;"2014-08-04 00:35:00";6626;6626;"Miroslav Zivanovic";"Miroslav Zivanovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70471;"2014-08-05 21:40:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1583333333;11.3916666667;350
+70472;"2014-08-04 23:36:00";6625;6625;"Ivan Stankovic";"Ivan Stankovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70473;"2014-08-04 23:35:00";6631;6631;"Aleksa Pantic";"Aleksa Pantic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70474;"2014-08-04 23:35:00";6632;6632;"Nikola Vlajinic";"Nikola Vlajinic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70475;"2014-08-03 22:18:00";81;81;"Mitja Govedič";"Mitja Govedič";"Sredi??e ob Dravi";Slovenia;46.4027777778;16.2666666667;200
+70476;"2014-08-04 23:40:00";6626;6626;"Miroslav Zivanovic";"Miroslav Zivanovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70477;"2014-08-04 23:35:00";6627;6627;"Dusanka Kovacevic";"Dusanka Kovacevic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70478;"2014-08-04 23:25:00";7237;7237;"Branislav Savic";"Branislav Savic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70479;"2014-08-02 13:05:00";6633;6633;"Daisuke Shimozuru";"Daisuke Shimozuru";"Ootaki Nagano";Japan;35.8561111111;137.5450000000;1433
+70480;"2014-08-05 00:40:00";6139;6139;"Snezana Todorovic";"Snezana Todorovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70481;"2014-08-04 23:40:00";6634;6634;"Oliver Toskovic";"Oliver Toskovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70482;"2014-08-02 14:05:00";6635;6635;"Hideaki Mizuno";"Hideaki Mizuno";"Ootaki Nagano";Japan;35.8561111111;137.5450000000;1433
+70483;"2014-08-04 00:15:00";7237;7237;"Branislav Savic";"Branislav Savic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70484;"2014-08-04 23:36:00";6209;6209;"Ljubica Grasic";"Ljubica Grasic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70485;"2014-08-02 22:15:00";6480;6480;"Bratislav Filipovic";"Bratislav Filipovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70486;"2014-08-07 21:41:00";6636;6636;"Lucas Vanony";"Lucas Vanony";PÉZENAS;France;43.4888888889;3.4072222222;70
+70487;"2014-08-07 00:25:00";5634;5634;"Oliver Wusk";"Oliver Wusk";"Frattoria La Loggia / Montefiridolfi";Italy;43.6183333333;11.2044444444;0
+70488;"2014-08-05 14:47:00";85;85;"Shigeo Uchiyama";"Shigeo Uchiyama";"Sakuragawa, Ibaraki";Japan;36.2305555556;140.1055555560;520
+70489;"2014-08-29 00:05:00";6480;6480;"Bratislav Filipovic";"Bratislav Filipovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70490;"2014-07-29 22:00:00";6480;6480;"Bratislav Filipovic";"Bratislav Filipovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70491;"2014-08-03 20:30:00";4651;4651;"Ivan M. Sergey";"Ivan M. Sergey";Molodechno;Belarus;54.2794444444;26.7436111111;230
+70492;"2014-08-08 00:35:00";6320;6320;"Klemen Cotar";"Klemen Cotar";Grmada;Slovenia;45.8130555556;14.6955555556;0
+70493;"2014-08-07 20:17:00";6203;6203;"Alexsandr Morozov";"Alexsandr Morozov";Novozybkov;Russia;52.5508333333;31.9530555556;162
+70494;"2014-08-06 22:30:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70495;"2014-08-07 01:00:00";81;81;"Mitja Govedič";"Mitja Govedič";"Sredi??e ob Dravi";Slovenia;46.4027777778;16.2666666667;200
+70496;"2014-08-07 21:40:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1583333333;11.3916666667;350
+70497;"2014-08-02 22:35:00";7237;7237;"Branislav Savic";"Branislav Savic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70498;"2014-08-07 08:38:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70499;"2014-08-08 08:52:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70500;"2014-08-08 22:35:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70501;"2014-08-08 22:15:00";7107;7107;"Zdenek Komarek";"Zdenek Komarek";"Vysoka nad Uhom";Slovakia;48.6288888889;22.0925000000;108
+70502;"2014-08-08 22:15:00";6216;6216;"Matej Schwartz";"Matej Schwartz";"Vysoka nad Uhom";Slovakia;48.6288888889;22.0925000000;108
+70503;"2014-08-08 22:15:00";6628;6628;"Radovan Donner";"Radovan Donner";"Vysoka nad Uhom";Slovakia;48.6288888889;22.0925000000;108
+70504;"2014-08-02 18:00:00";3368;3368;"Mikhail Maslov";"Mikhail Maslov";Alekseyevka;Russia;51.6061111111;83.3500000000;650
+70505;"2014-08-08 22:15:00";6629;6629;"Michal Romancak";"Michal Romancak";"Vysoka nad Uhom";Slovakia;48.6288888889;22.0925000000;108
+70506;"2014-08-03 18:15:00";3368;3368;"Mikhail Maslov";"Mikhail Maslov";Alekseyevka;Russia;51.6061111111;83.3500000000;650
+70507;"2014-08-04 18:00:00";3368;3368;"Mikhail Maslov";"Mikhail Maslov";Alekseyevka;Russia;51.6061111111;83.3500000000;650
+70508;"2014-08-08 18:40:00";3368;3368;"Mikhail Maslov";"Mikhail Maslov";Borovoe;Russia;54.6786111111;82.5691666667;0
+70509;"2014-07-02 22:20:00";49;49;"Roland Winkler";"Roland Winkler";Schkeuditz;Germany;51.4000000000;12.2166666667;111
+70510;"2014-07-03 22:35:00";49;49;"Roland Winkler";"Roland Winkler";Schkeuditz;Germany;51.4000000000;12.2166666667;111
+70511;"2014-08-02 21:25:00";131;131;"Javor Kac";"Javor Kac";"Ribni\v{s}ka ko\v{c}a";Slovenia;46.4977777778;15.2555555556;1500
+70512;"2014-08-08 00:08:00";131;131;"Javor Kac";"Javor Kac";Grmada;Slovenia;45.8127777778;14.6955555556;840
+70513;"2014-08-09 00:49:00";131;131;"Javor Kac";"Javor Kac";Besnica;Slovenia;46.0291666667;14.6544444444;625
+70514;"2014-08-09 08:55:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70515;"2014-08-08 23:00:00";6322;6322;"Marina Arnaut";"Marina Arnaut";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70516;"2014-08-08 23:00:00";6139;6139;"Snezana Todorovic";"Snezana Todorovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70517;"2014-08-08 23:00:00";7237;7237;"Branislav Savic";"Branislav Savic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70518;"2014-08-08 22:40:00";6623;6623;"Ema Lupsic";"Ema Lupsic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70519;"2014-08-08 22:55:00";6625;6625;"Ivan Stankovic";"Ivan Stankovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70520;"2014-08-08 23:05:00";6626;6626;"Miroslav Zivanovic";"Miroslav Zivanovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70521;"2014-08-08 22:50:00";7288;7288;"Debora Pavela";"Debora Pavela";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70522;"2014-08-08 22:55:00";6242;6242;"Milos Igrutinovic";"Milos Igrutinovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70523;"2014-08-08 23:30:00";6638;6638;"Jovana Lazarevic";"Jovana Lazarevic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70524;"2014-08-08 22:30:00";7754;7754;"Dunja Pavlović";"Dunja Pavlović";"Debelo Brdo - Valjevo";Serbia;44.1583333333;19.6916666667;1033
+70525;"2014-08-08 22:50:00";6632;6632;"Nikola Vlajinic";"Nikola Vlajinic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70526;"2014-08-02 21:55:00";2127;2127;"Pavol Habuda";"Pavol Habuda";Vrchtepla;Slovakia;49.1308333333;18.5613888889;610
+70527;"2014-08-02 21:55:00";6500;6500;"Radim Volek";"Radim Volek";Vrchtepla;Slovakia;49.1308333333;18.5613888889;610
+70528;"2014-08-02 21:55:00";6294;6294;"Martin Dana";"Martin Dana";Vrchtepla;Slovakia;49.1308333333;18.5613888889;610
+70529;"2014-08-02 21:55:00";6640;6640;"Daniel Marek";"Daniel Marek";Vrchtepla;Slovakia;49.1308333333;18.5613888889;610
+70530;"2014-08-02 21:55:00";6760;6760;"Jaroslav Drgona";"Jaroslav Drgona";Vrchtepla;Slovakia;49.1308333333;18.5613888889;610
+70531;"2014-08-02 21:55:00";6452;6452;"Martina Birosikova";"Martina Birosikova";Vrchtepla;Slovakia;49.1308333333;18.5613888889;610
+70532;"2014-08-02 21:55:00";3027;3027;"Martin Labudik";"Martin Labudik";Vrchtepla;Slovakia;49.1308333333;18.5613888889;610
+70533;"2014-08-02 21:55:00";6642;6642;"Nikoleta Martináková";"Nikoleta Martináková";Vrchtepla;Slovakia;49.1308333333;18.5613888889;610
+70534;"2014-08-09 20:45:00";7107;7107;"Zdenek Komarek";"Zdenek Komarek";"Vysoka nad Uhom";Slovakia;48.6288888889;22.0925000000;108
+70535;"2014-08-05 22:34:00";2127;2127;"Pavol Habuda";"Pavol Habuda";Vrchtepla;Slovakia;49.1308333333;18.5613888889;610
+70536;"2014-08-09 20:45:00";6216;6216;"Matej Schwartz";"Matej Schwartz";"Vysoka nad Uhom";Slovakia;48.6288888889;22.0925000000;108
+70537;"2014-08-09 20:45:00";6628;6628;"Radovan Donner";"Radovan Donner";"Vysoka nad Uhom";Slovakia;48.6288888889;22.0925000000;108
+70538;"2014-08-05 22:34:00";6294;6294;"Martin Dana";"Martin Dana";Vrchtepla;Slovakia;49.1308333333;18.5613888889;610
+70539;"2014-08-05 22:34:00";6763;6763;"Marian Recicar";"Marian Recicar";Vrchtepla;Slovakia;49.1308333333;18.5613888889;610
+70540;"2014-08-06 23:35:00";6452;6452;"Martina Birosikova";"Martina Birosikova";Vrchtepla;Slovakia;49.1308333333;18.5613888889;610
+70541;"2014-08-06 23:35:00";6500;6500;"Radim Volek";"Radim Volek";Vrchtepla;Slovakia;49.1308333333;18.5613888889;610
+70542;"2014-08-06 23:35:00";6294;6294;"Martin Dana";"Martin Dana";Vrchtepla;Slovakia;49.1308333333;18.5613888889;610
+70543;"2014-08-06 23:35:00";3027;3027;"Martin Labudik";"Martin Labudik";Vrchtepla;Slovakia;49.1308333333;18.5613888889;610
+70544;"2014-08-06 23:35:00";6760;6760;"Jaroslav Drgona";"Jaroslav Drgona";Vrchtepla;Slovakia;49.1308333333;18.5613888889;610
+70545;"2014-08-07 01:00:00";1187;1187;"Jakub Cerny";"Jakub Cerny";Vrchtepla;Slovakia;49.1308333333;18.5613888889;610
+70547;"2014-08-09 21:40:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1583333333;11.3916666667;350
+70548;"2014-08-10 07:47:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70549;"2014-07-22 22:35:00";210;210;"Ina Rendtel";"Ina Rendtel";"Närsholm, Gotland";Sweden;57.2180555556;18.6861111111;2
+70550;"2014-07-25 22:30:00";210;210;"Ina Rendtel";"Ina Rendtel";"Furillen-Halbinsel, Gotland";Sweden;57.7413888889;19.0108333333;1
+70551;"2014-07-26 22:30:00";210;210;"Ina Rendtel";"Ina Rendtel";"Ekevik harbour, Farö, Gotland";Sweden;57.9747222222;19.2663888889;1
+70552;"2014-07-28 22:35:00";210;210;"Ina Rendtel";"Ina Rendtel";"Nyhamn, Gotland";Sweden;57.7611111111;18.4133333333;3
+70553;"2014-08-10 21:00:00";7107;7107;"Zdenek Komarek";"Zdenek Komarek";"Vysoka nad Uhom";Slovakia;48.6288888889;22.0925000000;108
+70554;"2014-08-10 21:00:00";6216;6216;"Matej Schwartz";"Matej Schwartz";"Vysoka nad Uhom";Slovakia;48.6288888889;22.0925000000;108
+70555;"2014-08-10 21:00:00";6628;6628;"Radovan Donner";"Radovan Donner";"Vysoka nad Uhom";Slovakia;48.6288888889;22.0925000000;108
+70556;"2014-08-10 21:00:00";6629;6629;"Michal Romancak";"Michal Romancak";"Vysoka nad Uhom";Slovakia;48.6288888889;22.0925000000;108
+70557;"2014-08-01 21:11:00";348;348;"Tibor Csorgei";"Tibor Csorgei";Blahova;Slovakia;48.0850000000;17.5466666667;118
+70558;"2014-08-02 21:42:00";348;348;"Tibor Csorgei";"Tibor Csorgei";Blahova;Slovakia;48.0850000000;17.5466666667;118
+70559;"2014-08-02 22:30:00";7997;7997;"Caslav Lukic";"Caslav Lukic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70560;"2014-08-04 23:36:00";7997;7997;"Caslav Lukic";"Caslav Lukic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70561;"2014-08-10 22:55:00";7288;7288;"Debora Pavela";"Debora Pavela";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70562;"2014-07-29 22:35:00";210;210;"Ina Rendtel";"Ina Rendtel";"Norra Gattet, Gotland";Sweden;57.9061111111;19.0236111111;1
+70563;"2014-08-10 22:55:00";7754;7754;"Dunja Pavlović";"Dunja Pavlović";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70564;"2014-07-31 22:25:00";210;210;"Ina Rendtel";"Ina Rendtel";"Gnisvärd, Gotland";Sweden;57.5222222222;18.1088888889;2
+70565;"2014-08-10 23:05:00";6632;6632;"Nikola Vlajinic";"Nikola Vlajinic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70566;"2014-08-10 23:05:00";6480;6480;"Bratislav Filipovic";"Bratislav Filipovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70567;"2014-08-10 22:30:00";7229;7229;"Filipp Romanov";"Filipp Romanov";"Korolyov, Moscow Region";Russia;55.9133333333;37.8225000000;160
+70568;"2014-08-10 23:00:00";6139;6139;"Snezana Todorovic";"Snezana Todorovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70569;"2014-08-10 23:15:00";6619;6619;"Jovana Jankov";"Jovana Jankov";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70570;"2014-08-10 23:05:00";7237;7237;"Branislav Savic";"Branislav Savic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70571;"2014-08-10 23:20:00";6626;6626;"Miroslav Zivanovic";"Miroslav Zivanovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70572;"2014-08-09 23:20:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70573;"2014-08-11 00:25:00";6242;6242;"Milos Igrutinovic";"Milos Igrutinovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70574;"2014-08-01 22:10:00";210;210;"Ina Rendtel";"Ina Rendtel";"Sysne, Gotland";Sweden;57.3875000000;18.8755555556;5
+70575;"2014-08-03 21:35:00";210;210;"Ina Rendtel";"Ina Rendtel";"Hoburgen, Gotland";Sweden;56.9311111111;18.1380555556;1
+70576;"2014-08-11 19:51:00";3632;3632;"Konstantin Morozov";"Konstantin Morozov";Kryzhovka;Belarus;53.9505555556;27.3236111111;210
+70577;"2014-08-10 22:17:00";6645;6645;"Yordan Radev";"Yordan Radev";Silistra;Bulgaria;44.1100000000;27.1033333333;23
+70578;"2014-08-11 23:38:00";3356;3356;"Tony Markham";"Tony Markham";Leek;"United Kingdom";53.1166666667;2.0666666667;200
+70579;"2014-08-04 23:55:00";3356;3356;"Tony Markham";"Tony Markham";Leek;"United Kingdom";53.1083333333;-2.0666666667;200
+70580;"2014-08-12 09:50:00";3152;3152;"Mike Linnolt";"Mike Linnolt";"Volcano, Hawaii";"United States";19.4250000000;-155.2083333330;1000
+70581;"2014-08-11 21:45:00";2084;2084;"Matthias Growe";"Matthias Growe";Schwarzenbek;Germany;53.5000000000;10.4833333333;0
+70582;"2014-08-05 23:25:00";7205;7205;"Pierre Bader";"Pierre Bader";Viernau;Germany;50.6666666667;10.5500000000;500
+70583;"2014-08-08 00:00:00";7205;7205;"Pierre Bader";"Pierre Bader";Viernau;Germany;50.6666666667;10.5500000000;500
+70584;"2014-07-24 00:25:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;300
+70585;"2014-08-12 00:00:00";7229;7229;"Filipp Romanov";"Filipp Romanov";"Korolyov, Moscow Region";Russia;55.9133333333;37.8225000000;160
+70586;"2014-08-11 21:45:00";486;486;"Anna Levin";"Anna Levin";"Beer Menuha";Israel;30.3083333333;35.1352777778;183
+70587;"2014-08-12 00:30:00";7994;7994;"Shlomi Eini";"Shlomi Eini";"Beer Menuha";Israel;30.3083333333;35.1352777778;183
+70588;"2014-08-11 22:05:00";7836;7836;"Ella Ratz";"Ella Ratz";"Beer Menuha";Israel;30.3083333333;35.1352777778;183
+70589;"2014-08-11 21:35:00";7842;7842;"Tamara Tchenak";"Tamara Tchenak";"Beer Menuha";Israel;30.3083333333;35.1352777778;183
+70590;"2014-08-11 21:55:00";6256;6256;"Ilan Tchenak";"Ilan Tchenak";"Beer Menuha";Israel;30.3083333333;35.1352777778;183
+70591;"2014-08-02 22:08:00";6622;6622;"Samuel Koys";"Samuel Koys";Kykula;Slovakia;48.9236111111;17.8600000000;700
+70592;"2014-08-02 22:08:00";5731;5731;"Igor Zahornacky";"Igor Zahornacky";Kykula;Slovakia;48.9236111111;17.8600000000;700
+70593;"2014-08-02 22:08:00";4969;4969;"Matej Sustr";"Matej Sustr";Kykula;Slovakia;48.9236111111;17.8600000000;700
+70594;"2014-08-11 23:45:00";1693;1693;"Frank Enzlein";"Frank Enzlein";Tiefensee;Germany;52.6666666667;13.8500000000;0
+70595;"2014-08-11 22:57:00";467;467;"Roman Kovalyk";"Roman Kovalyk";"Torre Annunziata";Italy;40.7500000000;14.4441666667;1
+70596;"2014-08-11 21:50:00";6139;6139;"Snezana Todorovic";"Snezana Todorovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70597;"2014-08-11 21:30:00";7754;7754;"Dunja Pavlović";"Dunja Pavlović";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70598;"2014-08-11 22:00:00";7237;7237;"Branislav Savic";"Branislav Savic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70599;"2014-08-11 21:50:00";6626;6626;"Miroslav Zivanovic";"Miroslav Zivanovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70600;"2014-08-12 21:43:00";6646;6646;"Nicolas Senechal";"Nicolas Senechal";Saint-Amand-les-Eaux;France;50.4330555556;3.4330555556;31
+70601;"2014-08-12 07:50:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70602;"2014-08-12 15:58:00";6647;6647;"Liyaun Lu";"Liyaun Lu";"Jiangyan Cun,Dunhua,Jilin";China;43.7500000000;128.3833333330;756
+70603;"2014-08-12 21:10:00";6638;6638;"Jovana Lazarevic";"Jovana Lazarevic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70604;"2014-08-11 21:20:00";7288;7288;"Debora Pavela";"Debora Pavela";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70606;"2014-08-11 21:20:00";6638;6638;"Jovana Lazarevic";"Jovana Lazarevic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70607;"2014-08-12 20:05:00";6456;6456;"Dmitry Gavriljuk";"Dmitry Gavriljuk";Vologda;Russia;59.1933333333;39.8797222222;127
+70608;"2014-08-12 00:00:00";6623;6623;"Ema Lupsic";"Ema Lupsic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70609;"2014-08-11 21:20:00";6625;6625;"Ivan Stankovic";"Ivan Stankovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70610;"2014-08-11 23:57:00";6619;6619;"Jovana Jankov";"Jovana Jankov";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70611;"2014-08-11 21:25:00";6632;6632;"Nikola Vlajinic";"Nikola Vlajinic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70612;"2014-08-11 22:00:00";6631;6631;"Aleksa Pantic";"Aleksa Pantic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70613;"2014-08-11 22:30:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";Roma;Italy;41.8791666667;12.4522222222;77
+70614;"2014-08-12 22:23:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";"Lanciano, Santa Croce";Italy;42.2361111111;14.4022222222;270
+70615;"2014-08-12 17:42:00";6613;6613;"Alireza Mohammadi";"Alireza Mohammadi";"soltan velayat";Iran;29.8616666667;53.0175000000;0
+70616;"2014-08-12 20:25:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;300
+70617;"2014-08-12 20:45:00";5634;5634;"Oliver Wusk";"Oliver Wusk";Berlin-Lankwitz;Germany;52.4333333333;13.3500000000;0
+70618;"2014-08-12 20:00:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70619;"2014-08-12 20:58:00";131;131;"Javor Kac";"Javor Kac";Abitanti;Slovenia;45.4394444444;13.8244444444;460
+70620;"2014-08-09 20:35:00";3706;3706;"Maciej Myszkiewicz";"Maciej Myszkiewicz";Siedlce;Poland;52.1650000000;22.2713888889;0
+70621;"2014-08-12 19:25:00";3706;3706;"Maciej Myszkiewicz";"Maciej Myszkiewicz";Siedlce;Poland;52.1650000000;22.2713888889;0
+70622;"2014-08-13 00:05:00";6553;6553;"Milen Minev";"Milen Minev";Oryahovitsa;Bulgaria;42.4927777778;25.8113888889;251
+70623;"2014-08-12 22:50:00";1693;1693;"Frank Enzlein";"Frank Enzlein";Tiefensee;Germany;52.6666666667;13.8500000000;0
+70624;"2014-08-13 03:00:00";6648;6648;"Jerry Zhu";"Jerry Zhu";"Madison, Wisconsin";"United States";43.1166666667;-89.5833333333;267
+70625;"2014-08-12 21:35:00";526;526;"Richard Fleet";"Richard Fleet";Wilcot;"United Kingdom";51.3333333333;-1.8000000000;130
+70626;"2014-08-12 23:48:00";7237;7237;"Branislav Savic";"Branislav Savic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70627;"2014-08-13 00:10:00";6139;6139;"Snezana Todorovic";"Snezana Todorovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70628;"2014-08-13 05:55:00";400;400;"William Godley";"William Godley";"Coweta, Ok";"United States";35.9477777778;-95.7125000000;0
+70629;"2014-08-12 21:25:00";6625;6625;"Ivan Stankovic";"Ivan Stankovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70630;"2014-08-12 20:50:00";486;486;"Anna Levin";"Anna Levin";"Beer Menuha";Israel;30.3083333333;35.1352777778;183
+70631;"2014-08-12 21:05:00";6256;6256;"Ilan Tchenak";"Ilan Tchenak";"Beer Menuha";Israel;30.3083333333;35.1352777778;183
+70632;"2014-08-12 19:35:00";6649;6649;"Reza Ensandoost";"Reza Ensandoost";KHoroosgeloo;Iran;31.6336111111;51.7127777778;2451
+70633;"2014-08-12 21:00:00";7836;7836;"Ella Ratz";"Ella Ratz";"Beer Menuha";Israel;30.3083333333;35.1352777778;183
+70634;"2014-08-12 20:50:00";7842;7842;"Tamara Tchenak";"Tamara Tchenak";"Beer Menuha";Israel;30.3083333333;35.1352777778;183
+70635;"2014-08-12 21:26:00";467;467;"Roman Kovalyk";"Roman Kovalyk";"Torre Annunziata";Italy;40.7500000000;14.4477777778;1
+70636;"2014-08-12 21:30:00";6626;6626;"Miroslav Zivanovic";"Miroslav Zivanovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70637;"2014-08-12 20:28:00";6650;6650;"Nadia Dimitrova";"Nadia Dimitrova";Oryahovitsa;Bulgaria;25.8127777778;42.4908333333;190
+70638;"2014-08-12 21:30:00";6651;6651;"Odalric Maillard";"Odalric Maillard";"Beer Menuha";Israel;30.3083333333;35.1352777778;183
+70639;"2014-08-12 20:50:00";6652;6652;"Hadas Shoham";"Hadas Shoham";"Beer Menuha";Israel;30.3083333333;35.1352777778;183
+70640;"2014-08-12 21:20:00";6632;6632;"Nikola Vlajinic";"Nikola Vlajinic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70641;"2014-08-12 22:43:00";6650;6650;"Nadia Dimitrova";"Nadia Dimitrova";Oryahovitsa;Bulgaria;25.8127777778;42.4905555556;189
+70642;"2014-08-12 22:05:00";7994;7994;"Shlomi Eini";"Shlomi Eini";"Beer Menuha";Israel;30.3083333333;35.1352777778;183
+70643;"2014-08-12 21:20:00";7754;7754;"Dunja Pavlović";"Dunja Pavlović";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70644;"2014-08-12 21:20:00";6619;6619;"Jovana Jankov";"Jovana Jankov";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70645;"2014-08-12 21:15:00";1549;1549;"Milos Djordjevic";"Milos Djordjevic";"Debelo Brdo";Serbia;44.1583333333;19.6919444444;1033
+70646;"2014-08-12 21:20:00";6623;6623;"Ema Lupsic";"Ema Lupsic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70647;"2014-08-11 21:20:00";91;91;"Masayuki Toda";"Masayuki Toda";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70648;"2014-08-12 21:45:00";6322;6322;"Marina Arnaut";"Marina Arnaut";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70649;"2014-08-11 23:35:00";6480;6480;"Bratislav Filipovic";"Bratislav Filipovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70650;"2014-08-09 23:05:00";6322;6322;"Marina Arnaut";"Marina Arnaut";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70651;"2014-08-12 23:28:00";7229;7229;"Filipp Romanov";"Filipp Romanov";"Korolyov, Moscow Region";Russia;55.9127777778;37.8230555556;160
+70652;"2014-08-12 21:55:00";6653;6653;"Alexandros Daskalakis";"Alexandros Daskalakis";Glyfada;Greece;37.8941666667;23.7627777778;0
+70653;"2014-08-06 08:00:00";7315;7315;"Bruce McCurdy";"Bruce McCurdy";"Beaver Hills Dark Sky Preserve";Canada;53.5366666667;-112.7800000000;711
+70654;"2014-08-13 21:09:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";"Lanciano, Antoniano";Italy;42.2361111111;14.4105555556;60
+70655;"2014-08-13 22:51:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";"Lanciano, Santa Croce";Italy;42.2361111111;14.4022222222;270
+70656;"2014-08-13 07:29:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70657;"2014-08-12 07:55:00";7315;7315;"Bruce McCurdy";"Bruce McCurdy";"Valour Avenue";Canada;53.6577777778;-113.5494444440;700
+70658;"2014-08-13 20:15:00";6654;6654;"Mathieu Blanc";"Mathieu Blanc";CODOGNAN;France;43.7166666667;4.2166666667;19
+70659;"2014-08-08 22:25:00";7591;7591;"Maciej Kwinta";"Maciej Kwinta";Cracow;Poland;19.9419444444;50.0213888889;0
+70660;"2014-08-12 21:35:00";7591;7591;"Maciej Kwinta";"Maciej Kwinta";Cracow;Poland;19.9419444444;50.0213888889;0
+70661;"2014-08-10 20:35:00";3706;3706;"Maciej Myszkiewicz";"Maciej Myszkiewicz";Siedlce;Poland;52.1650000000;22.2713888889;0
+70662;"2014-08-13 22:10:00";8333;8333;"Rafael Neumann";"Rafael Neumann";Warwersand;Germany;52.9461111111;8.7386111111;24
+70663;"2014-07-18 21:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4561111111;12.9711111111;33
+70664;"2014-07-19 21:18:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4561111111;12.9711111111;33
+70665;"2014-07-22 22:40:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4561111111;12.9711111111;33
+70666;"2014-07-31 23:18:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4561111111;12.9711111111;33
+70667;"2014-08-07 23:55:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Luetkenwisch;Germany;53.0377777778;11.5877777778;30
+70668;"2014-08-10 00:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Ruehstaedt;Germany;52.9194444444;11.8713888889;35
+70669;"2014-08-12 20:15:00";4744;4744;"Urmas Sisask";"Urmas Sisask";Tallinn;Estonia;59.4336111111;24.7786111111;18
+70670;"2014-08-11 20:12:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Arneburg;Germany;52.6755555556;12.0091666667;45
+70671;"2014-08-12 19:55:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Jerichow;Germany;52.4911111111;12.0288888889;35
+70672;"2014-08-14 07:25:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70673;"2014-08-12 21:10:00";3259;3259;"Boris Majic";"Boris Majic";"Debelo Brdo - Valjevo";Serbia;44.1583333333;19.7369444444;1033
+70674;"2014-07-29 21:19:00";6655;6655;"Agnieszka Szkup";"Agnieszka Szkup";Siedlce;Poland;52.1650000000;22.2725000000;150
+70675;"2014-08-12 19:28:00";6655;6655;"Agnieszka Szkup";"Agnieszka Szkup";Siedlce;Poland;52.1650000000;22.2725000000;150
+70676;"2014-08-14 05:15:00";400;400;"William Godley";"William Godley";"Coweta, Ok";"United States";35.9477777778;-95.7125000000;0
+70677;"2014-08-14 21:20:00";6320;6320;"Klemen Cotar";"Klemen Cotar";Slavnik;Slovenia;45.5519444444;13.9613888889;900
+70678;"2014-08-14 21:05:00";131;131;"Javor Kac";"Javor Kac";Slavnik;Slovenia;45.5480555556;13.9605555556;835
+70679;"2014-08-14 18:55:00";5876;5876;"Siavash - Amir Karimi - Tavakoli";"Siavash - Amir Karimi - Tavakoli";"Ghar village";Iran;36.2461111111;58.8852777778;1330
+70680;"2014-08-14 18:55:00";6656;6656;"Iman Khomarian";"Iman Khomarian";"Ghar village";Iran;36.2461111111;58.8852777778;1330
+70681;"2014-08-14 18:55:00";6657;6657;"Nahid Mousavi";"Nahid Mousavi";"Ghar village";Iran;36.2461111111;58.8852777778;1330
+70682;"2014-08-14 18:55:00";6658;6658;"Majid Mousavi";"Majid Mousavi";"Ghar village";Iran;36.2461111111;58.8852777778;1330
+70683;"2014-08-13 20:50:00";7220;7220;"Frederic Merlin";"Frederic Merlin";"Le Perray En Yvelines";France;48.6961111111;1.8477777778;178
+70684;"2014-08-11 19:41:00";6659;6659;"Vadim Gorilchik";"Vadim Gorilchik";Minsk;Belarus;27.5888888889;53.8886111111;211
+70685;"2014-08-13 11:15:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Bristlecone Pine forest";"United States";37.3566666667;-118.1863888890;2440
+70686;"2014-08-14 04:30:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Towne Pass, Death Valley";"United States";36.4230555556;-117.2652777780;1300
+70687;"2014-08-14 11:20:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Towne Pass, Death Valley";"United States";36.4230555556;-117.2652777780;1300
+70688;"2014-08-14 21:15:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1583333333;11.3916666667;350
+70689;"2014-08-13 18:50:00";3224;3224;"Qiang Ma";"Qiang Ma";Hejinli,Hedong,Tianjin;China;39.1075000000;117.2447222220;4
+70690;"2014-08-15 07:26:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70691;"2014-08-15 03:50:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Mt Charleston, Las Vegas";"United States";36.3797222222;-115.2611111110;1900
+70692;"2014-08-15 11:20:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Mt Charleston, Las Vegas";"United States";36.3797222222;-115.2611111110;1900
+70693;"2014-08-06 05:30:00";8022;8022;"Pierre Martin";"Pierre Martin";"Bootland Farm";Canada;45.3833333333;-76.4833333333;0
+70694;"2014-08-15 19:29:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";"Lanciano, Santa Croce";Italy;42.2361111111;14.4022222222;270
+70695;"2014-08-13 19:25:00";7754;7754;"Dunja Pavlović";"Dunja Pavlović";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70696;"2014-08-13 19:30:00";6623;6623;"Ema Lupsic";"Ema Lupsic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70697;"2014-08-13 19:30:00";6632;6632;"Nikola Vlajinic";"Nikola Vlajinic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70698;"2014-08-13 19:30:00";6638;6638;"Jovana Lazarevic";"Jovana Lazarevic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70699;"2014-08-13 19:30:00";6619;6619;"Jovana Jankov";"Jovana Jankov";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70700;"2014-08-13 19:30:00";3259;3259;"Boris Majic";"Boris Majic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70701;"2014-08-11 19:37:00";6660;6660;"Alexandr Mikulich";"Alexandr Mikulich";Minsk;Belarus;27.5888888889;53.8886111111;211
+70702;"2014-07-25 07:45:00";504;504;"Paul Zeller";"Paul Zeller";"7426 Gordon Way Indianapolis IN";"United States";39.6597222222;-86.0502777778;255
+70703;"2014-08-03 05:00:00";504;504;"Paul Zeller";"Paul Zeller";"7426 Gordon Way Indianapolis IN";"United States";39.6597222222;-86.0502777778;255
+70704;"2014-08-13 19:25:00";6625;6625;"Ivan Stankovic";"Ivan Stankovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70705;"2014-08-13 19:30:00";6626;6626;"Miroslav Zivanovic";"Miroslav Zivanovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70706;"2014-08-11 22:10:00";6242;6242;"Milos Igrutinovic";"Milos Igrutinovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+70707;"2014-07-27 19:40:00";6661;6661;"Irina Kurteva";"Irina Kurteva";"Beli Brezi";Bulgaria;41.5666666667;25.1500000000;1004
+70708;"2014-07-28 20:55:00";6661;6661;"Irina Kurteva";"Irina Kurteva";"Beli Brezi";Bulgaria;41.5666666667;25.1500000000;1004
+70709;"2014-07-31 19:35:00";6661;6661;"Irina Kurteva";"Irina Kurteva";"Beli Brezi";Bulgaria;41.5666666667;25.1500000000;1004
+70710;"2014-08-16 23:35:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70711;"2014-08-17 19:33:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";"Lanciano, Santa Croce";Italy;42.2361111111;14.4022222222;270
+70712;"2014-08-17 07:27:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70713;"2014-08-17 19:50:00";99;99;"Audrius Dubietis";"Audrius Dubietis";Salakas;Lithuania;55.5833333333;26.1500000000;0
+70714;"2014-08-17 19:25:00";6203;6203;"Alexsandr Morozov";"Alexsandr Morozov";Novozybkov;Russia;52.5508333333;31.9530555556;162
+70715;"2014-08-01 20:55:00";5374;5374;"Anatoliy Vasylenko";"Anatoliy Vasylenko";Borkivskiy;Ukraine;50.7980555556;26.4066666667;0
+70716;"2014-08-02 20:23:00";5374;5374;"Anatoliy Vasylenko";"Anatoliy Vasylenko";Borkivskiy;Ukraine;50.7980555556;26.4066666667;0
+70717;"2014-08-17 19:44:00";5374;5374;"Anatoliy Vasylenko";"Anatoliy Vasylenko";Borkivskiy;Ukraine;50.7980555556;26.4066666667;0
+70718;"2014-08-17 21:40:00";6320;6320;"Klemen Cotar";"Klemen Cotar";Kranj;Slovenia;46.1958333333;14.3625000000;400
+70719;"2014-08-18 23:23:00";6278;6278;"Csilla Kalup";"Csilla Kalup";Sülysáp;Hungary;47.4422222222;19.5383333333;200
+70720;"2014-07-24 21:53:00";6278;6278;"Csilla Kalup";"Csilla Kalup";Palé;Hungary;46.2605555556;18.0702777778;0
+70721;"2014-08-18 21:35:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4561111111;12.9711111111;33
+70722;"2014-08-12 20:20:00";6662;6662;"Alireza Rahimi";"Alireza Rahimi";zarqan;Iran;29.7666666667;52.7094444444;1606
+70723;"2014-08-17 20:57:00";131;131;"Javor Kac";"Javor Kac";"Jan\v{c}e";Slovenia;46.0527777778;14.7130555556;780
+70724;"2014-08-18 20:36:00";131;131;"Javor Kac";"Javor Kac";"Jan\v{c}e";Slovenia;46.0527777778;14.7130555556;780
+70725;"2014-08-19 19:39:00";99;99;"Audrius Dubietis";"Audrius Dubietis";Salakas;Lithuania;55.5833333333;26.1500000000;0
+70726;"2014-08-19 04:15:00";190;190;"William Watson";"William Watson";"Beaver Meadows Observatory";"United States";42.6730555556;-78.3847222222;500
+70728;"2014-07-31 18:43:00";5760;5760;"Weizhou Zeng";"Weizhou Zeng";"Longsheng County,Guilin City,Guangxi Chuang Municipality";China;25.8005555556;110.0111111110;260
+70729;"2014-08-19 23:55:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4561111111;12.9711111111;33
+70730;"2014-08-12 21:40:00";7207;7207;"Kai Schultze";"Kai Schultze";Berlin;Germany;52.4572222222;13.3750000000;49
+70731;"2014-08-20 18:26:00";6278;6278;"Csilla Kalup";"Csilla Kalup";Sülysáp;Hungary;47.4422222222;19.5383333333;200
+70732;"2014-08-21 20:44:00";5634;5634;"Oliver Wusk";"Oliver Wusk";Berlin-Lankwitz;Germany;52.4333333333;13.3500000000;0
+70733;"2014-08-22 00:35:00";6663;6663;"Kalup Csilla";"Kalup Csilla";Sülysáp;Hungary;47.4422222222;19.5383333333;200
+70734;"2014-08-22 15:06:00";8294;8294;"Seokhee Cho";"Seokhee Cho";"Sinji-do Wando-dun Jeollanam-do";"South Korea";34.3366666667;126.8283333330;38
+70735;"2014-08-13 18:43:00";3368;3368;"Mikhail Maslov";"Mikhail Maslov";Borovoe;Russia;54.6786111111;82.5691666667;0
+70736;"2014-08-18 16:05:00";3368;3368;"Mikhail Maslov";"Mikhail Maslov";Borovoe;Russia;54.6786111111;82.5691666667;0
+70737;"2014-08-13 00:00:00";6000;6000;"Adam Ioan";"Adam Ioan";"ADAM IOAN";Romania;46.6383333333;27.7291666667;172
+70738;"2014-08-22 16:42:00";3368;3368;"Mikhail Maslov";"Mikhail Maslov";Alekseyevka;Russia;51.6061111111;83.3500000000;650
+70739;"2014-08-23 16:27:00";3368;3368;"Mikhail Maslov";"Mikhail Maslov";Alekseyevka;Russia;51.6061111111;83.3500000000;650
+70740;"2014-08-17 20:50:00";6664;6664;"Coliac Jean-françois";"Coliac Jean-françois";"La Montagne (Crots)";France;44.5000000000;6.5000000000;1200
+70741;"2014-08-12 18:40:00";4235;4235;"Sasha Prokofyev";"Sasha Prokofyev";"Kite surfing club, Larnaca";Cyprus;34.8175000000;33.5483333333;0
+70742;"2014-08-12 18:40:00";6665;6665;"Iris Charalambidou";"Iris Charalambidou";"Kite surfing club, Larnaca";Cyprus;34.8175000000;33.5483333333;0
+70743;"2014-08-12 18:40:00";6666;6666;"Antigoni Kargas";"Antigoni Kargas";"Kite surfing club, Larnaca";Cyprus;34.8175000000;33.5483333333;0
+70744;"2014-08-24 20:43:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70745;"2014-08-20 21:30:00";6664;6664;"Coliac Jean-françois";"Coliac Jean-françois";"La Montagne (Crots)";France;44.5000000000;6.5000000000;1200
+70746;"2014-08-12 20:24:00";7374;7374;"George Troullias";"George Troullias";"Kite surfing club, Larnaca";Cyprus;34.8175000000;33.5483333333;0
+70747;"2014-07-31 21:46:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Radigke;Germany;52.0450000000;12.6283333333;0
+70748;"2014-08-07 22:20:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Radigke;Germany;52.0450000000;12.6283333333;0
+70749;"2014-08-08 23:08:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Radigke;Germany;52.0450000000;12.6283333333;0
+70750;"2014-08-09 23:00:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Radigke;Germany;52.0450000000;12.6283333333;0
+70751;"2014-08-11 22:01:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Radigke;Germany;52.0450000000;12.6283333333;0
+70752;"2014-08-12 21:03:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Radigke;Germany;52.0450000000;12.6283333333;0
+70753;"2014-08-18 22:43:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Radigke;Germany;52.0450000000;12.6283333333;0
+70754;"2014-06-25 23:38:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg-wieblinge;Germany;49.4302777778;8.6491666667;106
+70755;"2014-06-26 23:06:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg-wieblinge;Germany;49.4302777778;8.6491666667;106
+70756;"2014-08-25 00:10:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4561111111;12.9711111111;33
+70757;"2014-08-21 20:00:00";3706;3706;"Maciej Myszkiewicz";"Maciej Myszkiewicz";Siedlce;Poland;52.1650000000;22.2713888889;0
+70758;"2014-08-20 20:15:00";3706;3706;"Maciej Myszkiewicz";"Maciej Myszkiewicz";Siedlce;Poland;52.1650000000;22.2713888889;0
+70759;"2014-08-19 21:00:00";3706;3706;"Maciej Myszkiewicz";"Maciej Myszkiewicz";Siedlce;Poland;52.1650000000;22.2713888889;0
+70760;"2014-08-17 21:25:00";3706;3706;"Maciej Myszkiewicz";"Maciej Myszkiewicz";Siedlce;Poland;52.1650000000;22.2713888889;0
+70761;"2014-08-29 22:05:00";6664;6664;"Coliac Jean-françois";"Coliac Jean-françois";Marseille;France;43.3013888889;5.4111111111;100
+70762;"2014-08-29 23:40:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70763;"2014-08-30 00:30:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70764;"2014-08-24 05:50:00";8022;8022;"Pierre Martin";"Pierre Martin";"Bootland Farm";Canada;45.3833333333;-76.4833333333;0
+70765;"2014-08-31 00:20:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70766;"2014-08-11 23:58:00";135;135;"Orlando Benitez Sanchez";"Orlando Benitez Sanchez";"Noalla, Pontevedra";Spain;42.4333333333;-8.8500000000;100
+70767;"2014-08-12 23:00:00";135;135;"Orlando Benitez Sanchez";"Orlando Benitez Sanchez";"Noalla, Pontevedra";Spain;42.4333333333;-8.8500000000;100
+70768;"2014-08-16 00:05:00";135;135;"Orlando Benitez Sanchez";"Orlando Benitez Sanchez";"Noalla, Pontevedra";Spain;42.4333333333;-8.8500000000;100
+70769;"2014-08-16 23:00:00";135;135;"Orlando Benitez Sanchez";"Orlando Benitez Sanchez";"Noalla, Pontevedra";Spain;42.4333333333;-8.8500000000;100
+70770;"2014-08-17 22:28:00";135;135;"Orlando Benitez Sanchez";"Orlando Benitez Sanchez";"Noalla, Pontevedra";Spain;42.4333333333;-8.8500000000;100
+70771;"2014-08-19 23:20:00";135;135;"Orlando Benitez Sanchez";"Orlando Benitez Sanchez";"Noalla, Pontevedra";Spain;42.4333333333;-8.8500000000;100
+70772;"2014-08-20 22:55:00";135;135;"Orlando Benitez Sanchez";"Orlando Benitez Sanchez";"Noalla, Pontevedra";Spain;42.4333333333;-8.8500000000;100
+70773;"2014-08-22 22:37:00";135;135;"Orlando Benitez Sanchez";"Orlando Benitez Sanchez";"Noalla, Pontevedra";Spain;42.4333333333;-8.8500000000;100
+70774;"2014-08-23 23:15:00";135;135;"Orlando Benitez Sanchez";"Orlando Benitez Sanchez";"Noalla, Pontevedra";Spain;42.4333333333;-8.8500000000;100
+70775;"2014-08-24 22:50:00";135;135;"Orlando Benitez Sanchez";"Orlando Benitez Sanchez";"Noalla, Pontevedra";Spain;42.4333333333;-8.8500000000;100
+70776;"2014-09-03 19:26:00";6203;6203;"Alexsandr Morozov";"Alexsandr Morozov";Novozybkov;Russia;52.5508333333;31.9530555556;162
+70777;"2014-09-02 00:49:00";6667;6667;"Ioana Stelea";"Ioana Stelea";"Cindrel-Paraul lui Blaga (Blaga's Brook)";Romania;45.5469444444;23.7477777778;1523
+70778;"2014-09-03 01:45:00";6668;6668;"Julien Robert";"Julien Robert";Monneren;France;49.3455555556;6.4158333333;260
+70779;"2014-07-25 21:00:00";115;115;"Thomas Weiland";"Thomas Weiland";"Órmos Krioú";Greece;35.2377777778;23.5925000000;40
+70780;"2014-07-26 21:30:00";115;115;"Thomas Weiland";"Thomas Weiland";"Thrafterós Potamós";Greece;35.2386111111;23.7219444444;0
+70781;"2014-07-27 20:00:00";115;115;"Thomas Weiland";"Thomas Weiland";"Thrafterós Potamós";Greece;35.2386111111;23.7219444444;0
+70782;"2014-08-27 00:20:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70783;"2014-08-31 20:48:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70784;"2014-09-02 00:50:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70785;"2014-09-04 00:00:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70786;"2014-08-27 21:15:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg-wieblinge;Germany;49.4302777778;8.6491666667;106
+70787;"2014-09-06 00:44:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg-wieblinge;Germany;49.4302777778;8.6491666667;106
+70788;"2014-07-28 21:00:00";115;115;"Thomas Weiland";"Thomas Weiland";Prodrómi;Greece;35.2594444444;23.7594444444;550
+70789;"2014-07-29 21:00:00";115;115;"Thomas Weiland";"Thomas Weiland";"Thrafterós Potamós";Greece;35.2386111111;23.7219444444;0
+70790;"2014-08-27 21:00:00";49;49;"Roland Winkler";"Roland Winkler";Schkeuditz;Germany;51.4000000000;12.2166666667;111
+70791;"2014-07-30 21:00:00";115;115;"Thomas Weiland";"Thomas Weiland";Prodrómi;Greece;35.2594444444;23.7594444444;550
+70792;"2014-09-09 21:24:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg-wieblinge;Germany;49.4302777778;8.6491666667;106
+70793;"2014-07-31 20:30:00";115;115;"Thomas Weiland";"Thomas Weiland";"Thrafterós Potamós";Greece;35.2386111111;23.7219444444;0
+70794;"2014-08-01 20:35:00";115;115;"Thomas Weiland";"Thomas Weiland";"Thrafterós Potamós";Greece;35.2386111111;23.7219444444;0
+70795;"2014-09-12 19:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Gedser Odde, Lolland";Denmark;54.5611111111;11.9638888889;10
+70796;"2014-08-25 22:29:00";6889;6889;"Viera Lencisova";"Viera Lencisova";"Ap Kolonica";Slovakia;48.9352777778;22.2772222222;460
+70797;"2014-08-25 22:29:00";6670;6670;"Jakub Kazimir";"Jakub Kazimir";"Ap Kolonica";Slovakia;48.9352777778;22.2772222222;460
+70798;"2014-08-25 22:29:00";6671;6671;"Patrik Danco";"Patrik Danco";"Ap Kolonica";Slovakia;48.9352777778;22.2772222222;460
+70799;"2014-08-25 22:29:00";3495;3495;"Peter Miklos";"Peter Miklos";"Ap Kolonica";Slovakia;48.9352777778;22.2772222222;460
+70800;"2014-08-25 22:10:00";6672;6672;"Viliam Ledzinsky";"Viliam Ledzinsky";"Ap Kolonica";Slovakia;48.9352777778;22.2772222222;460
+70801;"2014-08-25 22:10:00";6673;6673;"Martin Lubiscak";"Martin Lubiscak";"Ap Kolonica";Slovakia;48.9352777778;22.2772222222;460
+70802;"2014-08-25 22:10:00";6674;6674;"Zuzana Ontkovicova";"Zuzana Ontkovicova";"Ap Kolonica";Slovakia;48.9352777778;22.2772222222;460
+70803;"2014-08-25 22:10:00";6675;6675;"Boris Pankovcin";"Boris Pankovcin";"Ap Kolonica";Slovakia;48.9352777778;22.2772222222;460
+70804;"2014-08-28 21:45:00";6672;6672;"Viliam Ledzinsky";"Viliam Ledzinsky";"Ap Kolonica";Slovakia;48.9352777778;22.2772222222;460
+70805;"2014-08-28 21:45:00";6673;6673;"Martin Lubiscak";"Martin Lubiscak";"Ap Kolonica";Slovakia;48.9352777778;22.2772222222;460
+70806;"2014-08-28 21:45:00";6674;6674;"Zuzana Ontkovicova";"Zuzana Ontkovicova";"Ap Kolonica";Slovakia;48.9352777778;22.2772222222;460
+70807;"2014-08-28 21:45:00";6676;6676;"Juraj Danko";"Juraj Danko";"Ap Kolonica";Slovakia;48.9352777778;22.2772222222;460
+70808;"2014-08-28 21:45:00";6677;6677;"Kristina Bednarova";"Kristina Bednarova";"Ap Kolonica";Slovakia;48.9352777778;22.2772222222;460
+70809;"2014-08-28 21:45:00";6670;6670;"Jakub Kazimir";"Jakub Kazimir";"Ap Kolonica";Slovakia;48.9352777778;22.2772222222;460
+70810;"2014-08-28 21:45:00";6671;6671;"Patrik Danco";"Patrik Danco";"Ap Kolonica";Slovakia;48.9352777778;22.2772222222;460
+70812;"2014-08-28 07:05:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70813;"2014-07-27 20:20:00";2436;2436;"Ivan Ivancevic";"Ivan Ivancevic";"Beli Brezi";Bulgaria;31.5700000000;25.1572222222;1004
+70814;"2014-08-29 07:10:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70815;"2014-08-29 19:50:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1255555556;13.5975000000;121
+70816;"2014-09-17 18:57:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1255555556;13.5975000000;121
+70817;"2014-08-30 06:50:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70818;"2014-08-31 06:51:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70819;"2014-09-01 06:28:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70820;"2014-09-02 06:50:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70821;"2014-09-26 23:40:00";210;210;"Ina Rendtel";"Ina Rendtel";"Bastorf, Parkplatz am Leuchtturm";Germany;54.1291666667;11.6930555556;60
+70822;"2014-09-27 22:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Rerik, Strandparkplatz Wustrow";Germany;54.1033333333;11.6050000000;2
+70823;"2014-09-03 06:48:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70824;"2014-01-31 03:35:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+70825;"2014-02-03 01:30:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+70826;"2014-03-02 02:05:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+70827;"2014-03-06 02:30:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+70828;"2014-03-09 02:17:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+70829;"2014-03-10 02:21:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+70830;"2014-04-23 00:15:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+70831;"2014-07-03 22:20:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7177777778;3.6438888889;120
+70832;"2014-07-23 23:50:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+70833;"2014-07-24 23:50:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+70834;"2014-08-12 20:42:00";6678;6678;"Nazar Kudelko";"Nazar Kudelko";Yuzefovo;Belarus;54.2686111111;26.2683333333;220
+70835;"2014-09-04 07:32:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70836;"2014-07-26 23:00:00";211;211;"Michel Vandeputte";"Michel Vandeputte";"Revest du Bion";France;44.0833333333;5.5500000000;900
+70837;"2014-07-27 22:35:00";211;211;"Michel Vandeputte";"Michel Vandeputte";"Revest du Bion";France;44.0833333333;5.5500000000;900
+70838;"2014-07-29 23:12:00";211;211;"Michel Vandeputte";"Michel Vandeputte";"Revest du Bion";France;44.0833333333;5.5500000000;900
+70839;"2014-09-02 19:44:00";6679;6679;"Maslov Mikhail";"Maslov Mikhail";Stepnoy;Russia;54.5161111111;83.0338888889;125
+70840;"2014-09-17 16:09:00";6679;6679;"Maslov Mikhail";"Maslov Mikhail";Stepnoy;Russia;54.5161111111;83.0338888889;125
+70841;"2014-09-28 20:49:00";3368;3368;"Mikhail Maslov";"Mikhail Maslov";Borovoe;Russia;54.6786111111;82.5691666667;0
+70842;"2014-09-05 08:11:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70843;"2014-09-21 05:38:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70844;"2014-09-24 06:49:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70845;"2014-10-06 16:10:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70846;"2014-10-06 18:10:00";6203;6203;"Alexsandr Morozov";"Alexsandr Morozov";Novozybkov;Russia;52.5508333333;31.9530555556;162
+70847;"2014-09-25 08:57:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70848;"2014-10-07 16:00:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70849;"2014-09-28 06:42:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70850;"2014-09-29 06:43:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70851;"2014-07-30 22:17:00";211;211;"Michel Vandeputte";"Michel Vandeputte";"Revest du Bion";France;44.0833333333;5.5500000000;900
+70852;"2014-07-31 22:15:00";211;211;"Michel Vandeputte";"Michel Vandeputte";"Revest du Bion";France;44.0833333333;5.5500000000;900
+70853;"2014-09-30 06:37:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70854;"2014-08-04 22:45:00";211;211;"Michel Vandeputte";"Michel Vandeputte";"Revest du Bion";France;44.0833333333;5.5500000000;900
+70855;"2014-08-05 23:30:00";211;211;"Michel Vandeputte";"Michel Vandeputte";"Revest du Bion";France;44.0833333333;5.5500000000;900
+70856;"2014-08-07 00:20:00";211;211;"Michel Vandeputte";"Michel Vandeputte";"Revest du Bion";France;44.0833333333;5.5500000000;900
+70857;"2014-08-08 00:46:00";211;211;"Michel Vandeputte";"Michel Vandeputte";"Revest du Bion";France;44.0833333333;5.5500000000;900
+70858;"2014-10-01 06:41:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70859;"2014-10-02 06:40:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70860;"2014-08-12 01:12:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+70861;"2014-08-12 22:10:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+70862;"2014-10-03 07:03:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70863;"2014-10-04 07:54:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70864;"2014-07-31 19:40:00";6680;6680;"Iva Ivanova";"Iva Ivanova";"Beli Brezi";Bulgaria;31.5666666667;25.1500000000;1004
+70865;"2014-07-28 21:00:00";6680;6680;"Iva Ivanova";"Iva Ivanova";"Beli Brezi";Bulgaria;31.5666666667;25.1500000000;1004
+70866;"2014-07-27 20:20:00";6680;6680;"Iva Ivanova";"Iva Ivanova";"Beli Brezi";Bulgaria;31.5666666667;25.1500000000;1004
+70867;"2014-10-05 08:49:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70868;"2014-10-18 14:50:00";85;85;"Shigeo Uchiyama";"Shigeo Uchiyama";"Sakuragawa, Ibaraki";Japan;36.2305555556;140.1055555560;520
+70869;"2014-10-19 00:55:00";7237;7237;"Branislav Savic";"Branislav Savic";Petnica;Serbia;44.2461111111;19.9258333333;218
+70870;"2014-10-08 10:04:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70871;"2014-10-16 04:27:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70872;"2014-10-18 22:32:00";81;81;"Mitja Govedič";"Mitja Govedič";Cankova;Slovenia;46.7213888889;16.0158333333;215
+70873;"2014-10-17 04:42:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70874;"2014-10-18 04:43:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70875;"2014-10-19 04:41:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70876;"2014-10-19 17:00:00";87;87;"Yasuhiro Tonomura";"Yasuhiro Tonomura";Mt?Yakurai;Japan;38.5752777778;140.7183333330;210
+70877;"2014-10-20 01:43:00";36;36;"Sirko Molau";"Sirko Molau";Seysdorf;Germany;48.5500000000;11.7166666667;0
+70878;"2014-09-26 06:30:00";8022;8022;"Pierre Martin";"Pierre Martin";"Bootland Farm";Canada;45.3833333333;-76.4833333333;0
+70879;"2014-10-21 00:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Izana;Spain;28.3025000000;-16.5102777778;2400
+70880;"2014-10-19 23:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Izana;Spain;28.3025000000;-16.5102777778;2400
+70881;"2014-10-19 00:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Izana;Spain;28.3025000000;-16.5102777778;2400
+70882;"2014-10-20 22:00:00";6558;6558;"Yogesh Pandey";"Yogesh Pandey";Paud,Pune,Maharashtra;India;18.5202777778;73.6180555556;0
+70883;"2014-10-20 22:00:00";6563;6563;"Prathamesh Pawar";"Prathamesh Pawar";Paud,Pune,Maharashtra;India;18.5202777778;73.6180555556;0
+70884;"2014-10-17 22:55:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Izana;Spain;28.3025000000;-16.5102777778;2400
+70885;"2014-10-16 23:10:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Izana;Spain;28.3025000000;-16.5102777778;2400
+70886;"2014-10-15 22:33:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Izana;Spain;28.3025000000;-16.5102777778;2400
+70887;"2014-10-14 21:45:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Izana;Spain;28.3025000000;-16.5102777778;2400
+70888;"2014-10-07 04:55:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Izana;Spain;28.3025000000;-16.5102777778;2400
+70889;"2014-10-05 02:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4561111111;12.9711111111;33
+70890;"2014-10-06 02:25:00";131;131;"Javor Kac";"Javor Kac";"Poto\v{c}e";Slovenia;45.7258333333;14.0258333333;560
+70891;"2014-10-02 22:36:00";131;131;"Javor Kac";"Javor Kac";"Jan\v{c}e";Slovenia;46.0505555556;14.7086111111;760
+70892;"2014-10-21 09:30:00";254;254;"Pete Kozich";"Pete Kozich";"River 'Round Conservation Area";"United States";38.3483333333;-90.8655555556;163
+70893;"2014-10-21 08:10:00";400;400;"William Godley";"William Godley";"Coweta, Ok";"United States";35.9477777778;-95.7125000000;0
+70894;"2014-10-21 21:40:00";6593;6593;"Miguel Ange Serra Martin";"Miguel Ange Serra Martin";" Binicanella, Mallorca";Spain;39.6700000000;2.6961111111;120
+70895;"2014-10-21 21:40:00";6542;6542;"Tomeu Mas";"Tomeu Mas";" Binicanella, Mallorca";Spain;39.6700000000;2.6961111111;120
+70896;"2014-10-21 21:40:00";6681;6681;"Joan Serra";"Joan Serra";" Binicanella, Mallorca";Spain;39.6700000000;2.6961111111;120
+70897;"2014-10-21 21:40:00";6682;6682;"Alberto Gonzalez";"Alberto Gonzalez";" Binicanella, Mallorca";Spain;39.6700000000;2.6961111111;120
+70898;"2014-10-17 23:00:00";7413;7413;"Károly Jónás";"Károly Jónás";Gant;Hungary;47.3833333333;18.4000000000;200
+70899;"2014-10-27 05:43:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70900;"2014-10-28 01:30:00";6208;6208;"Tomasz Lenart";"Tomasz Lenart";Biskupice;Poland;51.1683333333;22.9197222222;0
+70901;"2014-10-25 17:21:00";6235;6235;"Fengwu Sun";"Fengwu Sun";"Gubeikou deserted railway station";China;40.7019444444;117.1652777780;300
+70902;"2014-10-28 11:11:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70903;"2014-10-22 05:10:00";8022;8022;"Pierre Martin";"Pierre Martin";"Otter Lake";Canada;45.8088888889;-76.3719444444;0
+70904;"2014-10-23 05:10:00";8022;8022;"Pierre Martin";"Pierre Martin";"Irvine Lake Airstrip";Canada;45.0297222222;-77.2627777778;0
+70905;"2014-08-13 20:35:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+70906;"2014-08-15 20:30:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6333333333;120
+70907;"2014-08-24 00:17:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+70908;"2014-10-18 20:30:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6333333333;120
+70909;"2014-10-19 23:23:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+70910;"2014-10-20 19:53:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+70911;"2014-10-22 00:30:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+70912;"2014-10-23 00:41:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+70913;"2014-10-29 06:33:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70914;"2014-10-29 15:30:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70915;"2014-10-30 06:31:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70916;"2014-10-30 08:27:00";283;283;"Salvador Aguirre";"Salvador Aguirre";"Campestre Real del Molinito, Hermosillo, Sonora";Mexico;29.2175000000;-110.7605555560;273
+70917;"2014-10-18 22:15:00";7336;7336;"Kristina Veljkovic";"Kristina Veljkovic";Petnica;Serbia;44.2461111111;19.9258333333;218
+70918;"2014-10-19 23:15:00";7336;7336;"Kristina Veljkovic";"Kristina Veljkovic";Petnica;Serbia;44.2461111111;19.9258333333;218
+70919;"2014-10-20 23:05:00";7336;7336;"Kristina Veljkovic";"Kristina Veljkovic";Petnica;Serbia;44.2461111111;19.9258333333;218
+70920;"2014-10-19 17:50:00";210;210;"Ina Rendtel";"Ina Rendtel";"Fagelsundet, Tierp Kommune";Sweden;60.6002777778;17.9355555556;2
+70921;"2014-10-22 18:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Viitakoski, Tervola";Finland;65.9636111111;24.4966666667;0
+70922;"2014-10-28 02:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4561111111;12.9711111111;33
+70923;"2014-10-29 02:33:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4561111111;12.9711111111;33
+70924;"2014-10-25 19:15:00";210;210;"Ina Rendtel";"Ina Rendtel";"Junibodsand, Njurunda";Sweden;62.2394444444;17.6086111111;1
+70925;"2014-10-26 17:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Kuggören, Hornslandet";Sweden;61.7005555556;17.5091666667;1
+70926;"2014-10-28 02:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Junibodsand, Njurunda";Sweden;62.2394444444;17.6086111111;1
+70927;"2014-10-28 18:25:00";210;210;"Ina Rendtel";"Ina Rendtel";"Grisslehamn, Norrtälje";Sweden;60.1027777778;18.7958333333;10
+70928;"2014-10-31 06:38:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70929;"2014-11-01 07:20:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70930;"2014-11-02 02:35:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4561111111;12.9711111111;33
+70931;"2014-11-03 10:21:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70932;"2014-10-31 02:25:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+70933;"2014-11-01 00:00:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+70934;"2014-11-02 02:20:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+70935;"2014-10-18 22:59:00";2211;2211;"Vilem Heblik";"Vilem Heblik";JEZBORICE;Czechia;49.9786111111;15.6941666667;265
+70936;"2014-10-17 22:20:00";2211;2211;"Vilem Heblik";"Vilem Heblik";JEZBORICE;Czechia;49.9786111111;15.6941666667;265
+70937;"2014-10-19 22:30:00";2211;2211;"Vilem Heblik";"Vilem Heblik";JEZBORICE;Czechia;49.9786111111;15.6941666667;265
+70938;"2014-10-21 02:21:00";2211;2211;"Vilem Heblik";"Vilem Heblik";JEZBORICE;Czechia;49.9786111111;15.6941666667;265
+70939;"2014-09-15 21:40:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg-wieblinge;Germany;49.4302777778;8.6491666667;106
+70940;"2014-09-16 20:48:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg-wieblinge;Germany;49.4302777778;8.6491666667;106
+70941;"2014-09-17 21:24:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg-wieblinge;Germany;49.4302777778;8.6491666667;106
+70942;"2014-09-21 21:58:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg-wieblinge;Germany;49.4302777778;8.6491666667;106
+70943;"2014-09-27 20:34:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg-wieblinge;Germany;49.4302777778;8.6491666667;106
+70944;"2014-10-01 22:30:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg-wieblinge;Germany;49.4302777778;8.6491666667;106
+70945;"2014-10-03 02:27:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg-wieblinge;Germany;49.4302777778;8.6491666667;106
+70946;"2014-10-04 02:28:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg-wieblinge;Germany;49.4302777778;8.6491666667;106
+70947;"2014-10-24 22:50:00";2211;2211;"Vilem Heblik";"Vilem Heblik";JEZBORICE;Czechia;49.9786111111;15.6941666667;265
+70948;"2014-11-16 05:04:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70949;"2014-10-24 20:24:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1255555556;13.5975000000;121
+70950;"2014-10-28 18:38:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1255555556;13.5975000000;121
+70951;"2014-10-24 20:13:00";7322;7322;"Frank Wächter";"Frank Wächter";Radebeul;Germany;51.1255555556;13.5975000000;121
+70952;"2014-10-28 18:35:00";7322;7322;"Frank Wächter";"Frank Wächter";Radebeul;Germany;51.1255555556;13.5975000000;121
+70953;"2014-11-16 17:10:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Sydney;Australia;-34.0000000000;150.0000000000;20
+70954;"2014-11-15 19:00:00";85;85;"Shigeo Uchiyama";"Shigeo Uchiyama";"Sakuragawa, Ibaraki";Japan;36.2622222222;140.1069444440;60
+70955;"2014-11-17 04:05:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";"Lanciano, Santa Croce";Italy;42.2300000000;14.3702777778;265
+70956;"2014-11-17 07:58:00";283;283;"Salvador Aguirre";"Salvador Aguirre";"Campestre Real del Molinito, Hermosillo, Sonora";Mexico;29.2175000000;-110.7605555560;273
+70957;"2014-10-18 21:05:00";49;49;"Roland Winkler";"Roland Winkler";Schkeuditz;Germany;51.4000000000;12.2166666667;111
+70958;"2014-10-27 20:30:00";49;49;"Roland Winkler";"Roland Winkler";Schkeuditz;Germany;51.4000000000;12.2166666667;111
+70959;"2014-11-17 18:10:00";8294;8294;"Seokhee Cho";"Seokhee Cho";"Sinji-do Jeollanam-do";"South Korea";34.3363888889;126.8283333330;18
+70960;"2014-11-17 22:20:00";6593;6593;"Miguel Ange Serra Martin";"Miguel Ange Serra Martin";" Binicanella, Mallorca";Spain;39.6700000000;2.6961111111;120
+70961;"2014-11-17 19:30:00";3224;3224;"Qiang Ma";"Qiang Ma";Hejinli,Hedong,Tianjin;China;39.1075000000;117.2447222220;4
+70962;"2014-11-17 07:48:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70963;"2014-11-17 22:20:00";6542;6542;"Tomeu Mas";"Tomeu Mas";" Binicanella, Mallorca";Spain;39.6700000000;2.6961111111;120
+70964;"2014-11-17 22:20:00";6684;6684;"Eduardo De La Cruz";"Eduardo De La Cruz";" Binicanella, Mallorca";Spain;39.6700000000;2.6961111111;120
+70965;"2014-10-17 20:10:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;300
+70966;"2014-10-18 20:10:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;300
+70967;"2014-10-23 23:20:00";7205;7205;"Pierre Bader";"Pierre Bader";Höchberg;Germany;49.7833333333;9.8833333333;300
+70968;"2014-11-19 06:44:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70969;"2014-10-15 03:17:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+70970;"2014-11-17 05:48:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+70971;"2014-11-18 05:45:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+70972;"2014-11-20 06:53:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70973;"2014-11-20 02:10:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70974;"2014-11-21 02:00:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70975;"2014-10-26 19:35:00";3368;3368;"Mikhail Maslov";"Mikhail Maslov";V'yuny;Russia;55.5575000000;82.9138888889;100
+70976;"2014-11-18 20:15:00";3368;3368;"Mikhail Maslov";"Mikhail Maslov";Tashanta;Russia;49.7372222222;89.2019444444;2100
+70977;"2014-11-21 06:48:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70978;"2014-11-22 15:10:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70979;"2014-11-22 17:18:00";85;85;"Shigeo Uchiyama";"Shigeo Uchiyama";"Sakuragawa, Ibaraki";Japan;36.2305555556;140.1055555560;520
+70980;"2014-11-23 06:58:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70981;"2014-09-14 19:28:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70982;"2014-10-26 02:55:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70983;"2014-11-28 00:54:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70984;"2014-11-01 00:40:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70985;"2014-11-24 06:47:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70986;"2014-11-24 15:10:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+70987;"2014-11-22 22:25:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+70988;"2014-11-25 06:39:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70989;"2014-11-29 00:56:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+70990;"2014-11-29 23:20:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+70991;"2014-11-30 06:35:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+70992;"2014-11-26 06:30:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+70993;"2014-11-28 23:45:00";477;477;"Mirco Saner";"Mirco Saner";"Vorder Brandberg (Kurve)";Switzerland;47.2963888889;7.5655555556;1000
+70994;"2014-10-23 20:20:00";6685;6685;"Marjan Mahdian";"Marjan Mahdian";kharanagh;Iran;32.3333333333;54.6666666667;1320
+70995;"2014-12-02 01:00:00";283;283;"Salvador Aguirre";"Salvador Aguirre";"Hermosillo, Sonora";Mexico;29.1047222222;-110.9619444440;225
+70996;"2014-11-22 02:00:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+70997;"2014-11-23 02:45:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+70998;"2014-11-24 21:55:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+70999;"2014-11-29 02:15:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+71000;"2014-11-30 00:52:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+71001;"2014-11-27 06:40:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+71002;"2014-11-28 06:38:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+71003;"2014-11-29 06:29:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+71004;"2014-11-30 07:21:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+71005;"2014-12-02 09:07:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+71006;"2014-12-01 08:48:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+71007;"2014-12-11 20:27:00";81;81;"Mitja Govedič";"Mitja Govedič";"Medvedje brdo";Slovenia;14.1369444444;45.9680555556;790
+71008;"2014-12-12 05:00:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+71009;"2014-12-12 20:45:00";36;36;"Sirko Molau";"Sirko Molau";Seysdorf;Germany;48.5500000000;11.7166666667;0
+71010;"2014-12-12 14:30:00";6526;6526;"Linlan Luozhang";"Linlan Luozhang";Nanchong;China;30.8030555556;106.0472222220;315
+71011;"2014-11-12 19:55:00";6320;6320;"Klemen Cotar";"Klemen Cotar";Kurescek;Slovenia;45.8872222222;14.5602777778;800
+71012;"2014-12-13 12:48:00";6686;6686;"Shiyue Chen";"Shiyue Chen";linan;China;30.7500000000;119.8166666670;38
+71013;"2014-12-12 14:30:00";6166;6166;"Junda Liu";"Junda Liu";"LYOBS,Green Field Village,Zhenhu,Suzhou";China;31.3213888889;120.3202777780;7
+71014;"2014-12-13 12:50:00";6166;6166;"Junda Liu";"Junda Liu";"LYOBS,Green Field Village,Zhenhu,Suzhou";China;31.3213888889;120.3202777780;7
+71015;"2014-12-13 12:40:00";6454;6454;"Yifei Xia";"Yifei Xia";"LYOBS,Green Field Village,Zhenhu,Suzhou";China;31.3213888889;120.3202777780;7
+71016;"2014-12-13 04:27:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+71017;"2014-12-13 18:08:00";6166;6166;"Junda Liu";"Junda Liu";"LYOBS,Green Field Village,Zhenhu,Suzhou";China;31.3213888889;120.3202777780;7
+71018;"2014-12-12 16:15:00";6687;6687;"Kazem Kookaram";"Kazem Kookaram";"Ali abad Village";Iran;35.1219444444;50.9958333333;1076
+71019;"2014-12-13 21:00:00";6653;6653;"Alexandros Daskalakis";"Alexandros Daskalakis";Glyfada;Greece;37.8997222222;23.7627777778;150
+71020;"2014-12-13 19:05:00";6387;6387;"Payas Awadhutkar";"Payas Awadhutkar";"Nilav Society";India;18.5116666667;73.8491666667;580
+71021;"2014-12-13 19:05:00";6392;6392;"Omkar Yarguddi";"Omkar Yarguddi";"Nilav Society";India;18.5116666667;73.8491666667;580
+71022;"2014-12-13 12:35:00";6688;6688;"Yifan Gu";"Yifan Gu";"LYOBS,Green Field Village,Zhenhu,Suzhou";China;31.3213888889;120.3202777780;7
+71023;"2014-12-13 01:20:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+71024;"2014-12-12 16:00:00";6689;6689;"Sanaz Jafari";"Sanaz Jafari";"Ali abad Village";Iran;35.1219444444;50.9958333333;1076
+71025;"2014-12-13 11:20:00";85;85;"Shigeo Uchiyama";"Shigeo Uchiyama";"Sammu, Chiba";Japan;35.5541666667;140.4700000000;2
+71026;"2014-12-13 20:25:00";1323;1323;"Ilie Cosovanu";"Ilie Cosovanu";"Arsita- Marginea";Romania;47.7600000000;25.8400000000;500
+71027;"2014-12-13 19:16:00";5321;5321;"Hendrik Vandenbruaene";"Hendrik Vandenbruaene";Tielt;Belgium;50.9872222222;3.3202777778;0
+71028;"2014-12-13 13:06:00";6690;6690;"Zesheng Yang";"Zesheng Yang";Liugou,Yanqing,Beijing;China;40.4419444444;116.0813888890;571
+71029;"2014-12-14 03:40:00";6012;6012;"Daniel Verde Van Ouytsel";"Daniel Verde Van Ouytsel";"Altos de Arguineguín";Spain;27.7686111111;-15.6808333333;95
+71030;"2014-12-13 13:20:00";6526;6526;"Linlan Luozhang";"Linlan Luozhang";Nanchong;China;30.8030555556;106.0472222220;315
+71031;"2014-12-13 14:15:00";6691;6691;"Wei Xiaofan";"Wei Xiaofan";"Xiao Nanxinpu";China;40.3183333333;115.7175000000;350
+71032;"2014-12-13 13:44:00";6582;6582;"Yusong Zhu";"Yusong Zhu";Labagoumen,Beijing;China;40.9280555556;116.5716666670;563
+71033;"2014-12-13 19:30:00";6650;6650;"Nadia Dimitrova";"Nadia Dimitrova";"Hija Tintyava";Bulgaria;42.6191666667;23.2602777778;1520
+71034;"2014-12-13 12:50:00";6610;6610;"Chengye Cao";"Chengye Cao";Conghua;China;23.4747222222;113.5900000000;500
+71035;"2014-12-13 19:50:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Dersentin;Germany;53.7194444444;12.3922222222;60
+71036;"2014-12-14 00:35:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Bork;Germany;53.0311111111;12.4413888889;40
+71037;"2014-12-13 05:10:00";526;526;"Richard Fleet";"Richard Fleet";Wilcot;"United Kingdom";51.3500000000;-1.8000000000;130
+71038;"2014-12-14 01:04:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Wusterhausen;Germany;52.8813888889;12.4627777778;40
+71039;"2014-12-13 19:35:00";6692;6692;"Kalina Stoimenova";"Kalina Stoimenova";"Hizha Tintyava";Bulgaria;42.6188888889;23.2605555556;1603
+71040;"2014-12-14 01:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Friesack;Germany;52.7602777778;12.5658333333;45
+71041;"2014-12-13 22:56:00";6650;6650;"Nadia Dimitrova";"Nadia Dimitrova";"Hija Tintyava";Bulgaria;42.6191666667;23.2602777778;1520
+71042;"2014-12-13 12:02:00";7748;7748;"Allen Zhong";"Allen Zhong";"Zhe Xi Tian Chi Lake, Lin'an, Zhejiang";China;30.3013888889;119.1130555560;1117
+71043;"2014-12-14 06:58:00";283;283;"Salvador Aguirre";"Salvador Aguirre";"Hermosillo, Sonora";Mexico;29.0955555556;-110.9508333330;216
+71044;"2014-12-13 20:15:00";526;526;"Richard Fleet";"Richard Fleet";Wilcot;"United Kingdom";51.3500000000;-1.8000000000;130
+71045;"2014-12-13 12:00:00";6693;6693;"Tianqing Zhang";"Tianqing Zhang";"Shuxin Town, Chongming Island, Shanghai";China;31.5786111111;121.5705555560;4
+71046;"2014-12-13 13:57:00";7748;7748;"Allen Zhong";"Allen Zhong";"Zhe Xi Tian Chi Lake, Lin'an, Zhejiang";China;30.3013888889;119.1130555560;1117
+71047;"2014-12-14 03:25:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+71048;"2014-12-14 03:27:00";6188;6188;"Margarete Jacques Amorim";"Margarete Jacques Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+71049;"2014-12-13 13:00:00";943;943;"Longji Bing";"Longji Bing";"PMO Xuyi Station, Huai'an, Jiangsu";China;32.7361111111;118.4758333330;150
+71050;"2014-12-14 03:50:00";162;162;"Mark Davis";"Mark Davis";"Givhans Ferry St.p.";"United States";33.0322222222;-80.3869444444;0
+71051;"2014-12-13 14:17:00";943;943;"Longji Bing";"Longji Bing";"PMO Xuyi Station, Huai'an, Jiangsu";China;32.7361111111;118.4758333330;150
+71052;"2014-12-13 13:59:00";6694;6694;"Chuanyuan Cheng";"Chuanyuan Cheng";Donghuayuan,Huailai,;China;40.3180555556;115.7236111110;521
+71053;"2014-12-14 03:58:00";2914;2914;"Richard Kramer";"Richard Kramer";"Lake Massapoag, Sharon MA";"United States";44.9333333333;-71.1811111111;0
+71054;"2014-12-14 12:35:00";6695;6695;"Yanyang+ Xiao";"Yanyang+ Xiao";Shanghai;China;30.8247222222;121.5677777780;5
+71055;"2014-12-13 19:50:00";1693;1693;"Frank Enzlein";"Frank Enzlein";Dersentin;Germany;53.7191666667;12.3919444444;50
+71056;"2014-12-14 01:30:00";1693;1693;"Frank Enzlein";"Frank Enzlein";Friesack;Germany;52.7602777778;12.5655555556;50
+71057;"2014-12-14 19:00:00";6696;6696;"Zhiwei Liu";"Zhiwei Liu";haikou;China;19.5000000000;109.8013888890;50
+71058;"2014-12-14 07:32:00";3152;3152;"Mike Linnolt";"Mike Linnolt";"Naalehu, Hawaii";"United States";19.0666666667;-155.5833333330;200
+71059;"2014-12-14 05:17:00";238;238;"Carl Hergenrother";"Carl Hergenrother";"Tucson - Tanque Verde";"United States";32.2819444444;-110.7683333330;826
+71060;"2014-12-13 20:39:00";2175;2175;"Joy Harvey";"Joy Harvey";Twisk;Netherlands;5.0658333333;52.7463888889;0
+71061;"2014-12-14 21:34:00";4235;4235;"Sasha Prokofyev";"Sasha Prokofyev";"Kiti, Larnaca";Cyprus;34.8547222222;33.5827777778;0
+71062;"2014-12-14 21:59:00";4235;4235;"Sasha Prokofyev";"Sasha Prokofyev";"Kiti, Larnaca";Cyprus;34.8530555556;33.5841666667;0
+71063;"2014-12-14 16:10:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Sydney;Australia;-34.0000000000;151.0000000000;20
+71064;"2014-12-14 06:42:00";185;185;"Richard Taibi";"Richard Taibi";"Richard Taibi";"United States";38.4666666667;-76.9833333333;10
+71065;"2014-12-13 09:53:00";6549;6549;"Geng Zhao";"Geng Zhao";"Stanford University";"United States";37.4200000000;-122.1725000000;50
+71066;"2014-12-13 16:48:00";2359;2359;"Vladimir Hubner";"Vladimir Hubner";"Hengfeng High School?Shangrao?Jiangxi";China;28.4141666667;117.5888888890;0
+71067;"2014-12-13 14:26:00";6120;6120;"Bing Wang";"Bing Wang";"Pingyang Temple,Shaoxing,Zhejiang";China;29.8416666667;120.6105555560;100
+71068;"2014-12-13 12:56:00";6697;6697;"Peilin Yu";"Peilin Yu";Boshan;China;36.4816666667;117.8322222220;359
+71069;"2014-12-13 13:33:00";5772;5772;"Nianfeng Zhang";"Nianfeng Zhang";"shandongsheng rizhaoshi dujiagoucun";China;35.5772222222;119.1486111110;300
+71070;"2014-12-14 13:55:00";21;21;"Valentin Velkov";"Valentin Velkov";"Bangkok city";Thailand;13.7211111111;100.5775000000;150
+71071;"2014-12-13 15:52:00";943;943;"Longji Bing";"Longji Bing";"PMO Xuyi Station, Huai'an, Jiangsu";China;32.7361111111;118.4758333330;150
+71072;"2014-12-13 17:55:00";943;943;"Longji Bing";"Longji Bing";"PMO Xuyi Station, Huai'an, Jiangsu";China;32.7361111111;118.4758333330;150
+71073;"2014-12-14 12:20:00";85;85;"Shigeo Uchiyama";"Shigeo Uchiyama";"Sakuragawa, Ibaraki";Japan;36.2305555556;140.1055555560;520
+71074;"2014-12-13 20:44:00";214;214;"Koen Miskotte";"Koen Miskotte";Dijkgatsbos;Netherlands;52.8894444444;5.0691666667;0
+71075;"2014-12-14 17:00:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+71076;"2014-12-14 11:00:00";7956;7956;"Adam Marsh";"Adam Marsh";"Esk, Qld";Australia;-27.1547222222;152.2625000000;200
+71077;"2014-12-14 11:00:00";6698;6698;"Michael Royal";"Michael Royal";"Esk, Qld";Australia;-27.1547222222;152.2625000000;200
+71078;"2014-12-14 11:00:00";6699;6699;"James Marsh";"James Marsh";"Esk, Qld";Australia;-27.1547222222;152.2625000000;200
+71079;"2014-12-14 11:00:00";6700;6700;"Jemma Marsh";"Jemma Marsh";"Esk, Qld";Australia;-27.1547222222;152.2625000000;200
+71080;"2014-12-14 13:45:00";6357;6357;"Liangchen Li";"Liangchen Li";dongguan;China;23.0000000000;113.1333333330;0
+71081;"2014-11-13 16:10:00";6062;6062;"Wei Shi";"Wei Shi";"Lingang, Shanghai";China;30.9397222222;121.9650000000;2
+71082;"2014-12-13 13:42:00";6701;6701;"Hong Shen";"Hong Shen";Donghuayuan,Huailai,;China;40.3180555556;115.7236111110;521
+71083;"2014-12-12 19:56:00";5760;5760;"Weizhou Zeng";"Weizhou Zeng";"Longsheng County,Guilin City,Guangxi Chuang Municipality";China;25.8005555556;110.0111111110;260
+71085;"2014-12-13 02:10:00";185;185;"Richard Taibi";"Richard Taibi";"Richard Taibi";"United States";38.4666666667;-76.9833333333;10
+71086;"2014-12-15 03:06:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4105555556;-45.5352777778;838
+71087;"2014-12-14 03:40:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+71088;"2014-12-14 05:45:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+71089;"2014-12-13 18:03:00";6355;6355;"Sina Rezaei";"Sina Rezaei";"Khara - Esfahan";Iran;32.1030555556;52.7166666667;1460
+71090;"2014-12-13 18:03:00";6703;6703;"Mehdi Basiratnia";"Mehdi Basiratnia";"Khara - Esfahan";Iran;32.1030555556;52.7166666667;1460
+71091;"2014-12-15 04:25:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+71092;"2014-12-15 20:42:00";4235;4235;"Sasha Prokofyev";"Sasha Prokofyev";"Kiti, Larnaca";Cyprus;34.8530555556;33.5841666667;0
+71093;"2014-12-13 13:14:00";6704;6704;"Hao Fu";"Hao Fu";Liugou,Yanqing,Beijing;China;40.4419444444;116.0813888890;571
+71094;"2014-12-13 12:30:00";6702;6702;"Bo Geng";"Bo Geng";"Northeast Petroleum University,Daqing,Heilongjiang";China;46.3983333333;126.7266666670;300
+71095;"2014-12-14 06:01:00";4396;4396;"Mileny Roche Lamas";"Mileny Roche Lamas";"Mileny´s Home - Lawton CH";Cuba;23.0955555556;-82.3541666667;24
+71096;"2014-12-14 05:52:00";3100;3100;"Adrian Lelyen";"Adrian Lelyen";"Mileny´s Home - Lawton CH";Cuba;23.0955555556;-82.3541666667;24
+71097;"2014-12-14 05:05:00";7315;7315;"Bruce McCurdy";"Bruce McCurdy";"Highway Ave, Onoway, AB";Canada;53.6936111111;-114.0208333330;700
+71098;"2014-12-13 22:41:00";5542;5542;"Johan Warell";"Johan Warell";"Lindby (K60)";Sweden;55.4219444444;13.5547222222;38
+71099;"2014-12-14 15:58:00";6705;6705;"Junxiang Guo";"Junxiang Guo";"VLBI,Urumqi,Xinjiang, China";China;43.4711111111;87.1780555556;2080
+71100;"2014-12-12 19:55:00";6320;6320;"Klemen Cotar";"Klemen Cotar";Kurescek;Slovenia;45.8872222222;14.5602777778;800
+71101;"2014-12-14 03:08:00";6597;6597;"Adair Cardozo";"Adair Cardozo";Florianopolis;Brazil;-27.5550000000;-48.4958333333;10
+71102;"2014-12-13 15:49:00";6496;6496;"Senbei Du";"Senbei Du";"Mt. Zipeng, Hefei";China;31.7200000000;117.0019444440;0
+71103;"2014-12-14 19:10:00";6706;6706;"Zhiguang Li";"Zhiguang Li";"VLBI,Urumqi,Xinjiang, China";China;43.4711111111;87.1780555556;2080
+71104;"2014-12-14 21:40:00";6581;6581;"Wushuang Chenye";"Wushuang Chenye";"VLBI,Urumqi,Xinjiang, China";China;43.4711111111;87.1780555556;2080
+71105;"2014-12-14 18:50:00";6707;6707;"Iscandar Babur";"Iscandar Babur";"VLBI,Urumqi,Xinjiang, China";China;43.4711111111;87.1780555556;2080
+71106;"2014-12-14 16:00:00";6708;6708;"Jingjing Xiao";"Jingjing Xiao";"VLBI,Urumqi,Xinjiang, China";China;43.4711111111;87.1780555556;2080
+71107;"2014-12-14 21:37:00";7207;7207;"Kai Schultze";"Kai Schultze";Wustermark;Germany;52.5522222222;12.9333333333;35
+71108;"2014-12-14 15:45:00";6709;6709;"Ruiqi Li";"Ruiqi Li";"VLBI,Urumqi,Xinjiang, China";China;43.4711111111;87.1780555556;2080
+71109;"2014-12-14 19:00:00";6710;6710;"Zijian Ding";"Zijian Ding";"VLBI,Urumqi,Xinjiang, China";China;43.4711111111;87.1780555556;2080
+71110;"2014-12-11 20:10:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9777777778;14.1172222222;820
+71111;"2014-12-14 21:30:00";6711;6711;"Yushi Jie";"Yushi Jie";"VLBI,Urumqi,Xinjiang, China";China;43.4711111111;87.1780555556;2080
+71112;"2014-12-14 21:30:00";6712;6712;"Tongxin Jiang";"Tongxin Jiang";"VLBI,Urumqi,Xinjiang, China";China;43.4711111111;87.1780555556;2080
+71113;"2014-12-14 21:30:00";6713;6713;"Zhuoqun Li";"Zhuoqun Li";"VLBI,Urumqi,Xinjiang, China";China;43.4711111111;87.1780555556;2080
+71114;"2014-12-16 04:37:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+71115;"2014-12-14 22:00:00";6714;6714;"Siqi Wu";"Siqi Wu";"VLBI,Urumqi,Xinjiang, China";China;43.4711111111;87.1780555556;2080
+71116;"2014-12-14 21:30:00";6715;6715;"Chenxiao Liu";"Chenxiao Liu";"VLBI,Urumqi,Xinjiang, China";China;43.4711111111;87.1780555556;2080
+71117;"2014-12-14 15:55:00";6716;6716;"Haocheng Yu";"Haocheng Yu";"VLBI,Urumqi,Xinjiang, China";China;43.4711111111;87.1780555556;2080
+71118;"2014-12-15 21:00:00";1322;1322;"Daniel Cosovanu";"Daniel Cosovanu";Arsita;Romania;47.7675000000;25.8400000000;500
+71119;"2014-12-14 18:35:00";6717;6717;"Chenlu Wu";"Chenlu Wu";"VLBI,Urumqi,Xinjiang, China";China;43.4711111111;87.1780555556;2080
+71120;"2014-12-15 21:00:00";1323;1323;"Ilie Cosovanu";"Ilie Cosovanu";Arsita;Romania;47.7675000000;25.8400000000;500
+71121;"2014-12-14 18:40:00";6718;6718;"Kaiyuan Zhang";"Kaiyuan Zhang";"VLBI,Urumqi,Xinjiang, China";China;43.4711111111;87.1780555556;2080
+71122;"2014-12-13 23:30:00";7762;7762;"Sergey Stariy";"Sergey Stariy";Kiev;Ukraine;50.4333333333;30.5166666667;0
+71123;"2014-12-12 16:00:00";3224;3224;"Qiang Ma";"Qiang Ma";Dongtantou,Jinghai,Tianjin;China;38.7763888889;116.8152777780;0
+71124;"2014-12-13 20:55:00";3224;3224;"Qiang Ma";"Qiang Ma";Dongtantou,Jinghai,Tianjin;China;38.7763888889;116.8152777780;0
+71125;"2014-12-15 15:00:00";3224;3224;"Qiang Ma";"Qiang Ma";Dongtantou,Jinghai,Tianjin;China;38.7763888889;116.8152777780;0
+71126;"2014-12-13 16:30:00";486;486;"Anna Levin";"Anna Levin";"Beer Menuha";Israel;30.3083333333;35.1352777778;183
+71127;"2014-12-13 20:10:00";486;486;"Anna Levin";"Anna Levin";"Beer Menuha";Israel;30.3083333333;35.1352777778;183
+71128;"2014-12-29 23:20:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+71129;"2014-11-30 22:50:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+71130;"2014-12-01 23:00:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+71131;"2014-12-02 22:51:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6602777778;-48.5436111111;2
+71132;"2014-12-14 16:50:00";486;486;"Anna Levin";"Anna Levin";"Beer Menuha";Israel;30.3083333333;35.1352777778;183
+71133;"2014-12-13 21:05:00";6719;6719;"Mikael Anderlund";"Mikael Anderlund";Sillesjö;Sweden;55.4500000000;13.4000000000;44
+71134;"2014-12-12 21:18:00";131;131;"Javor Kac";"Javor Kac";"Debelo brdo";Serbia;44.1577777778;19.6866666667;1030
+71135;"2014-12-14 18:15:00";486;486;"Anna Levin";"Anna Levin";"Beer Menuha";Israel;30.3083333333;35.1352777778;183
+71136;"2014-12-17 03:35:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4561111111;12.9711111111;33
+71137;"2014-12-12 21:50:00";6625;6625;"Ivan Stankovic";"Ivan Stankovic";"Debelo Brdo - Valjevo";Serbia;44.0583333333;19.6869444444;1033
+71138;"2014-12-13 20:32:00";1651;1651;"Jaroslaw Dygos";"Jaroslaw Dygos";"CZERNICE BOROWE";Poland;53.0500000000;20.7500000000;150
+71139;"2014-12-12 22:00:00";6626;6626;"Miroslav Zivanovic";"Miroslav Zivanovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+71140;"2014-12-14 11:30:00";6720;6720;"Bright Ye";"Bright Ye";"poyang lake";China;28.9100000000;116.3083333330;128
+71141;"2014-12-12 22:12:00";6209;6209;"Ljubica Grasic";"Ljubica Grasic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+71142;"2014-12-13 03:20:00";7237;7237;"Branislav Savic";"Branislav Savic";"Debelo Brdo - Valjevo";Serbia;44.1586111111;19.6861111111;1033
+71143;"2014-12-13 19:40:00";6625;6625;"Ivan Stankovic";"Ivan Stankovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+71144;"2014-12-17 15:00:00";8294;8294;"Seokhee Cho";"Seokhee Cho";"Sinji-do Jeollanam-do";"South Korea";34.3363888889;126.8283333330;18
+71145;"2014-12-14 16:44:00";6558;6558;"Yogesh Pandey";"Yogesh Pandey";Paud,Pune,Maharashtra;India;18.5202777778;73.6180555556;0
+71146;"2014-12-14 16:44:00";6721;6721;"Vaishnavi Kenjale";"Vaishnavi Kenjale";Paud,Pune,Maharashtra;India;18.5202777778;73.6180555556;0
+71147;"2014-12-14 16:44:00";6563;6563;"Prathamesh Pawar";"Prathamesh Pawar";Paud,Pune,Maharashtra;India;18.5202777778;73.6180555556;0
+71148;"2014-12-12 18:50:00";7413;7413;"Károly Jónás";"Károly Jónás";Tata;Hungary;47.6666666667;18.4000000000;120
+71149;"2014-12-14 22:30:00";8333;8333;"Rafael Neumann";"Rafael Neumann";"Bremen Stadtwaldsee";Germany;53.1119444444;8.8227777778;46
+71150;"2014-12-13 19:25:00";131;131;"Javor Kac";"Javor Kac";"Debelo brdo";Serbia;44.1577777778;19.6866666667;1030
+71151;"2014-12-12 22:10:00";7413;7413;"Károly Jónás";"Károly Jónás";Tata;Hungary;47.6666666667;18.4000000000;120
+71152;"2014-12-13 16:30:00";6722;6722;"Amir Hossein Barati";"Amir Hossein Barati";haresabad;Iran;31.8900000000;52.7705555556;0
+71153;"2014-12-13 20:30:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6333333333;120
+71154;"2014-12-12 23:45:00";1055;1055;"Steven Broos";"Steven Broos";Stokesley;"United Kingdom";54.4791666667;-1.1850000000;70
+71155;"2014-12-14 22:02:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+71156;"2014-12-13 23:40:00";1055;1055;"Steven Broos";"Steven Broos";Stokesley;"United Kingdom";54.4791666667;-1.1850000000;70
+71157;"2014-12-12 18:50:00";3329;3329;"Massino Martini";"Massino Martini";"Avren Village";Bulgaria;43.1200000000;27.6705555556;298
+71158;"2014-12-12 19:20:00";6723;6723;"Gabriela Stoyanova";"Gabriela Stoyanova";"Avren Village";Bulgaria;43.1200000000;27.6705555556;298
+71159;"2014-12-13 18:03:00";6360;6360;"Alireza Akhlaghi";"Alireza Akhlaghi";"khara desert";Iran;32.1027777778;52.7305555556;0
+71160;"2014-12-13 17:40:00";7413;7413;"Károly Jónás";"Károly Jónás";Tata;Hungary;47.6666666667;18.4000000000;120
+71161;"2014-12-18 05:44:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+71162;"2014-12-13 20:00:00";6626;6626;"Miroslav Zivanovic";"Miroslav Zivanovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+71163;"2014-12-13 21:20:00";6626;6626;"Miroslav Zivanovic";"Miroslav Zivanovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+71164;"2014-12-14 00:50:00";6626;6626;"Miroslav Zivanovic";"Miroslav Zivanovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+71165;"2014-12-14 03:30:00";6626;6626;"Miroslav Zivanovic";"Miroslav Zivanovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+71166;"2014-12-14 21:15:00";6626;6626;"Miroslav Zivanovic";"Miroslav Zivanovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+71167;"2014-12-14 22:45:00";6626;6626;"Miroslav Zivanovic";"Miroslav Zivanovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+71168;"2014-12-15 01:30:00";6626;6626;"Miroslav Zivanovic";"Miroslav Zivanovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+71169;"2014-12-12 18:45:00";6724;6724;"Savina Ivanova";"Savina Ivanova";"Avren Village";Bulgaria;43.1200000000;27.6705555556;298
+71170;"2014-12-13 21:00:00";6724;6724;"Savina Ivanova";"Savina Ivanova";"Avren Village";Bulgaria;43.1200000000;27.6705555556;298
+71171;"2014-12-13 19:40:00";6724;6724;"Savina Ivanova";"Savina Ivanova";"Avren Village";Bulgaria;43.1200000000;27.6705555556;298
+71172;"2014-12-12 18:20:00";6724;6724;"Savina Ivanova";"Savina Ivanova";"Avren Village";Bulgaria;43.1200000000;27.6705555556;298
+71173;"2014-12-13 23:25:00";7413;7413;"Károly Jónás";"Károly Jónás";Tata;Hungary;47.6666666667;18.4000000000;120
+71174;"2014-12-13 19:27:00";6209;6209;"Ljubica Grasic";"Ljubica Grasic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+71175;"2014-12-14 21:05:00";6625;6625;"Ivan Stankovic";"Ivan Stankovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+71176;"2014-12-14 21:00:00";6209;6209;"Ljubica Grasic";"Ljubica Grasic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+71177;"2014-12-14 21:00:00";3375;3375;"Allan Matacz";"Allan Matacz";valjevo;Serbia;44.1583333333;19.6869444444;1033
+71178;"2014-12-14 21:00:00";6725;6725;"Andrijana Pekovic";"Andrijana Pekovic";valjevo;Serbia;44.1583333333;19.6869444444;1033
+71179;"2014-12-13 13:40:00";6726;6726;"Haina Huang";"Haina Huang";"Jiangnantianchi,Tianhuangping town,Anji city,Zhejiang province";China;30.4919444444;119.5886111110;900
+71180;"2014-12-12 17:30:00";6727;6727;"Helaleno Zarqan";"Helaleno Zarqan";zarqan;Iran;29.6052777778;52.9969444444;1601
+71181;"2014-12-14 19:00:00";7413;7413;"Károly Jónás";"Károly Jónás";Simonfa;Hungary;46.2666666667;17.7833333333;250
+71182;"2014-12-14 20:45:00";131;131;"Javor Kac";"Javor Kac";"Debelo brdo";Serbia;44.1580555556;19.6866666667;1030
+71183;"2014-12-14 23:50:00";7413;7413;"Károly Jónás";"Károly Jónás";Simonfa;Hungary;46.2666666667;17.7833333333;250
+71184;"2014-12-13 20:38:00";7237;7237;"Branislav Savic";"Branislav Savic";"Debelo Brdo - Valjevo";Serbia;44.1583333333;19.6861111111;1033
+71185;"2014-12-14 02:03:00";7237;7237;"Branislav Savic";"Branislav Savic";"Debelo Brdo - Valjevo";Serbia;44.1586111111;19.6861111111;1033
+71186;"2014-12-14 21:25:00";7237;7237;"Branislav Savic";"Branislav Savic";"Debelo Brdo - Valjevo";Serbia;44.1586111111;19.6861111111;1033
+71187;"2014-12-13 23:19:00";619;619;"Ioan Agavriloaiei";"Ioan Agavriloaiei";Curaturi;Romania;47.0244444444;27.5536111111;119
+71188;"2014-12-22 15:00:00";3255;3255;"Aleksandr S. Maidik";"Aleksandr S. Maidik";Novotroitske;Ukraine;47.7169444444;37.5572222222;175
+71189;"2014-12-23 03:35:00";7315;7315;"Bruce McCurdy";"Bruce McCurdy";"Township Road 554 near Calahoo, AB";Canada;53.7736111111;-113.9525000000;700
+71190;"2014-12-22 21:23:00";3030;3030;"Jens Lacorne";"Jens Lacorne";"Plateau de Calern - Caussols";France;43.7516666667;6.9233333333;1270
+71191;"2014-12-12 21:18:00";7336;7336;"Kristina Veljkovic";"Kristina Veljkovic";"Debelo Brdo, Valjevo";Macedonia;44.1583333333;19.6922222222;1050
+71192;"2014-12-13 19:27:00";7336;7336;"Kristina Veljkovic";"Kristina Veljkovic";"Debelo Brdo, Valjevo";Macedonia;44.1583333333;19.6922222222;1050
+71193;"2014-12-14 00:13:00";7336;7336;"Kristina Veljkovic";"Kristina Veljkovic";"Debelo brdo - Valjevo";Serbia;44.1588888889;19.6922222222;1033
+71194;"2014-12-14 20:51:00";7336;7336;"Kristina Veljkovic";"Kristina Veljkovic";"Debelo Brdo, Valjevo";Macedonia;44.1583333333;19.6922222222;1050
+71195;"2014-12-14 18:00:00";6728;6728;"Bhavna Gupta";"Bhavna Gupta";"KHOPI, PUNE";India;18.3202777778;73.8525000000;552
+71196;"2014-12-15 01:40:00";7336;7336;"Kristina Veljkovic";"Kristina Veljkovic";"Debelo Brdo, Valjevo";Macedonia;44.1583333333;19.6922222222;1050
+71197;"2014-12-14 18:00:00";6729;6729;"Sayli Patil";"Sayli Patil";"KHOPI, PUNE";India;18.3202777778;73.8525000000;552
+71198;"2014-12-14 18:00:00";6730;6730;"Tilak Pawar";"Tilak Pawar";"KHOPI, PUNE";India;18.3202777778;73.8527777778;552
+71199;"2014-12-22 18:40:00";6283;6283;"Pavel Zhavoronkov";"Pavel Zhavoronkov";Kichi-Balyk;Russia;43.9130555556;42.7225000000;1600
+71200;"2014-12-23 00:30:00";2330;2330;"Dilyan Hristov";"Dilyan Hristov";"Hizha Tintyava";Bulgaria;42.6188888889;23.2605555556;1603
+71201;"2014-12-23 00:37:00";6692;6692;"Kalina Stoimenova";"Kalina Stoimenova";"Hizha Tintyava";Bulgaria;42.6188888889;23.2605555556;1603
+71202;"2014-12-14 04:00:00";4405;4405;"Miguel Rodriguez";"Miguel Rodriguez";"Teide Observatory";Spain;28.3011111111;-16.5108333333;2392
+71203;"2014-12-26 04:18:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+71204;"2014-12-22 19:40:00";477;477;"Mirco Saner";"Mirco Saner";"CH-4715 Herbetswil";Switzerland;47.2950000000;7.5886111111;524
+71205;"2014-12-12 20:04:00";6731;6731;"Ali Amiri";"Ali Amiri";Radkan;Iran;36.7963888889;59.0427777778;1201
+71206;"2014-12-23 19:45:00";477;477;"Mirco Saner";"Mirco Saner";"Harzberg / Malsenberg (Kanton BE)";Switzerland;47.2916666667;7.5091666667;1100
+71207;"2014-12-26 21:10:00";210;210;"Ina Rendtel";"Ina Rendtel";"Mirador Los Roques, Teide, Teneriffa";Spain;28.2233333333;-16.6302777778;2200
+71208;"2014-12-13 16:05:00";4565;4565;"Tomoko Sato";"Tomoko Sato";"Ito city, Shizuoka pref.";Japan;34.9380555556;139.1316666670;0
+71209;"2014-12-14 11:00:00";4565;4565;"Tomoko Sato";"Tomoko Sato";"Ito city, Shizuoka pref.";Japan;34.9380555556;139.1316666670;0
+71210;"2014-12-13 17:35:00";492;492;"Mikiya Sato";"Mikiya Sato";"Ito city, Shizuoka pref.";Japan;34.9380555556;139.1316666670;0
+71211;"2014-12-14 11:30:00";492;492;"Mikiya Sato";"Mikiya Sato";"Ito city, Shizuoka pref.";Japan;34.9380555556;139.1316666670;0
+71212;"2014-12-13 16:35:00";5098;5098;"Kazumi Terakubo";"Kazumi Terakubo";"Ito city, Shizuoka pref.";Japan;34.9380555556;139.1316666670;0
+71213;"2014-12-14 12:30:00";5098;5098;"Kazumi Terakubo";"Kazumi Terakubo";"Ito city, Shizuoka pref.";Japan;34.9380555556;139.1316666670;0
+71214;"2014-12-13 17:05:00";4646;4646;"Hideki Seo";"Hideki Seo";"Ito city, Shizuoka pref.";Japan;34.9380555556;139.1316666670;0
+71215;"2014-12-14 12:00:00";4646;4646;"Hideki Seo";"Hideki Seo";"Ito city, Shizuoka pref.";Japan;34.9380555556;139.1316666670;0
+71216;"2014-12-14 13:00:00";6732;6732;"Yukihiro Iyama";"Yukihiro Iyama";"Ito city, Shizuoka pref.";Japan;34.9380555556;139.1316666670;0
+71217;"2014-12-22 16:00:00";492;492;"Mikiya Sato";"Mikiya Sato";"Fujikawaguchiko town Yamanasi pref.";Japan;35.4066666667;138.6430555560;1130
+71218;"2014-12-22 19:30:00";4565;4565;"Tomoko Sato";"Tomoko Sato";"Fujikawaguchiko town Yamanasi pref.";Japan;35.4066666667;138.6430555560;1130
+71219;"2014-12-22 18:00:00";5098;5098;"Kazumi Terakubo";"Kazumi Terakubo";"Fujikawaguchiko town Yamanasi pref.";Japan;35.4066666667;138.6430555560;1130
+71220;"2014-12-22 19:00:00";4646;4646;"Hideki Seo";"Hideki Seo";"Fujikawaguchiko town Yamanasi pref.";Japan;35.4066666667;138.6430555560;1130
+71221;"2014-12-12 19:50:00";22;22;"Ivanka Getsova-Momcheva";"Ivanka Getsova-Momcheva";"Avren Village";Bulgaria;43.1200000000;27.6705555556;298
+71222;"2014-12-13 18:20:00";22;22;"Ivanka Getsova-Momcheva";"Ivanka Getsova-Momcheva";"Avren Village";Bulgaria;43.1200000000;27.6705555556;298
+71223;"2014-12-28 02:00:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.3333333333;5.6666666667;1
+71224;"2014-12-19 07:23:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+71225;"2014-12-20 06:38:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+71226;"2014-12-21 06:38:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+71227;"2014-12-25 06:44:00";418;418;"Terrence Ross";"Terrence Ross";Alpine,Texas;"United States";30.2766666667;-103.5961111110;1621
+71229;"2014-12-15 03:26:00";1713;1713;"Craig Ewing";"Craig Ewing";"Tierra del Sol";"United States";32.6133333333;-116.3319444440;1113
+71232;"2014-12-26 21:20:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+71240;"2014-12-13 17:45:00";6111;6111;"Akshay Khachane";"Akshay Khachane";"Akshay's Residence";India;19.3441666667;72.8019444444;10
+71241;"2014-12-14 17:45:00";6111;6111;"Akshay Khachane";"Akshay Khachane";"Akshay's Residence";India;19.3441666667;72.8019444444;10
+71245;"2014-08-18 22:40:00";7289;7289;"Pedro Pérez Corujo";"Pedro Pérez Corujo";"Garañón, Gran Canaria";Spain;27.9691666667;15.5872222222;1700
+71246;"2014-12-14 03:06:00";7289;7289;"Pedro Pérez Corujo";"Pedro Pérez Corujo";"Tejeda, Gran Canaria";Spain;27.1333333333;-15.6000000000;1643
+71247;"2014-12-16 02:10:00";7289;7289;"Pedro Pérez Corujo";"Pedro Pérez Corujo";"Maspalomas (gc)";Spain;27.7500000000;-15.5666666667;0
+71248;"2014-12-22 02:10:00";7289;7289;"Pedro Pérez Corujo";"Pedro Pérez Corujo";"Maspalomas (gc)";Spain;27.7500000000;-15.5666666667;0
+71251;"2014-12-13 14:49:00";6168;6168;"Bingqi Tong";"Bingqi Tong";"Xiangshan, Beijing";China;39.9950000000;116.1647222220;370
+71253;"2014-11-27 22:35:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg-wieblinge;Germany;49.4302777778;8.6491666667;106
+71256;"2014-12-15 21:11:00";2211;2211;"Vilem Heblik";"Vilem Heblik";JEZBORICE;Czechia;49.9786111111;15.6941666667;265
+71257;"2014-12-13 18:25:00";6723;6723;"Gabriela Stoyanova";"Gabriela Stoyanova";"Avren Village";Bulgaria;43.1200000000;27.6705555556;298
+71260;"2014-12-19 22:00:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ellezelles;Belgium;50.7166666667;3.6000000000;120
+71397;"2014-10-19 00:45:00";7289;7289;"Pedro Pérez Corujo";"Pedro Pérez Corujo";"Llanos del Garañón. Gran Canaria.";Spain;27.9686111111;-15.5888888889;1700
+71773;"2014-08-12 21:00:00";804;804;"Petra Rendtel";"Petra Rendtel";Herford;Germany;52.1236111111;8.7016666667;121
+71783;"2014-08-12 23:00:00";804;804;"Petra Rendtel";"Petra Rendtel";Herford;Germany;52.1236111111;8.7016666667;121
+72842;"2014-08-04 23:05:00";115;115;"Thomas Weiland";"Thomas Weiland";Atzelsdorf;Austria;48.5083333333;16.5530555556;220
+72843;"2014-08-17 20:15:00";115;115;"Thomas Weiland";"Thomas Weiland";Atzelsdorf;Austria;48.5083333333;16.5530555556;220
+72844;"2014-10-18 22:15:00";115;115;"Thomas Weiland";"Thomas Weiland";Kleingöttfritz;Austria;48.4772222222;15.1433333333;800
+74045;"2014-12-28 02:40:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563900000;12.9708300000;34
+74047;"2014-12-26 21:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4563900000;12.9708300000;34
+75266;"2014-02-03 23:57:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75267;"2014-02-05 02:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75268;"2014-02-08 01:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75269;"2014-02-10 03:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75270;"2014-02-24 01:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75271;"2014-02-25 20:10:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75272;"2014-03-03 01:06:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75273;"2014-03-09 01:05:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75274;"2014-03-27 01:05:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75275;"2014-05-20 22:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75276;"2014-05-29 02:45:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+75277;"2014-05-30 02:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+75278;"2014-05-31 02:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+75279;"2014-06-01 00:40:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+75280;"2014-06-02 02:05:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+75281;"2014-06-03 01:55:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+75282;"2014-06-22 22:28:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75283;"2014-06-23 22:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75284;"2014-06-26 22:24:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75285;"2014-07-02 22:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75286;"2014-07-03 22:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75287;"2014-08-27 23:45:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75288;"2014-09-03 23:55:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75289;"2014-09-06 00:25:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75290;"2014-09-16 23:50:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75291;"2014-09-28 01:40:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75292;"2014-10-04 02:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75293;"2014-10-06 19:55:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+75294;"2014-10-08 19:50:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+75295;"2014-10-09 19:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+75296;"2014-10-11 20:05:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+75297;"2014-10-13 20:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+75298;"2014-11-17 01:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Potsdam;Germany;52.4565337898;12.9708741108;35
+75299;"2014-12-20 19:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Rerik;Germany;54.1052617140;11.6075993522;1
+76013;"2014-12-02 01:15:00";8022;8022;"Pierre Martin";"Pierre Martin";Wendover;Canada;45.5680000000;-75.0920000000;50
+79990;"2014-06-06 00:13:00";7205;82;"Pierre Bader";"Jurgen Rendtel";Höchberg;Germany;49.7833333333;9.8833333333;285
+79999;"2014-06-06 23:30:00";7205;82;"Pierre Bader";"Jurgen Rendtel";Höchberg;Germany;49.7833333333;9.8833333333;285
+80019;"2014-06-25 22:25:00";7205;82;"Pierre Bader";"Jurgen Rendtel";Höchberg;Germany;49.7833333333;9.8833333333;285
+80020;"2014-06-26 23:15:00";7205;82;"Pierre Bader";"Jurgen Rendtel";Höchberg;Germany;49.7833333333;9.8833333333;285
+80025;"2014-04-26 01:00:00";7205;82;"Pierre Bader";"Jurgen Rendtel";Höchberg;Germany;49.7833333333;9.8833333333;285
+80026;"2014-04-30 00:35:00";7205;82;"Pierre Bader";"Jurgen Rendtel";Höchberg;Germany;49.7833333333;9.8833333333;285
