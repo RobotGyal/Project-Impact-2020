@@ -392,8 +392,8 @@
         </view>
         <style>
           <style-rule element='axis'>
-            <encoding attr='space' class='0' field='[federated.0io9e5v0ivr1i815hy5n71c422uk].[Longitude (generated)]' field-type='quantitative' max='20656428.152067915' min='-19668464.806468602' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
-            <encoding attr='space' class='0' field='[federated.0io9e5v0ivr1i815hy5n71c422uk].[Latitude (generated)]' field-type='quantitative' max='14700963.00992012' min='-10926071.857319945' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+            <encoding attr='space' class='0' field='[federated.0io9e5v0ivr1i815hy5n71c422uk].[Longitude (generated)]' field-type='quantitative' max='18664779.638227794' min='-16223725.795285968' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.0io9e5v0ivr1i815hy5n71c422uk].[Latitude (generated)]' field-type='quantitative' max='11439130.483469969' min='-10733003.888464643' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
           </style-rule>
           <style-rule element='mark'>
             <encoding attr='color' field='[federated.0io9e5v0ivr1i815hy5n71c422uk].[sum:Elevation:qk]' num-steps='10' palette='tableau-map-temperatur' type='interpolated' />
@@ -808,7 +808,7 @@
       </cards>
       <simple-id uuid='{308864D5-4148-43ED-BCB4-ABB2C6A28973}' />
     </window>
-    <window class='worksheet' name='year and country count'>
+    <window class='worksheet' maximized='true' name='year and country count'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -930,7 +930,7 @@
       </cards>
       <simple-id uuid='{85FAF953-FEE4-403C-AF7B-0DD276267CFB}' />
     </window>
-    <window class='worksheet' maximized='true' name='count per month (2)'>
+    <window class='worksheet' name='count per month (2)'>
       <cards>
         <edge name='left'>
           <strip size='160'>
