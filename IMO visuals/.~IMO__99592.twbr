@@ -780,7 +780,7 @@
     </dashboard>
   </dashboards>
   <windows source-height='30'>
-    <window class='worksheet' name='map location'>
+    <window class='worksheet' maximized='true' name='map location'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -805,10 +805,15 @@
             <card pane-specification-id='0' param='[federated.0io9e5v0ivr1i815hy5n71c422uk].[sum:Elevation:qk]' type='color' />
           </strip>
         </edge>
+        <edge name='bottom'>
+          <strip size='94'>
+            <card type='caption' />
+          </strip>
+        </edge>
       </cards>
       <simple-id uuid='{308864D5-4148-43ED-BCB4-ABB2C6A28973}' />
     </window>
-    <window class='worksheet' maximized='true' name='year and country count'>
+    <window class='worksheet' name='year and country count'>
       <cards>
         <edge name='left'>
           <strip size='160'>
