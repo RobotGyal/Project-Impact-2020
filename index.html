@@ -5,149 +5,182 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-	<head>
-		<title>Project Impact</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-	</head>
-	<body class="is-preload">
 
-		<!-- Wrapper -->
-			<div id="wrapper" class="fade-in">
+<head>
+	<title>Project Impact</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<link rel="stylesheet" href="assets/css/main.css" />
+	<noscript>
+		<link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+</head>
 
-				<!-- Intro -->
-					<div id="intro">
-						<h1>Project Impact</h1>
-						<p>This project is to analyze meteor datasets to find frequency, location patterns, and impact. </p>
-						<ul class="actions">
-							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
-						</ul>
-					</div>
+<body class="is-preload">
 
-				<!-- Header -->
-					<header id="header">
-						<a href="index.html" class="logo">Project Impact</a>
+	<!-- Wrapper -->
+	<div id="wrapper" class="fade-in">
+
+		<!-- Intro -->
+		<div id="intro">
+			<h1>Project Impact</h1>
+			<p>This project is to analyze meteor datasets to find frequency, location patterns, and impact. </p>
+			<ul class="actions">
+				<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+			</ul>
+		</div>
+
+		<!-- Header -->
+		<header id="header">
+			<a href="index.html" class="logo">Project Impact</a>
+		</header>
+
+		<!-- Nav -->
+		<nav id="nav">
+			<ul class="links">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="research.html">Research</a></li>
+				<li><a href="visuals.html">Visuals</a></li>
+				<li><a href="jupyter.html">Jupyter Notebooks</a></li>
+				<li><a href="ml.html">Machine Learning</a></li>
+				<li><a href="reference.html">Reference</a></li>
+			</ul>
+			<ul class="icons">
+				<li><a href="http://www.instagram.com/robotgyal" class="icon brands fa-instagram"><span
+							class="label">Instagram</span></a></li>
+				<li><a href="https://github.com/RobotGyal/Project-Impact-2020" class="icon brands fa-github"><span
+							class="label">GitHub</span></a></li>
+				<li><a href="http://www.linkedin.com/in/aleiaknight" class="icon brands fa-linkedin"><span
+							class="label">GitHub</span></a></li>
+
+			</ul>
+		</nav>
+
+
+		<!-- Main -->
+		<div id="main">
+
+			<!-- Post -->
+			<section class="post">
+				<header class="major">
+					<span class="date">August 2020</span>
+					<h1>A story</h1>
+					<hr>
+					<p>Motivation</p>
+				</header>
+
+				<p>Shooting Stars are a marvel that many are raised to believe are a rare and almost supernatural event.
+					It's turns out however that these balls of fire in the sky, are not as rare as many
+					believe.<br /><br />
+					This project was created partially as a response to that. <br /><br />
+					It's purpose is to delve in to the data of fireballs and meteorites, to provide a more realistic
+					expectation of these cosmic occurances and provide insight as to the locations on Earth that have
+					the most impacts and how much thtat impact will affect the surrounding area.</p>
+
+
+				<hr>
+				<header class="major">
+					<p>Journey</p>
+				</header>
+				<p>The first step in the process was deciding on tasks and asking questions to be found during this
+					process. <br /><br />
+					Tasks<ul>
+						<li>Find hotspots for meteorite impacts</li>
+						<li>Calculate impact crater size</li>
+					</ul>
+					Questions<ul>
+						<li>What time of year has the most impacts?</li>
+						<li>What is the average mass of meteors?</li>
+						<li>Are there more impacts around the equators or the poles?</li>
+						<li>How many meteors fell in important years (birth year(1995), Y2K, 2008(Obama), 2020(Now)?
+						</li>
+					</ul>
+
+					From there the next step was finding the data to support these steps. <br />
+					I started by conducting EDA (Exploratory Data Analysis) on the <a href='reference.html'>NASA
+						Meteorite dataset</a> using the Python language and Jupyter Notebook, a popular tool for data
+					science. The data contained approx. 46,000 rows of data including: unique names, meteor
+					classifications, locations, fall vs. fallen, and mass.
+					<br /><br />
+					At this point I realized that one dataset was not going to be sufficient, so I found and used the <a
+						href='reference.html'>IMO dataset</a> to take a different perspective.<br />
+					While it did contain less unique meteorite data (approx. 43,000), it did contain information
+					including: Observer ID, Report date, location, and elevation. This allowed for a comparison between
+					the 2 datasets and also to explore other perspectives.
+					<br /><br />
+					Once the 23 datasets were analysed on a basic level, the process of answering the questions began.
+					The main 2 focuses on figuring out the size of hte impact crater and to find any pattern sin the
+					geolocation and time of year.
+					<hr>
+					<header class="major">
+						<p>Obstacles and Solutions</p>
+
+					</header>
+					<p>Every project contains a certain level of error and unexpected difficulties.</p>
+					<p>
+						<ul>
+							<em>The first problem was to find the formulas for the impact crater.</em><br /><br />
+							<li>The proceess began off simply (see formulas <a href='research.html'> here</a>), but the
+								main issue came up when the Cosmic Velocity (speed) needed to be found. That number is
+								crucial for calculating the Final Velocity (vf) and Kinetic Energy (KE) of meteors above
+								a certain size. <br /></li>
+							<li>My research was not asble to find or calucate a certain, or agreed upon number, so the
+								impact velocity is currently not calucated.
+								<br /><br />
+								<em>The second main problem noticing many of the locations from the NASA centers
+									themselves.</em><br /><br />
+							<li>While this does still show a certain level of location data, the meteors that were
+								observed falling (fall) were given the location of the center in while it was seen.
+							</li>
+							<li>The way of handling this was to take in another dataset to compare location data.</li>
+							<li>Also realizing that the meteors that are seen falling in the sky cannot have a exact
+								location, so their locations can only be approximate.</li>
+
+					</p>
+
+
+					<hr>
+
+
+
+					<header class="major">
+						<p>Conclusions</p>
 					</header>
 
-				<!-- Nav -->
-					<nav id="nav">
-						<ul class="links">
-							<li><a href="index.html">Home</a></li>
-							<li><a href="research.html">Research</a></li>
-							<li><a href="visuals.html">Visuals</a></li>
-							<li><a href="jupyter.html">Jupyter Notebooks</a></li>
-							<li><a href="reference.html">Reference</a></li>
-						</ul>
-						<ul class="icons">
-							<li><a href="http://www.instagram.com/robotgyal" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-							<li><a href="https://github.com/RobotGyal/Project-Impact-2020" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
-							<li><a href="http://www.linkedin.com/in/aleiaknight" class="icon brands fa-linkedin"><span class="label">GitHub</span></a></li>
-
-						</ul>
-					</nav>
-
-
-				<!-- Main -->
-					<div id="main">
-
-						<!-- Post -->
-							<section class="post">
-								<header class="major">
-									<span class="date">August 2020</span>
-									<h1>A story</h1>
-									<hr>
-									<p>Motivation</p>
-																						</header>
-	
-								<p>Shooting Stars are a marvel that many are raised to believe are a rare and almost supernatural event.
-								It's turns out however that these balls of fire in the sky, are not as rare as many believe.<br /><br />
-								This project was created partially as a response to that. <br /><br />
-								It's purpose is to delve in to the data of fireballs and meteorites, to provide a more realistic expectation of these cosmic occurances and provide insight as to the locations on Earth that have the most impacts and how much thtat impact will affect the surrounding area.</p>
-							
-							
-<hr>
-								<header class="major">
-									<p>Journey</p>
-								</header>
-								<p>The first step in the process was deciding on tasks and asking questions to be found during this process. <br /><br />
-								Tasks<ul>
-								<li>Find hotspots for meteorite impacts</li>
-								<li>Calculate impact crater size</li>
-								</ul>
-								Questions<ul>
-								<li>What time of year has the most impacts?</li>
-								<li>What is the average mass of meteors?</li>
-								<li>Are there more impacts around the equators or the poles?</li>
-								<li>How many meteors fell in important years (birth year(1995), Y2K, 2008(Obama), 2020(Now)?</li>
-								</ul>
-
-								From there the next step was finding the data to support these steps. <br />
-								I started by conducting EDA (Exploratory Data Analysis) on the <a href='reference.html'>NASA Meteorite dataset</a> using the Python language and Jupyter Notebook, a popular tool for data science. The data contained approx. 46,000 rows of data including: unique names, meteor classifications, locations, fall vs. fallen, and mass. 
-								<br /><br />
-								At this point I realized that one dataset was not going to be sufficient, so I found and used the <a href='reference.html'>IMO dataset</a> to take a different perspective.<br />
-								While it did contain less unique meteorite data (approx. 43,000), it did contain information including: Observer ID, Report date, location, and elevation. This allowed for  a comparison between the 2 datasets and also to explore other perspectives. 
-								<br /><br /> 
-								Once the 23 datasets were analysed on a basic level, the process of answering the questions began. The main 2 focuses on figuring out the size of hte impact crater and to find any pattern sin the geolocation and time of year. 
-<hr>
-						<header class="major">
-									<p>Obstacles and Solutions</p>
-									
-																						</header>
-	<p>Every project contains a certain level of error and unexpected difficulties.</p>
-								<p><ul>
-								<em>The first problem was to find the formulas for the impact crater.</em><br /><br /> 
-								<li>The proceess began off simply (see formulas <a href='research.html'> here</a>), but the main issue came up when the Cosmic Velocity (speed) needed to be found. That number is crucial for calculating the Final Velocity (vf) and Kinetic Energy (KE) of meteors above a certain size. <br /></li>
-								<li>My research was not asble to find or calucate a certain, or agreed upon number, so the impact velocity is currently not calucated.
-								<br /><br />
-							<em>The second main problem noticing many of the locations from the NASA centers themselves.</em><br /><br />
-								<li>While this does still show a certain level of location data, the meteors that were observed falling (fall) were given the location of the center in while it was seen. </li>
-								<li>The way of handling this was to take in another dataset to compare location data.</li>
-								<li>Also realizing that the meteors that are seen falling in the sky cannot have a exact location, so their locations can only be approximate.</li>
-
-								</p>
-
-
-<hr>
-
-
-
-<header class="major">
-									<p>Conclusions</p>
-																						</header>
-	
-								<p>
-								...
-								</p>
+					<p>
+						...
+					</p>
 
 
 
 
 
 
-							</section>
-					</div>
+			</section>
+		</div>
 
 
 
 
 
-				<!-- Copyright -->
-					<div id="copyright">
-						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
-					</div>
+		<!-- Copyright -->
+		<div id="copyright">
+			<ul>
+				<li>&copy; Untitled</li>
+				<li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+			</ul>
+		</div>
 
-			</div>
+	</div>
 
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+	<!-- Scripts -->
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/jquery.scrollex.min.js"></script>
+	<script src="assets/js/jquery.scrolly.min.js"></script>
+	<script src="assets/js/browser.min.js"></script>
+	<script src="assets/js/breakpoints.min.js"></script>
+	<script src="assets/js/util.js"></script>
+	<script src="assets/js/main.js"></script>
 
-	</body>
+</body>
+
 </html>
