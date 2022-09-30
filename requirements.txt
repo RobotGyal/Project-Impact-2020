@@ -7,7 +7,7 @@ Fiona==1.8.13.post1
 geographiclib==1.50
 geopandas==0.7.0
 geopy==1.22.0
-joblib==0.15.1
+joblib==1.2.0
 kiwisolver==1.2.0
 matplotlib==3.2.1
 munch==2.5.0
